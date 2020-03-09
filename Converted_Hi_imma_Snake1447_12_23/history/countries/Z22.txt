@@ -1,0 +1,26 @@
+# Samos
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2348
+1435.6.25 = {
+	monarch = {
+		name = "Ioannes"
+		birth_date = 1392.7.3
+		dynasty = "StepOnTaxes"
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 2348
+	add_treasury = 125
+	add_prestige = 552
+}

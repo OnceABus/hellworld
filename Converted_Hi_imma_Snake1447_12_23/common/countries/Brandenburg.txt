@@ -1,0 +1,244 @@
+# Brandenburg
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 123 90 90 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+	innovativeness_ideas
+	quantity_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	prussian_frederickian
+	prussian_uhlan
+	prussian_drill
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Tamás" "Richwara" "Jutta" "Binhilde" "Helferich" "Gerhild" "Adelinde" "Richenza" "Wenzel" "Ida" 
+	"Etel" "Sándor" "Máté" "Irén" "Csilla" "Balázs" "Tihana" "Petra" "Vedrana" "Hajnal" 
+	"Visnja" "Grigorii" "Tvrtko" "Helena" "Tomislav" "Sulvan" "Mechthild" "Hildeburg" "Ehrenfried" "Arnulf" 
+	"Udalrich" "Berchte" "Berengar" "Burchard" "Sofie" "Matiya" "Folkhard" "Hugo" "Helene" "Sieghard" 
+	"Dieter" "Kunigunde" "Guntram" "Oda" "Emma" "Alberade" "Ekkehard" "Klara" "Andreas" "Wigerich" 
+	"Richara" "Dietpold" "Wilhelm" "Jakob" "Günther" "Manegold" "Beatrix" "Milyduch" "Czimislav" "Zistisbor" 
+	"Bjarnat" "Tugumir" "Gero" "Dietrich" "Odo" "Lothar" "Werner" "Bernhard" "Lothar-Udo" "Heinrich" 
+	"Giselbert" "Heribert" "Eugenius" "Alfhild" "Ferruccio" "Ausilio" "Adalberto" "Otokar" "Ausonia" "Salvatore" 
+	"Claudia" "Adalbero" "Adalbert" "Adalhard" "Adam" "Ademar" "Adolf" "Alarich" "Alberich" "Albrecht" 
+	"Aldrich" "Alois" "Amadeus" "Amalrich" "Anselm" "Arnold" "Augustin" "Baldarich" "Baldewin" "Baldomar" 
+	"Baldur" "Berthold" "Dietmar" "Dietwin" "Eberhard" "Eginolf" "Ekbert" "Emelrich" "Emich" "Emmerich" 
+	"Engelbert" "Erich" "Ernst" "Ferdinand" "Filibert" "Folkmar" "Franz" "Friedrich" "Gautselin" "Gebhard" 
+	"Georg" "Gerhard" "Gerlach" "Gottfried" "Gotthard" "Gottschalk" "Gotzelo" "Gunzelin" "Hartmann" "Hartwig" 
+	"Hermann" "Hesso" "Humbert" "Hupold" "Johann" "Jürgen" "Karl" "Karlmann" "Kaspar" "Konrad" 
+	"Kuno" "Lambert" "Landolf" "Leopold" "Liudolf" "Liutbert" "Liutbrand" "Liutpold" "Ludolf" "Ludwig" 
+	"Lutbert" "Manfred" "Markward" "Matthias" "Meinhard" "Nikolaus" "Norbert" "Otto" "Philipp" "Poppo" 
+	"Radbot" "Reinhard" "Reinhold" "Rudolf" "Ruprecht" "Rutger" "Siegfried" "Siegmund" "Sigismund" "Stefan" 
+	"Theodorich" "Thietmar" "Ulrich" "Viktor" "Waldemar" "Walram" "Walther" "Welf" "Wido" "Wolfgang" 
+	"Wolfram" }
+monarch_names = {
+	"Tamás #0" = 1
+	"Richwara #0" = -1
+	"Jutta #0" = -1
+	"Binhilde #0" = -1
+	"Helferich #0" = 1
+	"Gerhild #2" = -19
+	"Adelinde #0" = -1
+	"Richenza #1" = -19
+	"Wenzel #0" = 1
+	"Ida #0" = -1
+	"Etel #0" = -1
+	"Sándor #0" = 1
+	"Máté #0" = 1
+	"Irén #0" = -1
+	"Csilla #0" = -1
+	"Balázs #0" = 1
+	"Tihana #0" = -1
+	"Petra #0" = -1
+	"Vedrana #0" = -1
+	"Hajnal #0" = -1
+	"Visnja #0" = -1
+	"Grigorii #0" = 1
+	"Tvrtko #0" = 1
+	"Helena #0" = -1
+	"Tomislav #0" = 1
+	"Sulvan #0" = 1
+	"Mechthild #0" = -1
+	"Hildeburg #0" = -1
+	"Ehrenfried #0" = 1
+	"Arnulf #0" = 1
+	"Udalrich #0" = 1
+	"Berchte #0" = -1
+	"Berengar #0" = 1
+	"Burchard #0" = 1
+	"Sofie #0" = -1
+	"Matiya #0" = 1
+	"Folkhard #0" = 1
+	"Hugo #0" = 1
+	"Helene #0" = -1
+	"Sieghard #0" = 1
+	"Dieter #0" = 1
+	"Kunigunde #0" = -1
+	"Guntram #0" = 1
+	"Oda #0" = -1
+	"Emma #0" = -1
+	"Alberade #0" = -1
+	"Ekkehard #0" = 1
+	"Klara #0" = -1
+	"Andreas #2" = 18
+	"Wigerich #0" = 1
+	"Richara #0" = -1
+	"Dietpold #0" = 1
+	"Wilhelm #1" = 18
+	"Jakob #1" = 18
+	"Günther #0" = 1
+	"Manegold #1" = 18
+	"Beatrix #0" = -1
+	"Milyduch #1" = 0
+	"Czimislav #1" = 0
+	"Zistisbor #1" = 0
+	"Bjarnat #1" = 0
+	"Tugumir #1" = 0
+	"Gero #1" = 0
+	"Dietrich #1" = 0
+	"Odo #1" = 0
+	"Lothar #2" = 0
+	"Werner #1" = 0
+	"Bernhard #2" = 0
+	"Lothar-Udo #2" = 0
+	"Heinrich #1" = 0
+	"Giselbert #1" = 0
+	"Heribert #1" = 0
+	"Eugenius #1" = 0
+	"Alfhild #1" = -1
+	"Ferruccio #1" = 0
+	"Ausilio #2" = 0
+	"Adalberto #1" = 0
+	"Otokar #1" = 0
+	"Ausonia #1" = -1
+	"Salvatore #1" = 0
+	"Claudia #1" = -1
+	"Adalbero #0" = 0
+	"Adalbert #0" = 0
+	"Adalhard #0" = 0
+	"Adam #0" = 0
+	"Ademar #0" = 0
+	"Adolf #0" = 0
+	"Alarich #0" = 0
+	"Alberich #0" = 0
+	"Albrecht #0" = 0
+	"Aldrich #0" = 0
+	"Alois #0" = 0
+	"Amadeus #0" = 0
+	"Amalrich #0" = 0
+	"Anselm #0" = 0
+	"Arnold #0" = 0
+	"Augustin #0" = 0
+	"Baldarich #0" = 0
+	"Baldewin #0" = 0
+	"Baldomar #0" = 0
+	"Baldur #0" = 0
+	"Berthold #0" = 0
+	"Dietmar #0" = 0
+	"Dietwin #0" = 0
+	"Eberhard #0" = 0
+	"Eginolf #0" = 0
+	"Ekbert #0" = 0
+	"Emelrich #0" = 0
+	"Emich #0" = 0
+	"Emmerich #0" = 0
+	"Engelbert #0" = 0
+	"Erich #0" = 0
+	"Ernst #0" = 0
+	"Ferdinand #0" = 0
+	"Filibert #0" = 0
+	"Folkmar #0" = 0
+	"Franz #0" = 0
+	"Friedrich #0" = 0
+	"Gautselin #0" = 0
+	"Gebhard #0" = 0
+	"Georg #0" = 0
+	"Gerhard #0" = 0
+	"Gerlach #0" = 0
+	"Gottfried #0" = 0
+	"Gotthard #0" = 0
+	"Gottschalk #0" = 0
+	"Gotzelo #0" = 0
+	"Gunzelin #0" = 0
+	"Hartmann #0" = 0
+	"Hartwig #0" = 0
+	"Hermann #0" = 0
+	"Hesso #0" = 0
+	"Humbert #0" = 0
+	"Hupold #0" = 0
+	"Johann #0" = 0
+	"Jürgen #0" = 0
+	"Karl #0" = 0
+	"Karlmann #0" = 0
+	"Kaspar #0" = 0
+	"Konrad #0" = 0
+	"Kuno #0" = 0
+	"Lambert #0" = 0
+	"Landolf #0" = 0
+	"Leopold #0" = 0
+	"Liudolf #0" = 0
+	"Liutbert #0" = 0
+	"Liutbrand #0" = 0
+	"Liutpold #0" = 0
+	"Ludolf #0" = 0
+	"Ludwig #0" = 0
+	"Lutbert #0" = 0
+	"Manfred #0" = 0
+	"Markward #0" = 0
+	"Matthias #0" = 0
+	"Meinhard #0" = 0
+	"Nikolaus #0" = 0
+	"Norbert #0" = 0
+	"Otto #0" = 0
+	"Philipp #0" = 0
+	"Poppo #0" = 0
+	"Radbot #0" = 0
+	"Reinhard #0" = 0
+	"Reinhold #0" = 0
+	"Rudolf #0" = 0
+	"Ruprecht #0" = 0
+	"Rutger #0" = 0
+	"Siegfried #0" = 0
+	"Siegmund #0" = 0
+	"Sigismund #0" = 0
+	"Stefan #0" = 0
+	"Theodorich #0" = 0
+	"Thietmar #0" = 0
+	"Ulrich #0" = 0
+	"Viktor #0" = 0
+	"Waldemar #0" = 0
+	"Walram #0" = 0
+	"Walther #0" = 0
+	"Welf #0" = 0
+	"Wido #0" = 0
+	"Wolfgang #0" = 0
+	"Wolfram #0" = 0
+}
+ship_names = {
+	Pommern "Herzog Kasimir" "Herzog Bogislaw"
+	"Stettin Herzog Barnim" Wismar Rostock
+	Stralsund Greifswald Demmin Anklam "Herzog Otto"
+}
+

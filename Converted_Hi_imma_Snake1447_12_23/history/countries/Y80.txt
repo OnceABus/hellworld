@@ -1,0 +1,26 @@
+# Taizz
+government = republic
+add_government_reform = republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = jewish
+clear_scripted_personalities = yes
+capital = 388
+1442.11.10 = {
+	monarch = {
+		name = "Gherardo"
+		birth_date = 1406.2.23
+		dynasty = "di Aden"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 388
+	add_treasury = 21
+	add_prestige = 43
+}

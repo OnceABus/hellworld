@@ -1,0 +1,27 @@
+# The Jewish High Priesthood
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = italian
+religion = jewish
+clear_scripted_personalities = yes
+capital = 379
+1422.1.12 = {
+	monarch = {
+		name = "Abbondanzio"
+		birth_date = 1392.3.1
+		dynasty = "di Sarafand"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = embezzler_personality
+}
+1444.11.11 = {
+	capital = 379
+	add_treasury = 12
+	add_prestige = 94
+}

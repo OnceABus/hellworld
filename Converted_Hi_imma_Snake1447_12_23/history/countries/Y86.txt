@@ -1,0 +1,39 @@
+# Vinaykpalid
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = gujarati
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2232
+1438.1.19 = {
+	monarch = {
+		name = "Mahidevi"
+		birth_date = 1420.9.22
+		dynasty = "Vinaykpalid"
+		female = yes
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = embezzler_personality
+}
+1445.2.19 = {
+	heir = {
+		name = "Rahap"
+		monarch_name = "Rahap"
+		dynasty = "Vinaykpalid"
+		birth_date = 1445.2.19
+		death_date = 1525.2.19
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2232
+	add_treasury = -55
+	add_prestige = 294
+}

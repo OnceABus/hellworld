@@ -1,0 +1,13 @@
+sudanese = {
+	daju = {
+		primary = KAM
+		dynasty_names = { "Bugur" "Berid" "Bogirgid" "Magjin" "Masseniyid" "Koydin" "Lanhjin" "Meewge" "Kamalgi" "Lanhjin" }
+	}
+}
+
+sahelian = {
+	zaghawa = {
+		primary = KAM
+		dynasty_names = { "Zinder" }
+	}
+}

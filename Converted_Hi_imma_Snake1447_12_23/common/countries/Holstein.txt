@@ -1,0 +1,159 @@
+# Holstein
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 172 112 112 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Melek" "Avedis" "Gadar" "Vesd" "Vrtanes" "Nazani" "Sirvart" "Siran" "Athom" "Hesso" 
+	"Harald" "Thorgils" "Pridbjørn" "Ellinor" "Klara" "Estrid" "Fredrik" "Tord" "Tornik" "Baydzar" 
+	"Tigran" "Tovmas" "Dalita" "Abas" "Abirad" "Aboughamr" "Aboulgharib" "Aleksandr" "Artashes" "Artashir" 
+	"Artavazd" "Arsen" "Arshak" "Ashot" "Atrnerseh" "Avag" "Bagour" "Bagrat" "Bedros" "Boghos" 
+	"Davit" "Eshkhan" "Gagik" "Gevorg" "Gosdantin" "Grigor" "Gurgen" "Hagop" "Hamazasp" "Hethum" 
+	"Hovhannes" "Hovsep" "Ishkhan" "Ivane" "Kapriel" "Khachik" "Khosrov" "Levon" "Malkhas" "Mamigon" 
+	"Manuel" "Margos" "Mihrdat" "Mikayel" "Mleh" "Mushegh" "Mushel" "Mzhezh" "Nerseh" "Oshin" 
+	"Roupen" "Sahag" "Sarkis" "Sevag" "Shahanshah" "Smbat" "Stepanos" "Tachat" "Taniel" "Tatoul" 
+	"Thoros" "Trdat" "Vache" "Vachagan" "Vagharshak" "Vahag" "Vahan" "Vahram" "Vakhtank" "Varazdat" 
+	"Vartan" "Vassak" "Zakare" "Zarmihr" }
+monarch_names = {
+	"Melek #2" = 21
+	"Avedis #0" = 1
+	"Gadar #1" = -19
+	"Vesd #0" = 1
+	"Vrtanes #0" = 1
+	"Nazani #0" = -1
+	"Sirvart #0" = -1
+	"Siran #0" = -1
+	"Athom #0" = 1
+	"Hesso #1" = 0
+	"Harald #1" = 0
+	"Thorgils #3" = 0
+	"Pridbjørn #2" = 0
+	"Ellinor #1" = -1
+	"Klara #1" = -1
+	"Estrid #1" = -1
+	"Fredrik #1" = 0
+	"Tord #1" = 0
+	"Tornik #1" = 0
+	"Baydzar #1" = -1
+	"Tigran #1" = 0
+	"Tovmas #1" = 0
+	"Dalita #1" = -1
+	"Abas #0" = 0
+	"Abirad #0" = 0
+	"Aboughamr #0" = 0
+	"Aboulgharib #0" = 0
+	"Aleksandr #0" = 0
+	"Artashes #0" = 0
+	"Artashir #0" = 0
+	"Artavazd #0" = 0
+	"Arsen #0" = 0
+	"Arshak #0" = 0
+	"Ashot #0" = 0
+	"Atrnerseh #0" = 0
+	"Avag #0" = 0
+	"Bagour #0" = 0
+	"Bagrat #0" = 0
+	"Bedros #0" = 0
+	"Boghos #0" = 0
+	"Davit #0" = 0
+	"Eshkhan #0" = 0
+	"Gagik #0" = 0
+	"Gevorg #0" = 0
+	"Gosdantin #0" = 0
+	"Grigor #0" = 0
+	"Gurgen #0" = 0
+	"Hagop #0" = 0
+	"Hamazasp #0" = 0
+	"Hethum #0" = 0
+	"Hovhannes #0" = 0
+	"Hovsep #0" = 0
+	"Ishkhan #0" = 0
+	"Ivane #0" = 0
+	"Kapriel #0" = 0
+	"Khachik #0" = 0
+	"Khosrov #0" = 0
+	"Levon #0" = 0
+	"Malkhas #0" = 0
+	"Mamigon #0" = 0
+	"Manuel #0" = 0
+	"Margos #0" = 0
+	"Mihrdat #0" = 0
+	"Mikayel #0" = 0
+	"Mleh #0" = 0
+	"Mushegh #0" = 0
+	"Mushel #0" = 0
+	"Mzhezh #0" = 0
+	"Nerseh #0" = 0
+	"Oshin #0" = 0
+	"Roupen #0" = 0
+	"Sahag #0" = 0
+	"Sarkis #0" = 0
+	"Sevag #0" = 0
+	"Shahanshah #0" = 0
+	"Smbat #0" = 0
+	"Stepanos #0" = 0
+	"Tachat #0" = 0
+	"Taniel #0" = 0
+	"Tatoul #0" = 0
+	"Thoros #0" = 0
+	"Trdat #0" = 0
+	"Vache #0" = 0
+	"Vachagan #0" = 0
+	"Vagharshak #0" = 0
+	"Vahag #0" = 0
+	"Vahan #0" = 0
+	"Vahram #0" = 0
+	"Vakhtank #0" = 0
+	"Varazdat #0" = 0
+	"Vartan #0" = 0
+	"Vassak #0" = 0
+	"Zakare #0" = 0
+	"Zarmihr #0" = 0
+}
+ship_names = {
+	Achilles "Arche Noa" Arken Beskjermer "Byens Løffue" Caritas "Charlotte Amalie" 
+	Christiania Christiansand Christiansø "Christianus IV" "Christianus V" Churprindsen 
+	Concordia Cæsar Dannebroge David Delmenhorst Ditmarsken Draken "Dronning Louisa" 
+	Ebenetzer Elefanten Enighed "Engelske Fortuna" Enhiørningen Fides Flores 
+	"Flygende Hjorten" Fortuna "Fredericus III" "Fredericus IV" Fyen Gravenstein Griffe 
+	Gyldenløve Hannibal Havfru Havhest Havmand Hector Hercules "Hertug Olufs Pincke" 
+	Hiælperen Hjort Høyenhald Hummer "Hvide Ørn" Højenhald Island Jernvågen Jægermester 
+	Justitia "Kongens Jagt Krone" "Kronet Fisk" Lamprenen Leopard Lindorm Loss Lovisa 
+	"Løvendals Gallej" Makaløs Mars Merkurius Morian Najaden Nelleblad Neptunus 
+	"Norske Løve" Oldenborg Papegoye Patienta Pelican Phønix "Prinds Carl" 
+	"Prinds Christian" "Prinds Christian" "Prinds Wilhelm" Raae Samson Solen 
+	"Sophia Amalia" "Sophia Hedvig" "St. Erik" "St. Georg" "St. Oluf" Stormar Stralsund 
+	Svaerdfisk Svan "Svenske Jomfru" Søridder Tomler "To Løver" "Tre Løver" Trefoldighed 
+	Victoria Vindhunden Wenden Ørnen
+}
+

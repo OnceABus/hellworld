@@ -1,0 +1,26 @@
+# Viken
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 4143
+1443.7.26 = {
+	monarch = {
+		name = "Galeazzo"
+		birth_date = 1406.5.11
+		dynasty = "di Fano"
+		adm = 3
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 4143
+	add_treasury = 44
+	add_prestige = 24
+}

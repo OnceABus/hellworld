@@ -1,0 +1,28 @@
+# Fezzan
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = greek
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 2448
+1394.12.6 = {
+	monarch = {
+		name = "Isabella"
+		birth_date = 1394.8.24
+		dynasty = "Pisanu"
+		female = yes
+		adm = 6
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = architectural_visionary_personality
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 2448
+	add_treasury = 23
+	add_prestige = 315
+}

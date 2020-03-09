@@ -1,0 +1,253 @@
+# Provence
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 145 37 20 }
+historical_idea_groups = {
+	defensive_ideas
+	administrative_ideas
+	trade_ideas
+	exploration_ideas
+	religious_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	anglofrench_line
+	french_dragoon
+	french_bluecoat
+	french_cuirassier
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Boso" "Petronilha" "Carles" "Eisabèu" "Eufèmia" "Alberic" "Hucbert" "Richildis" "Boson" "Teutberga" 
+	"Tibaud" "Ermengarde" "Tiborg" "Rotbold" "Hugues" "Berta" "Lothaire" "Tibald" "Willa" "Richilde" 
+	"Ubert" "Alda" "Godofred" "Gisela" "Waldrada" "Emma" "Guilhèm" "Ugo" "Rotlind" "Rotbald" 
+	"Toda" "Constància" "Bertrand" "Aïna" "Jaufret" "Guilhèm-Bertrand" "Artau" "Estefania" "Alberich" "Gerbèrga" 
+	"Brunissenda" "Adalaïda" "Walpurga" "Almòdis" "Filipa" "Oda" "Julian" "Hildegarde" "Godafres" "Dàvi" 
+	"Geneviva" "Albert" "Raimonda" "Toumas" "Adelinde" "Ingeltrude" "Violent" "Guitart" "Ava" "Emmerich" 
+	"Gerardo" "Osterhild" "Isabèu" "Heloise" "Aymeric" "Gui" "Gertrude" "Verounica" "Richènda" "Pèire" 
+	"Faidida" "Garcia" "Audoïn" "Ricard" "Péire-Arnaut" "Aimeric" "Gausbert" "Ana" "Laurènç" "Milo" 
+	"Marquisa" "Lop" "Margarida" "Gersenda" "Matias" "Alaïs" "Leon" "Blush" "Sibilla" "Girard" 
+	"Caterina" "Sança" "Clarmonda" "Aliç" "Amalric" "Camila" "Vicenç" "Gilbèrt" "Raimond-Berenguié" "Florènç" 
+	"Charles" "Louis" "Rudolf" "Adhémar" "Acfred" "Aldebert" "Alias" "Anfòs" "Amaneus" "Ancelmes" 
+	"André" "Archambaut" "Arnaut" "Aton" "Aymar" "Aznar" "Barral" "Bartoumiéu" "Baudoïn" "Beneset" 
+	"Bérard" "Berenguié" "Bermond" "Bernat" "Bernat-Aton" "Bernat-Ezi" "Blasi" "Borel" "Clamenç" "Centolh" 
+	"Dat" "Dodon" "Doumenge" "Duran" "Ebles" "Emmanuèl" "Enric" "Ermengau" "Estève" "Filip" 
+	"Ferrand" "Folquet" "Francés" "Frederi" "Gaston" "Gautier" "Girvais" "Guichard" "Guigues" "Guiraud" 
+	"Ives" "Jacme" "Joan" "Jorge" "Josselin" "Loïs" "Loui" "Marçau" "Matfre" "Miquel" 
+	"Nicholaus" "Odon" "Otton" "Péire-Raimond" "Peranudet" "Pol" "Pons" "Raimond" "Rainaut" "Rainer" 
+	"Raolf" "Robèrt" "Rogier" "Sancho" "Savarics" "Tièrri" "Ubald" "Uc" "Ugues" "Vézian" }
+monarch_names = {
+	"Boso #0" = 1
+	"Petronilha #0" = -1
+	"Carles #1" = 18
+	"Eisabèu #0" = -1
+	"Eufèmia #0" = -1
+	"Alberic #0" = 1
+	"Hucbert #0" = 1
+	"Richildis #0" = -1
+	"Boson #3" = 33
+	"Teutberga #0" = -1
+	"Tibaud #0" = 1
+	"Ermengarde #0" = -1
+	"Tiborg #0" = -1
+	"Rotbold #0" = 1
+	"Hugues #2" = 18
+	"Berta #0" = -1
+	"Lothaire #0" = 1
+	"Tibald #0" = 1
+	"Willa #0" = -1
+	"Richilde #0" = -1
+	"Ubert #0" = 1
+	"Alda #0" = -1
+	"Godofred #0" = 1
+	"Gisela #0" = -1
+	"Waldrada #0" = -1
+	"Emma #0" = -1
+	"Guilhèm #4" = 27
+	"Ugo #0" = 1
+	"Rotlind #0" = -1
+	"Rotbald #2" = 21
+	"Toda #0" = -1
+	"Constància #0" = -1
+	"Bertrand #3" = 27
+	"Aïna #0" = -1
+	"Jaufret #2" = 21
+	"Guilhèm-Bertrand #0" = 1
+	"Artau #0" = 1
+	"Estefania #0" = -1
+	"Alberich #0" = 1
+	"Gerbèrga #0" = -1
+	"Brunissenda #0" = -1
+	"Adalaïda #0" = -1
+	"Walpurga #0" = -1
+	"Almòdis #0" = -1
+	"Filipa #0" = -1
+	"Oda #1" = -19
+	"Julian #0" = 1
+	"Hildegarde #0" = -1
+	"Godafres #0" = 1
+	"Dàvi #1" = 18
+	"Geneviva #0" = -1
+	"Albert #0" = 1
+	"Raimonda #0" = -1
+	"Toumas #0" = 1
+	"Adelinde #0" = -1
+	"Ingeltrude #0" = -1
+	"Violent #0" = -1
+	"Guitart #0" = 1
+	"Ava #0" = -1
+	"Emmerich #0" = 1
+	"Gerardo #0" = 1
+	"Osterhild #0" = -1
+	"Isabèu #0" = -1
+	"Heloise #0" = -1
+	"Aymeric #1" = 18
+	"Gui #0" = 1
+	"Gertrude #0" = -1
+	"Verounica #1" = -22
+	"Richènda #0" = -1
+	"Pèire #0" = 1
+	"Faidida #1" = -25
+	"Garcia #0" = 1
+	"Audoïn #0" = 1
+	"Ricard #0" = 1
+	"Péire-Arnaut #0" = 1
+	"Aimeric #1" = 24
+	"Gausbert #0" = 1
+	"Ana #0" = -1
+	"Laurènç #1" = 18
+	"Milo #0" = 1
+	"Marquisa #0" = -1
+	"Lop #0" = 1
+	"Margarida #0" = -1
+	"Gersenda #0" = -1
+	"Matias #1" = 18
+	"Alaïs #0" = -1
+	"Leon #0" = 1
+	"Blush #2" = 24
+	"Sibilla #0" = -1
+	"Girard #0" = 1
+	"Caterina #0" = -1
+	"Sança #0" = -1
+	"Clarmonda #0" = -1
+	"Aliç #0" = -1
+	"Amalric #0" = 1
+	"Camila #0" = -1
+	"Vicenç #0" = 1
+	"Gilbèrt #0" = 1
+	"Raimond-Berenguié #0" = 1
+	"Florènç #0" = 1
+	"Charles #2" = 0
+	"Louis #3" = 0
+	"Rudolf #1" = 0
+	"Adhémar #0" = 0
+	"Acfred #0" = 0
+	"Aldebert #0" = 0
+	"Alias #0" = 0
+	"Anfòs #0" = 0
+	"Amaneus #0" = 0
+	"Ancelmes #0" = 0
+	"André #0" = 0
+	"Archambaut #0" = 0
+	"Arnaut #0" = 0
+	"Aton #0" = 0
+	"Aymar #0" = 0
+	"Aznar #0" = 0
+	"Barral #0" = 0
+	"Bartoumiéu #0" = 0
+	"Baudoïn #0" = 0
+	"Beneset #0" = 0
+	"Bérard #0" = 0
+	"Berenguié #0" = 0
+	"Bermond #0" = 0
+	"Bernat #0" = 0
+	"Bernat-Aton #0" = 0
+	"Bernat-Ezi #0" = 0
+	"Blasi #0" = 0
+	"Borel #0" = 0
+	"Clamenç #0" = 0
+	"Centolh #0" = 0
+	"Dat #0" = 0
+	"Dodon #0" = 0
+	"Doumenge #0" = 0
+	"Duran #0" = 0
+	"Ebles #0" = 0
+	"Emmanuèl #0" = 0
+	"Enric #0" = 0
+	"Ermengau #0" = 0
+	"Estève #0" = 0
+	"Filip #0" = 0
+	"Ferrand #0" = 0
+	"Folquet #0" = 0
+	"Francés #0" = 0
+	"Frederi #0" = 0
+	"Gaston #0" = 0
+	"Gautier #0" = 0
+	"Girvais #0" = 0
+	"Guichard #0" = 0
+	"Guigues #0" = 0
+	"Guiraud #0" = 0
+	"Ives #0" = 0
+	"Jacme #0" = 0
+	"Joan #0" = 0
+	"Jorge #0" = 0
+	"Josselin #0" = 0
+	"Loïs #0" = 0
+	"Loui #0" = 0
+	"Marçau #0" = 0
+	"Matfre #0" = 0
+	"Miquel #0" = 0
+	"Nicholaus #0" = 0
+	"Odon #0" = 0
+	"Otton #0" = 0
+	"Péire-Raimond #0" = 0
+	"Peranudet #0" = 0
+	"Pol #0" = 0
+	"Pons #0" = 0
+	"Raimond #0" = 0
+	"Rainaut #0" = 0
+	"Rainer #0" = 0
+	"Raolf #0" = 0
+	"Robèrt #0" = 0
+	"Rogier #0" = 0
+	"Sancho #0" = 0
+	"Savarics #0" = 0
+	"Tièrri #0" = 0
+	"Ubald #0" = 0
+	"Uc #0" = 0
+	"Ugues #0" = 0
+	"Vézian #0" = 0
+}
+ship_names = {
+	Armançon Arroux
+	Bourgogne Brugge
+	Cambrai "Castrum Divionense" Childebert "Childebert II" Chilperic Citeaux Chlothar Cluny Comtesse "Côte-d'Or" 
+	Dijon "Duc de Bourgogne" Duchesse 
+	Gebicca Giselher Godegisel Godomar Gunderic Gundobad Gundomar "Gundomar II" Gunther Guntram
+	"Jean sans Peur"
+	"Marie de Bourgogne"
+	"Philippe le Bon" "Philippe le Hardi"
+	"Richard de Bourgogne"
+	Saône Sigismund
+	Theudebert "Theuderic II"
+	Vézelay
+}
+

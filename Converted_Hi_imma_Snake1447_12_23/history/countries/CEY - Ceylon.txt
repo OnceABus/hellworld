@@ -1,0 +1,26 @@
+# Lanka
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = sinhala
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 572
+1435.7.21 = {
+	monarch = {
+		name = "Mahasattha VI"
+		birth_date = 1416.8.25
+		dynasty = "Hoysala"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = pious_personality
+}
+1444.11.11 = {
+	capital = 572
+	add_treasury = 37
+	add_prestige = 275
+}

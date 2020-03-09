@@ -1,0 +1,26 @@
+# Halab
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_misr_arabic
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4297
+1435.5.12 = {
+	monarch = {
+		name = "Zaia"
+		birth_date = 1390.9.7
+		dynasty = "mn  Homs"
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 4297
+	add_treasury = 71
+	add_prestige = 56
+}

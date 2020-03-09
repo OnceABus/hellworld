@@ -1,0 +1,28 @@
+# Nobatia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1234
+1402.2.27 = {
+	monarch = {
+		name = "Edda"
+		birth_date = 1400.1.13
+		dynasty = "di Licinardo"
+		female = yes
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 1234
+	add_treasury = 65
+	add_prestige = 262
+}

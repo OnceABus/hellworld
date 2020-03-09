@@ -1,0 +1,38 @@
+# Edessa
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4298
+1416.5.17 = {
+	monarch = {
+		name = "Alberto"
+		birth_date = 1391.9.6
+		dynasty = "of  Aintab"
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = drunkard_personality
+	heir = {
+		name = "Domoszló"
+		monarch_name = "Domoszló"
+		dynasty = "NO_DYNASTY"
+		birth_date = 1367.7.27
+		death_date = 1447.7.27
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+	add_heir_personality = expansionist_personality
+}
+1444.11.11 = {
+	capital = 4298
+	add_treasury = 276
+	add_prestige = 149
+}

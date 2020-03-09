@@ -1,0 +1,27 @@
+# Maru
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 514
+1427.9.19 = {
+	monarch = {
+		name = "Margdeva"
+		birth_date = 1410.9.26
+		dynasty = "Virsinghadevid"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 514
+	add_treasury = 14
+	add_prestige = 308
+}

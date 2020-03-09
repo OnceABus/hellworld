@@ -1,0 +1,25 @@
+# Cologne
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+capital = 84
+1444.5.26 = {
+	monarch = {
+		name = "Konstanze"
+		birth_date = 1442.11.25
+		dynasty = "von Limburg"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 84
+	add_treasury = 41
+	add_prestige = 309
+}

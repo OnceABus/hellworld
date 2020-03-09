@@ -1,0 +1,27 @@
+# Gwynedd
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = anglo_saxon
+religion = catholic
+clear_scripted_personalities = yes
+capital = 240
+1429.10.4 = {
+	monarch = {
+		name = "Artau II"
+		birth_date = 1422.9.9
+		dynasty = "de la Panouse"
+		adm = 3
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 240
+	add_treasury = 145
+	add_prestige = 200
+}

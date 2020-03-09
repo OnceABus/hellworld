@@ -1,0 +1,27 @@
+# Sarkel
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = cuman
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 2409
+1442.1.1 = {
+	monarch = {
+		name = "Alisia"
+		birth_date = 1432.10.5
+		dynasty = "Pisanu"
+		female = yes
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 2409
+	add_treasury = 17
+	add_prestige = 36
+}

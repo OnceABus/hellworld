@@ -1,0 +1,27 @@
+# Barcelona
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = catalan
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 213
+1412.2.2 = {
+	monarch = {
+		name = "Patrizio II"
+		birth_date = 1406.9.1
+		dynasty = "Rhapsody"
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 213
+	add_treasury = 88
+	add_prestige = 791
+}

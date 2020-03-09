@@ -1,0 +1,27 @@
+# Red Ruthenia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 4538
+1416.6.26 = {
+	monarch = {
+		name = "Torgils II"
+		birth_date = 1411.2.17
+		dynasty = "Ryning"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 4538
+	add_treasury = 52
+	add_prestige = 56
+}

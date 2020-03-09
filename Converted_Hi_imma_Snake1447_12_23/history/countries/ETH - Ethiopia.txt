@@ -1,0 +1,27 @@
+# Abyssinia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = coptic
+clear_scripted_personalities = yes
+capital = 1224
+1386.1.8 = {
+	monarch = {
+		name = "Berihun"
+		birth_date = 1385.10.16
+		dynasty = "Lebn"
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 1224
+	add_treasury = 75
+	add_prestige = 680
+}

@@ -1,0 +1,26 @@
+# Flanders
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = dutch
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 1744
+1444.5.16 = {
+	monarch = {
+		name = "Vrtanes"
+		birth_date = 1408.4.29
+		dynasty = "ve Cholet"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 1744
+	add_treasury = 19
+	add_prestige = -14
+}

@@ -1,0 +1,28 @@
+# Holstein
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = armenian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 1775
+1430.5.10 = {
+	monarch = {
+		name = "Gadar"
+		birth_date = 1418.11.7
+		dynasty = "ve Egmond"
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 1775
+	add_treasury = 77
+	add_prestige = 53
+}

@@ -1,0 +1,26 @@
+# Tugorid
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = cuman
+religion = monothelite
+clear_scripted_personalities = yes
+capital = 439
+1440.9.27 = {
+	monarch = {
+		name = "Tugor"
+		birth_date = 1412.5.12
+		dynasty = "Tugorid"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = silver_tongue_personality
+}
+1444.11.11 = {
+	capital = 439
+	add_treasury = 10
+	add_prestige = 76
+}

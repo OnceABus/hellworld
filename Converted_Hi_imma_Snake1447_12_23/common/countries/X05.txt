@@ -1,0 +1,231 @@
+# Ghana
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 78 144 237 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	african_spearmen
+	mali_tribal_warfare
+	african_hill_warfare
+	niger_kongolese_gunpowder_warfare
+	westernized_niger_kongolese
+	african_western_franchise_warfare
+}
+
+
+
+leader_names = {
+
+	"Eberhart" "Dietmar" "Aichata" "Halima" "Samirah" "Harun" "Richenza" "Maria" "Berengar" "Soundiata" 
+	"Bannu" "Georg" "Ekbert" "Tahir" "Düru" "Malaka" "Koïzé" "Adam" "Djire" "Youma" 
+	"Sandaki" "Barbara" "Kalabi" "Irmeltrud" "Nikolaus" "Bakr" "Sieghard" "Helga" "Filibert" "Hartwig" 
+	"Reinhold" "Manfred" "Gertrude" "Otto" "Peter" "Konstanze" "Alois" "Friedrich" "Ehrenfried" "Alberich" 
+	"Richara" "Folkmar" "Baldarbabeh" "Christine" "Yippers" "Emma" "Humbert" "Constanza" "Engelbert" "Walther" 
+	"Angelo" "Taddeo" "Alda" "Atenolfo" "Elena" "Andreas" "Benedetto" "Gelasio" "Oberto" "Demetrio" 
+	"Ute" "Eleonora" "Henrike" "Liutpold" "Emelrich" "Fortunata" "Azzone" "Brunhilde" "Katharina" "Elisabeth" 
+	"Viktor" "Sigismund" "Trude" "Wilhelmina" "Gerhard" "Burchard" "Cecilie" "Binhilde" "Gudrun" "Markward" 
+	"Konrad" "Emmerich" "Adolf" "Berta" "Kriemhild" "Mechthild" "Thietmar" "Amalberga" "Takoi" "Ousmane" 
+	"Bassi" "Tunka Menin" "Kambine Diaresso" "Zeinab" "Barakissa" "Adja" "Abubakar" "Akoi" "Alayaman" "Bérété" 
+	"Bathily" "Bomou" "Bilali" "Bunama" "Badä" "Bamari" "Birama" "Bisi" "Biyu" "Cissi" 
+	"Diobé" "Dabo" "Diakhaba" "Diawara" "Daffi" "Doucouri" "Dankaran" "Demba" "Daoud" "Diara" 
+	"Fissourou" "Fadiga" "Fädazu" "Fuluku" "Gane" "Gao" "Ishaq" "Kaba" "Kabayo" "Kanafa" 
+	"Kambine" "Kassa" "Kaya" "Kayna" "Kinkin" "Kukuray" "Kusoy" "Marega" "M'Bali" "Maghan" 
+	"Majan" "Mamadi" "Mamoudou" "Mari-Djata" "Musa" "Niakhaté" "Nintasanay" "Wague" "Wali" "Wati" 
+	"Reidja" "Sy" "Sylla" "Sakho" "Soukhouna" "Sima" "Soumaré" "Sakoura" "Salman" "Soumaba" 
+	"Soumaoro" "Sulayman" "Tandian" "Tunka" "Tunka-Menin" "Tabouri" "Tounkara" "Touri" "Tandi" "Tib" 
+	"Yansané" "Yatabéri" "Yama" "Yasiboy" "Zakoi" "Zenku" }
+monarch_names = {
+	"Eberhart #0" = 1
+	"Dietmar #0" = 1
+	"Aichata #1" = -19
+	"Halima #0" = -1
+	"Samirah #0" = -1
+	"Harun #0" = 1
+	"Richenza #1" = -22
+	"Maria #0" = -1
+	"Berengar #0" = 1
+	"Soundiata #0" = 1
+	"Bannu #0" = 1
+	"Georg #0" = 1
+	"Ekbert #0" = 1
+	"Tahir #0" = 1
+	"Düru #0" = 1
+	"Malaka #1" = 24
+	"Koïzé #0" = 1
+	"Adam #0" = 1
+	"Djire #0" = -1
+	"Youma #0" = -1
+	"Sandaki #0" = 1
+	"Barbara #0" = -1
+	"Kalabi #0" = 1
+	"Irmeltrud #0" = -1
+	"Nikolaus #0" = 1
+	"Bakr #0" = 1
+	"Sieghard #0" = 1
+	"Helga #0" = -1
+	"Filibert #0" = 1
+	"Hartwig #0" = 1
+	"Reinhold #0" = 1
+	"Manfred #0" = 1
+	"Gertrude #0" = -1
+	"Otto #0" = 1
+	"Peter #0" = 1
+	"Konstanze #0" = -1
+	"Alois #0" = 1
+	"Friedrich #0" = 1
+	"Ehrenfried #0" = 1
+	"Alberich #0" = 1
+	"Richara #0" = -1
+	"Folkmar #0" = 1
+	"Baldarbabeh #0" = 1
+	"Christine #0" = -1
+	"Yippers #0" = 1
+	"Emma #0" = -1
+	"Humbert #0" = 1
+	"Constanza #0" = -1
+	"Engelbert #0" = 1
+	"Walther #0" = 1
+	"Angelo #0" = 1
+	"Taddeo #0" = 1
+	"Alda #0" = -1
+	"Atenolfo #0" = 1
+	"Elena #0" = -1
+	"Andreas #0" = 1
+	"Benedetto #0" = 1
+	"Gelasio #0" = 1
+	"Oberto #0" = 1
+	"Demetrio #0" = 1
+	"Ute #0" = -1
+	"Eleonora #0" = -1
+	"Henrike #0" = -1
+	"Liutpold #1" = 18
+	"Emelrich #1" = 18
+	"Fortunata #0" = -1
+	"Azzone #0" = 1
+	"Brunhilde #0" = -1
+	"Katharina #1" = -25
+	"Elisabeth #0" = -1
+	"Viktor #0" = 1
+	"Sigismund #0" = 1
+	"Trude #0" = -1
+	"Wilhelmina #0" = -1
+	"Gerhard #1" = 18
+	"Burchard #0" = 1
+	"Cecilie #0" = -1
+	"Binhilde #0" = -1
+	"Gudrun #0" = -1
+	"Markward #0" = 1
+	"Konrad #0" = 1
+	"Emmerich #0" = 1
+	"Adolf #0" = 1
+	"Berta #1" = -22
+	"Kriemhild #0" = -1
+	"Mechthild #0" = -1
+	"Thietmar #0" = 1
+	"Amalberga #0" = -1
+	"Takoi #0" = 1
+	"Ousmane #1" = 0
+	"Bassi #1" = 0
+	"Tunka Menin #1" = 0
+	"Kambine Diaresso #1" = 0
+	"Zeinab #1" = -1
+	"Barakissa #1" = -1
+	"Adja #1" = -1
+	"Abubakar #0" = 0
+	"Akoi #0" = 0
+	"Alayaman #0" = 0
+	"Bérété #0" = 0
+	"Bathily #0" = 0
+	"Bomou #0" = 0
+	"Bilali #0" = 0
+	"Bunama #0" = 0
+	"Badä #0" = 0
+	"Bamari #0" = 0
+	"Birama #0" = 0
+	"Bisi #0" = 0
+	"Biyu #0" = 0
+	"Cissi #0" = 0
+	"Diobé #0" = 0
+	"Dabo #0" = 0
+	"Diakhaba #0" = 0
+	"Diawara #0" = 0
+	"Daffi #0" = 0
+	"Doucouri #0" = 0
+	"Dankaran #0" = 0
+	"Demba #0" = 0
+	"Daoud #0" = 0
+	"Diara #0" = 0
+	"Fissourou #0" = 0
+	"Fadiga #0" = 0
+	"Fädazu #0" = 0
+	"Fuluku #0" = 0
+	"Gane #0" = 0
+	"Gao #0" = 0
+	"Ishaq #0" = 0
+	"Kaba #0" = 0
+	"Kabayo #0" = 0
+	"Kanafa #0" = 0
+	"Kambine #0" = 0
+	"Kassa #0" = 0
+	"Kaya #0" = 0
+	"Kayna #0" = 0
+	"Kinkin #0" = 0
+	"Kukuray #0" = 0
+	"Kusoy #0" = 0
+	"Marega #0" = 0
+	"M'Bali #0" = 0
+	"Maghan #0" = 0
+	"Majan #0" = 0
+	"Mamadi #0" = 0
+	"Mamoudou #0" = 0
+	"Mari-Djata #0" = 0
+	"Musa #0" = 0
+	"Niakhaté #0" = 0
+	"Nintasanay #0" = 0
+	"Wague #0" = 0
+	"Wali #0" = 0
+	"Wati #0" = 0
+	"Reidja #0" = 0
+	"Sy #0" = 0
+	"Sylla #0" = 0
+	"Sakho #0" = 0
+	"Soukhouna #0" = 0
+	"Sima #0" = 0
+	"Soumaré #0" = 0
+	"Sakoura #0" = 0
+	"Salman #0" = 0
+	"Soumaba #0" = 0
+	"Soumaoro #0" = 0
+	"Sulayman #0" = 0
+	"Tandian #0" = 0
+	"Tunka #0" = 0
+	"Tunka-Menin #0" = 0
+	"Tabouri #0" = 0
+	"Tounkara #0" = 0
+	"Touri #0" = 0
+	"Tandi #0" = 0
+	"Tib #0" = 0
+	"Yansané #0" = 0
+	"Yatabéri #0" = 0
+	"Yama #0" = 0
+	"Yasiboy #0" = 0
+	"Zakoi #0" = 0
+	"Zenku #0" = 0
+}
+ship_names = {
+	Kiringa Timbuktu "Koumbi Saleh" Gao
+	Jenne "Sundiata Keita" "Kankan Musa"
+	"Kouroukan Fouga" "Wali Keita" "Quati Keita"
+	"Khalifa Keita" Sakura
+}
+

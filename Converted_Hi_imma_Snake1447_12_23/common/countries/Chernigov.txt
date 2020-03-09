@@ -1,0 +1,350 @@
+# Chernigov
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 147 164 104 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Manfredo" "Eleonora" "Rainero" "Nunzia" "Cecco" "Yngvar" "Elisabeth" "Goffredo" "Vincenzo" "Lavinia" 
+	"Lanfranco" "Tiziana" "Gudrid" "Giovanna" "Sante" "Raimondo" "Pagano" "Haldora" "Cesare" "Cosma" 
+	"Manuele" "Viacheslava" "Candida" "Clotilde" "Dora" "Obizzo" "Fausta" "Yelizaveta" "Aldobrandino" "Letizia" 
+	"Felicita" "Orlando" "Ippolita" "Conone" "Claudia" "Patrizia" "Alessandra" "Guarnito" "Mariana" "Guttorm" 
+	"Benedetta" "Virginia" "Aloisia" "Ulv" "Valerio" "Adalberta" "Gian" "Giacomo" "Lucia" "Gilberto" 
+	"Agalina" "Martina" "Annibale" "Baldassarre" "Bianca" "Eudossia" "Alisia" "Nicola" "Agnese" "Emmanuele" 
+	"Carlo" "Ezzelino" "Ciro" "Raineri" "Violante" "Gastone" "Joscella" "Marcella" "Benilde" "Micaela" 
+	"Alberico" "Edda" "Ausonia" "Tedice" "Maddalena" "Barnaba" "Marino" "Marietta" "Demetrio" "Ricciarda" 
+	"Chasna" "Antonia" "Sabas" "Tomasina" "Theophano" "Tibaldo" "Ettore" "Adelasia" "Camillo" "Adalgisa" 
+	"Ubaldo" "Lucrezia" "Eugenia" "Paola" "Dioniso" "Caracosa" "Lucinetta" "Gerolamo" "Lidia" "Rogier" 
+	"Stefano" "Chuna" "Aleramo" "Borso" "Argentina" "Flavio" "Alda" "Ausonio" "Radul" "Yuqing" 
+	"Francesca" "Giovanni" "Corradino" "Anselmo" "Caterina" "Agata" "Leone" "Dionysia" "Cangrande" "Antonella" 
+	"Yiyan" "Brunilde" "Ottavio" "Agostina" "Alessio" "Angelo" "Fosca" "Ippolito" "Cassio" "Simone" 
+	"Arnolfo" "Silvana" "Uberto" "Attilio" "Taddeo" "Shaoming" "Biagio" "Suyue" "Zaccaria" "Gerardo" 
+	"Simonetto" "Eugenio" "Gelasio" "Lionello" "Spinetto" "Omero" "Livia" "Alia" "Candido" "Baldewin" 
+	"Lazzarino" "Guidone" "Leonide" "Mastino" "Changliang" "Shuzhen" "Malacresta" "Sinibaldo" "Enzo" "Shonlin" 
+	"Malcha" "Ferruccio" "Richwara" "Lingxuan" "Laura" "Arderico" "Catone" "Pancrazio" "Adelmio" "Wanying" 
+	"Carla" "Agapito" "Oberto" "Fortunato" "Berenice" "Bernabò" "Silvestro" "Ermenegilda" "Giulia" "Khosrau" 
+	"Renata" "Flavia" "Averado" "Berta" "Sebastiano" "Salvatore" "Umberto" "Çiltanesi" "Rolando" "Flora" 
+	"Adriana" "Elisa" "Elisabetta" "Ercole" "Anastasia" "Armando" "Carola" "Delinda" "Serafino" "Camilla" 
+	"Yaropolk" "Mstislav" "Vasilko" "Törtogul" "Togli" "Feodor" "Sudislav" "Pavel" "Afanasiy" "Alexandr" 
+	"Alexei" "Andrei" "Boris" "Briachislav" "Daniil" "Davyd" "Demid" "Dmitriy" "Dobrynia" "Fedot" 
+	"Gavriil" "Gleb" "Grigoriy" "Iakov" "Igor" "Iliya" "Ingvar" "Ivan" "Iziaslav" "Kirill" 
+	"Konstantin" "Koz'ma" "Lev" "Matfei" "Mikhail" "Mitrofan" "Nikita" "Oleg" "Putiata" "Radoslav" 
+	"Rodislav" "Rogvolod" "Roman" "Rostislav" "Ruslan" "Stanislav" "Stepan" "Svetozar" "Sviatopolk" "Sviatoslav" 
+	"Terentiy" "Trifon" "Vasiliy" "Viacheslav" "Vladimir" "Vladislav" "Voislav" "Volodar" "Vseslav" "Vsevolod" 
+	"Vyshata" "Vysheslav" "Yaroslav" "Yefimiy" "Yelisey" "Yemelyan" "Yeremey" "Yevstafiy" "Yuriy" }
+monarch_names = {
+	"Manfredo #0" = 1
+	"Eleonora #0" = -1
+	"Rainero #1" = 18
+	"Nunzia #0" = -1
+	"Cecco #0" = 1
+	"Yngvar #0" = 1
+	"Elisabeth #0" = -1
+	"Goffredo #0" = 1
+	"Vincenzo #0" = 1
+	"Lavinia #0" = -1
+	"Lanfranco #0" = 1
+	"Tiziana #0" = -1
+	"Gudrid #0" = -1
+	"Giovanna #0" = -1
+	"Sante #0" = 1
+	"Raimondo #0" = 1
+	"Pagano #0" = 1
+	"Haldora #0" = -1
+	"Cesare #0" = 1
+	"Cosma #0" = 1
+	"Manuele #0" = 1
+	"Viacheslava #1" = -19
+	"Candida #0" = -1
+	"Clotilde #0" = -1
+	"Dora #0" = -1
+	"Obizzo #0" = 1
+	"Fausta #0" = -1
+	"Yelizaveta #0" = -1
+	"Aldobrandino #0" = 1
+	"Letizia #0" = -1
+	"Felicita #0" = -1
+	"Orlando #0" = 1
+	"Ippolita #0" = -1
+	"Conone #0" = 1
+	"Claudia #0" = -1
+	"Patrizia #0" = -1
+	"Alessandra #0" = -1
+	"Guarnito #0" = 1
+	"Mariana #0" = -1
+	"Guttorm #0" = 1
+	"Benedetta #0" = -1
+	"Virginia #0" = -1
+	"Aloisia #0" = -1
+	"Ulv #0" = 1
+	"Valerio #0" = 1
+	"Adalberta #0" = -1
+	"Gian #0" = 1
+	"Giacomo #0" = 1
+	"Lucia #0" = -1
+	"Gilberto #0" = 1
+	"Agalina #0" = -1
+	"Martina #0" = -1
+	"Annibale #0" = 1
+	"Baldassarre #0" = 1
+	"Bianca #0" = -1
+	"Eudossia #0" = -1
+	"Alisia #0" = -1
+	"Nicola #0" = 1
+	"Agnese #0" = -1
+	"Emmanuele #0" = 1
+	"Carlo #0" = 1
+	"Ezzelino #0" = 1
+	"Ciro #0" = 1
+	"Raineri #0" = 1
+	"Violante #0" = -1
+	"Gastone #0" = 1
+	"Joscella #0" = -1
+	"Marcella #0" = -1
+	"Benilde #0" = -1
+	"Micaela #0" = -1
+	"Alberico #0" = 1
+	"Edda #0" = -1
+	"Ausonia #0" = -1
+	"Tedice #0" = 1
+	"Maddalena #0" = -1
+	"Barnaba #0" = 1
+	"Marino #0" = 1
+	"Marietta #0" = -1
+	"Demetrio #0" = 1
+	"Ricciarda #0" = -1
+	"Chasna #0" = -1
+	"Antonia #0" = -1
+	"Sabas #0" = 1
+	"Tomasina #0" = -1
+	"Theophano #0" = -1
+	"Tibaldo #0" = 1
+	"Ettore #0" = 1
+	"Adelasia #0" = -1
+	"Camillo #0" = 1
+	"Adalgisa #0" = -1
+	"Ubaldo #0" = 1
+	"Lucrezia #0" = -1
+	"Eugenia #0" = -1
+	"Paola #0" = -1
+	"Dioniso #0" = 1
+	"Caracosa #0" = -1
+	"Lucinetta #0" = -1
+	"Gerolamo #0" = 1
+	"Lidia #0" = -1
+	"Rogier #0" = 1
+	"Stefano #0" = 1
+	"Chuna #0" = 1
+	"Aleramo #0" = 1
+	"Borso #0" = 1
+	"Argentina #0" = -1
+	"Flavio #0" = 1
+	"Alda #0" = -1
+	"Ausonio #0" = 1
+	"Radul #0" = 1
+	"Yuqing #0" = 1
+	"Francesca #0" = -1
+	"Giovanni #0" = 1
+	"Corradino #0" = 1
+	"Anselmo #0" = 1
+	"Caterina #0" = -1
+	"Agata #0" = -1
+	"Leone #0" = 1
+	"Dionysia #0" = -1
+	"Cangrande #0" = 1
+	"Antonella #0" = -1
+	"Yiyan #0" = 1
+	"Brunilde #0" = -1
+	"Ottavio #0" = 1
+	"Agostina #0" = -1
+	"Alessio #0" = 1
+	"Angelo #0" = 1
+	"Fosca #0" = -1
+	"Ippolito #0" = 1
+	"Cassio #0" = 1
+	"Simone #0" = 1
+	"Arnolfo #0" = 1
+	"Silvana #0" = -1
+	"Uberto #0" = 1
+	"Attilio #0" = 1
+	"Taddeo #0" = 1
+	"Shaoming #0" = -1
+	"Biagio #0" = 1
+	"Suyue #0" = -1
+	"Zaccaria #0" = 1
+	"Gerardo #0" = 1
+	"Simonetto #0" = 1
+	"Eugenio #0" = 1
+	"Gelasio #0" = 1
+	"Lionello #0" = 1
+	"Spinetto #0" = 1
+	"Omero #0" = 1
+	"Livia #0" = -1
+	"Alia #0" = -1
+	"Candido #0" = 1
+	"Baldewin #0" = 1
+	"Lazzarino #0" = 1
+	"Guidone #0" = 1
+	"Leonide #0" = -1
+	"Mastino #0" = 1
+	"Changliang #0" = 1
+	"Shuzhen #0" = -1
+	"Malacresta #0" = 1
+	"Sinibaldo #0" = 1
+	"Enzo #0" = 1
+	"Shonlin #0" = -1
+	"Malcha #0" = 1
+	"Ferruccio #0" = 1
+	"Richwara #0" = -1
+	"Lingxuan #0" = -1
+	"Laura #0" = -1
+	"Arderico #0" = 1
+	"Catone #0" = 1
+	"Pancrazio #0" = 1
+	"Adelmio #0" = 1
+	"Wanying #0" = -1
+	"Carla #0" = -1
+	"Agapito #0" = 1
+	"Oberto #0" = 1
+	"Fortunato #0" = 1
+	"Berenice #0" = -1
+	"Bernabò #0" = 1
+	"Silvestro #0" = 1
+	"Ermenegilda #0" = -1
+	"Giulia #0" = -1
+	"Khosrau #0" = 1
+	"Renata #0" = -1
+	"Flavia #0" = -1
+	"Averado #0" = 1
+	"Berta #0" = -1
+	"Sebastiano #0" = 1
+	"Salvatore #0" = 1
+	"Umberto #0" = 1
+	"Çiltanesi #0" = -1
+	"Rolando #0" = 1
+	"Flora #0" = -1
+	"Adriana #0" = -1
+	"Elisa #0" = -1
+	"Elisabetta #0" = -1
+	"Ercole #0" = 1
+	"Anastasia #0" = -1
+	"Armando #0" = 1
+	"Carola #0" = -1
+	"Delinda #0" = -1
+	"Serafino #0" = 1
+	"Camilla #0" = -1
+	"Yaropolk #1" = 0
+	"Mstislav #1" = 0
+	"Vasilko #1" = 0
+	"Törtogul #1" = 0
+	"Togli #1" = 0
+	"Feodor #2" = 0
+	"Sudislav #1" = 0
+	"Pavel #1" = 0
+	"Afanasiy #0" = 0
+	"Alexandr #0" = 0
+	"Alexei #0" = 0
+	"Andrei #0" = 0
+	"Boris #0" = 0
+	"Briachislav #0" = 0
+	"Daniil #0" = 0
+	"Davyd #0" = 0
+	"Demid #0" = 0
+	"Dmitriy #0" = 0
+	"Dobrynia #0" = 0
+	"Fedot #0" = 0
+	"Gavriil #0" = 0
+	"Gleb #0" = 0
+	"Grigoriy #0" = 0
+	"Iakov #0" = 0
+	"Igor #0" = 0
+	"Iliya #0" = 0
+	"Ingvar #0" = 0
+	"Ivan #0" = 0
+	"Iziaslav #0" = 0
+	"Kirill #0" = 0
+	"Konstantin #0" = 0
+	"Koz'ma #0" = 0
+	"Lev #0" = 0
+	"Matfei #0" = 0
+	"Mikhail #0" = 0
+	"Mitrofan #0" = 0
+	"Nikita #0" = 0
+	"Oleg #0" = 0
+	"Putiata #0" = 0
+	"Radoslav #0" = 0
+	"Rodislav #0" = 0
+	"Rogvolod #0" = 0
+	"Roman #0" = 0
+	"Rostislav #0" = 0
+	"Ruslan #0" = 0
+	"Stanislav #0" = 0
+	"Stepan #0" = 0
+	"Svetozar #0" = 0
+	"Sviatopolk #0" = 0
+	"Sviatoslav #0" = 0
+	"Terentiy #0" = 0
+	"Trifon #0" = 0
+	"Vasiliy #0" = 0
+	"Viacheslav #0" = 0
+	"Vladimir #0" = 0
+	"Vladislav #0" = 0
+	"Voislav #0" = 0
+	"Volodar #0" = 0
+	"Vseslav #0" = 0
+	"Vsevolod #0" = 0
+	"Vyshata #0" = 0
+	"Vysheslav #0" = 0
+	"Yaroslav #0" = 0
+	"Yefimiy #0" = 0
+	"Yelisey #0" = 0
+	"Yemelyan #0" = 0
+	"Yeremey #0" = 0
+	"Yevstafiy #0" = 0
+	"Yuriy #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

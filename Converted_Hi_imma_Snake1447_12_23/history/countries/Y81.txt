@@ -1,0 +1,27 @@
+# Sanaa
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = italian
+religion = jewish
+clear_scripted_personalities = yes
+capital = 391
+1436.5.23 = {
+	monarch = {
+		name = "Marietta"
+		birth_date = 1407.11.1
+		dynasty = "di Brindisi"
+		female = yes
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 391
+	add_treasury = 52
+	add_prestige = 163
+}

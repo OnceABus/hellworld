@@ -1,0 +1,10 @@
+israelite = {
+	ashkenazi = {
+		primary = ISR
+		dynasty_names = { "Binyamin" "Ben Leonhard" "Ben Reuben" "Ebheri" "of Hattin" "of Egarosindur" "of Beit Nuba" "of Mirabel" "of Ivanovka" "of Ad Dukaydik" "of Germa" "of Abydos" "of Gusau" "of Kremasti" "of Kyzikos" "of Toron" "of Gerace" "of Blanche Garde" "of Belfort" "of Beth Gibelin" "of Claudiopolis" "of Dorostotum" "Ben Leonhard" "of Narikella" "of Ash Shubaykah" }
+	}
+	sephardi = {
+		primary = ISR
+		dynasty_names = { }
+	}
+}

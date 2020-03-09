@@ -1,0 +1,26 @@
+# Rayhaan
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2218
+1443.9.22 = {
+	monarch = {
+		name = "Aram"
+		birth_date = 1408.2.23
+		dynasty = "Rayhaan"
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 2218
+	add_treasury = 97
+	add_prestige = 70
+}

@@ -1,0 +1,41 @@
+# Epirus
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 164
+1405.5.5 = {
+	monarch = {
+		name = "Martina"
+		birth_date = 1402.8.13
+		dynasty = "de Normandie"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = cruel_personality
+}
+1431.7.2 = {
+	heir = {
+		name = "Abbondanzio"
+		monarch_name = "Abbondanzio"
+		dynasty = "de Normandie"
+		birth_date = 1431.7.2
+		death_date = 1511.7.2
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+	add_heir_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 164
+	add_treasury = -17
+	add_prestige = 242
+}

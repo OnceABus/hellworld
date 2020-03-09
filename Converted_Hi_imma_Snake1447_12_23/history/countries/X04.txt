@@ -1,0 +1,27 @@
+# African Biscuits
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 3
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = german
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1121
+1429.10.14 = {
+	monarch = {
+		name = "Franz"
+		birth_date = 1397.10.28
+		dynasty = "Udonen"
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 1121
+	add_treasury = 115
+	add_prestige = 604
+}

@@ -1,0 +1,27 @@
+# Nagchu
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 4205
+1429.6.12 = {
+	monarch = {
+		name = "Drigum III"
+		birth_date = 1397.6.28
+		dynasty = "Chalid"
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 4205
+	add_treasury = 57
+	add_prestige = 267
+}

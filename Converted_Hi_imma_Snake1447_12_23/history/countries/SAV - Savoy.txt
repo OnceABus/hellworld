@@ -1,0 +1,26 @@
+# Savoy
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 1871
+1442.2.9 = {
+	monarch = {
+		name = "Raimond"
+		birth_date = 1432.8.19
+		dynasty = "von Rheinfelden"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 1871
+	add_treasury = 300
+	add_prestige = 143
+}

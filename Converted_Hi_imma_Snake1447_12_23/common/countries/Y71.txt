@@ -1,0 +1,144 @@
+# Razzaqid
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 10 255 80 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Abdul-Razzaq" "Abdul-Rahman" "Randa" "Gamila" "Musa" "Khadija" "Fatima" "Sa'd" "Malika" "Mubashir" 
+	"Layla" "Abu" "Mundir" "Bilal" "Ahu" "Tifilwit" "Raisa" "Kera" "Safiya" "Tariq" 
+	"Tahira" "Daniyah" "Thashim" "Huda" "Nadia" "Wahida" "Dezsõ" "Tarifa" "Borso" "Abbad" 
+	"Hakam" "Balashk" "Héloise" "Muyahid" "Wannaqo" "Sanyo" "Yazid" "al-Ikhshid" "al-Hakim" "az-Zahir" 
+	"al-Mustansir" "Abu Mansur al-Nizar" "Agathonikos" "Amunet" "Alim" "Annibale" "Nicola" "Demetrio" "Corradino" "Attilio" 
+	"Omero" "Tiziana" "Pagano" "Cornelia" "Bianca" "Fausta" "Abdallah" "Abdul-Aziz" "Abdul-Hakam" "Abdul-Hasan" 
+	"Abdul-Hazm" "Adfuns" "Amr" "Ayyub" "Fadl" "Fath" "Galind" "Garsiya" "Hilal" "Ibrahim" 
+	"Isma'il" "Jyad" "Lubb" "Ma'n" "Raf" "Rashid" "Rasiq" "Siddray" "Suleyman" "Umar" 
+	"Utman" "Ya'far" "Yahaff" "Yahya" "Yusuf" }
+monarch_names = {
+	"Abdul-Razzaq #0" = 1
+	"Abdul-Rahman #1" = 18
+	"Randa #0" = -1
+	"Gamila #0" = -1
+	"Musa #0" = 1
+	"Khadija #0" = -1
+	"Fatima #0" = -1
+	"Sa'd #0" = 1
+	"Malika #0" = -1
+	"Mubashir #0" = 1
+	"Layla #0" = -1
+	"Abu #0" = 1
+	"Mundir #0" = 1
+	"Bilal #0" = 1
+	"Ahu #0" = -1
+	"Tifilwit #0" = 1
+	"Raisa #0" = -1
+	"Kera #0" = -1
+	"Safiya #1" = -19
+	"Tariq #0" = 1
+	"Tahira #0" = -1
+	"Daniyah #0" = -1
+	"Thashim #0" = -1
+	"Huda #0" = -1
+	"Nadia #0" = -1
+	"Wahida #0" = -1
+	"Dezsõ #0" = 1
+	"Tarifa #0" = -1
+	"Borso #0" = 1
+	"Abbad #0" = 1
+	"Hakam #0" = 1
+	"Balashk #0" = 1
+	"Héloise #0" = -1
+	"Muyahid #0" = 1
+	"Wannaqo #0" = 1
+	"Sanyo #0" = 1
+	"Yazid #1" = 0
+	"al-Ikhshid #1" = 0
+	"al-Hakim #1" = 0
+	"az-Zahir #1" = 0
+	"al-Mustansir #1" = 0
+	"Abu Mansur al-Nizar #1" = 0
+	"Agathonikos #1" = 0
+	"Amunet #1" = -1
+	"Alim #1" = 0
+	"Annibale #1" = 0
+	"Nicola #1" = 0
+	"Demetrio #1" = 0
+	"Corradino #2" = 0
+	"Attilio #1" = 0
+	"Omero #1" = 0
+	"Tiziana #2" = -1
+	"Pagano #2" = 0
+	"Cornelia #1" = -1
+	"Bianca #1" = -1
+	"Fausta #1" = -1
+	"Abdallah #0" = 0
+	"Abdul-Aziz #0" = 0
+	"Abdul-Hakam #0" = 0
+	"Abdul-Hasan #0" = 0
+	"Abdul-Hazm #0" = 0
+	"Adfuns #0" = 0
+	"Amr #0" = 0
+	"Ayyub #0" = 0
+	"Fadl #0" = 0
+	"Fath #0" = 0
+	"Galind #0" = 0
+	"Garsiya #0" = 0
+	"Hilal #0" = 0
+	"Ibrahim #0" = 0
+	"Isma'il #0" = 0
+	"Jyad #0" = 0
+	"Lubb #0" = 0
+	"Ma'n #0" = 0
+	"Raf #0" = 0
+	"Rashid #0" = 0
+	"Rasiq #0" = 0
+	"Siddray #0" = 0
+	"Suleyman #0" = 0
+	"Umar #0" = 0
+	"Utman #0" = 0
+	"Ya'far #0" = 0
+	"Yahaff #0" = 0
+	"Yahya #0" = 0
+	"Yusuf #0" = 0
+}
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
+}
+

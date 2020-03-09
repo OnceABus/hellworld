@@ -1,0 +1,40 @@
+# Talakadid
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 550
+1407.7.17 = {
+	monarch = {
+		name = "Srivikrama"
+		birth_date = 1390.5.22
+		dynasty = "Talakadid"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = architectural_visionary_personality
+	add_ruler_personality = craven_personality
+}
+1426.7.28 = {
+	heir = {
+		name = "Vidurathpal"
+		monarch_name = "Vidurathpal"
+		dynasty = "Talakadid"
+		birth_date = 1426.7.28
+		death_date = 1506.7.28
+		adm = 3
+		dip = 6
+		mil = 1
+	}
+	add_heir_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 550
+	add_treasury = 19
+	add_prestige = 421
+}

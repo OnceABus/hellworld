@@ -1,0 +1,26 @@
+# Bjarmia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1955
+1443.1.29 = {
+	monarch = {
+		name = "Bernardo"
+		birth_date = 1413.10.27
+		dynasty = "Nuraghe"
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 1955
+	add_treasury = 19
+	add_prestige = 73
+}

@@ -1,0 +1,26 @@
+# Silesia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = german
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 4238
+1441.5.23 = {
+	monarch = {
+		name = "Athom"
+		birth_date = 1425.4.26
+		dynasty = "von Madman"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 4238
+	add_treasury = 51
+	add_prestige = 281
+}

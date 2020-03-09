@@ -1,0 +1,203 @@
+# Tao
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 231 80 130 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Kotyan" "Sevilay" "Ipek" "Gvantsa" "Ashot" "Lela" "Ana" "Mathiko" "Lamara" "Grigoli" 
+	"Bakur" "Chito" "Anzori" "Gabrieli" "Dali" "Ioane" "Adarnase" "Gurgen" "Endzela" "Padla" 
+	"Koba" "Levan" "Etrek" "Blush" "Gulçiçek" "Kopti" "Gundes" "Törtogul" "Ipekel" "Asalup" 
+	"Aepak" "Kubasar" "Çilbu" "Mala" "Çiltanesi" "Sibel" "Asep" "Begluk" "Gunes" "Kutan" 
+	"Sotan" "Eldeçyuk" "Ayasun" "Itlar" "Umay" "Yeldem" "Saru" "Sarica" "Dilek" "Ilkay" 
+	"Samur" "Gzi" "Koza" "Çilen" "Pulad" "Yasar" "Bonyak" "Kobyak" "Çiçek" "Bachman" 
+	"Kozel" "Sevenç" "Yildiz" "Irge" "Ituk" "Wenshunu" "Xingge" "Songul" "Özgul" "Varazdat" 
+	"Girgen" "Bozçin" "Gunduz" "Sugr" "Ayten" "Esin" "Tekçe" "Kvirike" "Gulay" "Kaikhosro" 
+	"Zurab" "Trinring" "Tsiala" "Dedika" "Aghsartan" "Mthvarisa" "Davit" "Athom" "Martha" "Giorgi" 
+	"Shanshe" "Georgios" "Komitas" "Mamia" "Iese" "Gagiki" "Andronik" "Sibylla" "Aleksandre" "Archili" 
+	"Bagrat" "Demetre" "Demna" "Djavakhi" "Erekle" "Guaram" "Gubaz" "Ishkhanik" "Iveri" "Jarji" 
+	"Kakhi" "Konstantine" "Kvarkvare" "Luarsab" "Malkhazi" "Merab" "Mikheil" "Mukhran" "Nerse" "Nikoloz" 
+	"Okhropir" "Orbeli" "Samoeli" "Shota" "Simon" "Stepanoz" "Sumbat" "Teimuraz" "Tornike" "Ushisha" 
+	"Vache" "Vakhtang" "Zviad" }
+monarch_names = {
+	"Kotyan #0" = 1
+	"Sevilay #0" = -1
+	"Ipek #1" = -19
+	"Gvantsa #0" = -1
+	"Ashot #0" = 1
+	"Lela #0" = -1
+	"Ana #0" = -1
+	"Mathiko #0" = -1
+	"Lamara #0" = -1
+	"Grigoli #0" = 1
+	"Bakur #0" = 1
+	"Chito #0" = -1
+	"Anzori #0" = 1
+	"Gabrieli #1" = 24
+	"Dali #0" = -1
+	"Ioane #0" = 1
+	"Adarnase #0" = 1
+	"Gurgen #1" = 18
+	"Endzela #0" = -1
+	"Padla #0" = 1
+	"Koba #0" = 1
+	"Levan #0" = 1
+	"Etrek #0" = 1
+	"Blush #0" = 1
+	"Gulçiçek #0" = -1
+	"Kopti #0" = 1
+	"Gundes #0" = -1
+	"Törtogul #0" = 1
+	"Ipekel #0" = -1
+	"Asalup #0" = 1
+	"Aepak #0" = 1
+	"Kubasar #0" = 1
+	"Çilbu #0" = 1
+	"Mala #0" = -1
+	"Çiltanesi #0" = -1
+	"Sibel #0" = -1
+	"Asep #0" = 1
+	"Begluk #0" = 1
+	"Gunes #0" = -1
+	"Kutan #0" = 1
+	"Sotan #0" = 1
+	"Eldeçyuk #0" = 1
+	"Ayasun #0" = -1
+	"Itlar #0" = 1
+	"Umay #0" = -1
+	"Yeldem #0" = -1
+	"Saru #0" = 1
+	"Sarica #0" = -1
+	"Dilek #0" = -1
+	"Ilkay #0" = -1
+	"Samur #0" = -1
+	"Gzi #0" = 1
+	"Koza #0" = 1
+	"Çilen #0" = -1
+	"Pulad #0" = 1
+	"Yasar #0" = -1
+	"Bonyak #0" = 1
+	"Kobyak #0" = 1
+	"Çiçek #0" = -1
+	"Bachman #0" = 1
+	"Kozel #0" = 1
+	"Sevenç #0" = 1
+	"Yildiz #0" = -1
+	"Irge #0" = -1
+	"Ituk #0" = 1
+	"Wenshunu #0" = 1
+	"Xingge #0" = -1
+	"Songul #0" = -1
+	"Özgul #0" = -1
+	"Varazdat #0" = 1
+	"Girgen #0" = 1
+	"Bozçin #0" = -1
+	"Gunduz #0" = -1
+	"Sugr #0" = 1
+	"Ayten #0" = -1
+	"Esin #0" = -1
+	"Tekçe #0" = -1
+	"Kvirike #1" = 18
+	"Gulay #0" = -1
+	"Kaikhosro #0" = 1
+	"Zurab #0" = 1
+	"Trinring #0" = 1
+	"Tsiala #0" = -1
+	"Dedika #0" = -1
+	"Aghsartan #0" = 1
+	"Mthvarisa #0" = -1
+	"Davit #1" = 0
+	"Athom #1" = 0
+	"Martha #1" = -1
+	"Giorgi #1" = 0
+	"Shanshe #2" = 0
+	"Georgios #1" = 0
+	"Komitas #1" = 0
+	"Mamia #1" = 0
+	"Iese #2" = 0
+	"Gagiki #2" = 0
+	"Andronik #1" = 0
+	"Sibylla #1" = -1
+	"Aleksandre #0" = 0
+	"Archili #0" = 0
+	"Bagrat #0" = 0
+	"Demetre #0" = 0
+	"Demna #0" = 0
+	"Djavakhi #0" = 0
+	"Erekle #0" = 0
+	"Guaram #0" = 0
+	"Gubaz #0" = 0
+	"Ishkhanik #0" = 0
+	"Iveri #0" = 0
+	"Jarji #0" = 0
+	"Kakhi #0" = 0
+	"Konstantine #0" = 0
+	"Kvarkvare #0" = 0
+	"Luarsab #0" = 0
+	"Malkhazi #0" = 0
+	"Merab #0" = 0
+	"Mikheil #0" = 0
+	"Mukhran #0" = 0
+	"Nerse #0" = 0
+	"Nikoloz #0" = 0
+	"Okhropir #0" = 0
+	"Orbeli #0" = 0
+	"Samoeli #0" = 0
+	"Shota #0" = 0
+	"Simon #0" = 0
+	"Stepanoz #0" = 0
+	"Sumbat #0" = 0
+	"Teimuraz #0" = 0
+	"Tornike #0" = 0
+	"Ushisha #0" = 0
+	"Vache #0" = 0
+	"Vakhtang #0" = 0
+	"Zviad #0" = 0
+}
+ship_names = {
+	Aragveti Anacopia Artaani Abkhazeti
+	Bichvinta Batomi
+	Dmanisi Demetre
+	Ereti
+	Geguti Gelati
+	Kutatsi Kharnabuji Kura
+	Lasharisjvari Lore
+	Mtkvari
+	Narikala
+	Ruisi Racha
+	Seti Svaneti
+	Tamar Tbilisi Telavi Tbilisi Tashiri
+	Urbnisi
+}
+

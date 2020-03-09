@@ -1,0 +1,27 @@
+# Tripolitania
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 354
+1429.2.5 = {
+	monarch = {
+		name = "Alyamas II"
+		birth_date = 1411.6.4
+		dynasty = "a Muirebe"
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 354
+	add_treasury = 718
+	add_prestige = 157
+}

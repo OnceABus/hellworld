@@ -1,0 +1,28 @@
+# Lancaster
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = anglo_saxon
+religion = sunni
+clear_scripted_personalities = yes
+capital = 244
+1425.1.29 = {
+	monarch = {
+		name = "Æbba"
+		birth_date = 1416.4.18
+		dynasty = "Sarkis"
+		female = yes
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = expansionist_personality
+}
+1444.11.11 = {
+	capital = 244
+	add_treasury = 970
+	add_prestige = 43
+}

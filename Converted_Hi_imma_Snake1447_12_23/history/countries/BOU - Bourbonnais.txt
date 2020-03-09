@@ -1,0 +1,27 @@
+# Bourbon
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = lollard
+clear_scripted_personalities = yes
+capital = 195
+1412.9.25 = {
+	monarch = {
+		name = "Tigran"
+		birth_date = 1397.1.3
+		dynasty = "Mamikonian"
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = silver_tongue_personality
+}
+1444.11.11 = {
+	capital = 195
+	add_treasury = 645
+	add_prestige = 106
+}

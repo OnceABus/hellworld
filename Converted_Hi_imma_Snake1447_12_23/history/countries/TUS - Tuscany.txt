@@ -1,0 +1,27 @@
+# Tuscany
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 116
+1432.2.5 = {
+	monarch = {
+		name = "Ippolito"
+		birth_date = 1400.7.7
+		dynasty = "di Novara"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = free_thinker_personality
+}
+1444.11.11 = {
+	capital = 116
+	add_treasury = 16
+	add_prestige = 109
+}

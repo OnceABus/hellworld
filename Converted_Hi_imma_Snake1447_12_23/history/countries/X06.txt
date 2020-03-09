@@ -1,0 +1,27 @@
+# Gurma
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = mali
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1136
+1415.4.14 = {
+	monarch = {
+		name = "Sandaki II"
+		birth_date = 1386.10.10
+		dynasty = "Badäid"
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 1136
+	add_treasury = 19
+	add_prestige = 384
+}

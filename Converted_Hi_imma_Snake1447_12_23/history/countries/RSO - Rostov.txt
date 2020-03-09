@@ -1,0 +1,26 @@
+# Rostov
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+clear_scripted_personalities = yes
+capital = 294
+1437.4.29 = {
+	monarch = {
+		name = "Sudislav"
+		birth_date = 1436.3.6
+		dynasty = "Davidovich"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 294
+	add_treasury = 0
+	add_prestige = 119
+}

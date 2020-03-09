@@ -1,0 +1,26 @@
+east_slavic = {
+	ilmenian = {
+		primary = NOV
+		dynasty_names = { }
+	}
+	volhynian = {
+		primary = KIE
+		dynasty_names = { }
+	}
+	severian = {
+		primary = KIE
+		dynasty_names = { }
+	}
+	russian_culture = {
+		primary = RUS
+		dynasty_names = { "Rurikid" "Okolnichy" "Osipovich" "Davidovich" "Volhynsky" "Konstantinid" "Matveev" "of Kilifarevski" "of Pereyaslavl" "Poluektovich" "of Rusi" "Artamonovich" "Tverdiatich" "Zubivic" "Fedorovich" "Arovich" "Lyubechanin" "Dobrynich" "of Pinsk" "Khovansky" "Meroslavich" "Lvov" "Lyakhovich" "Zubvich" "Drusovich" "Mstislavich" "Tverdiatich" "Turgenev" "Artamonovich" "of Baia" "Kholmsky" "of Vasyliv" "Bryachislavich" "Drusovich" "Matveev" "Okolnichy" "of Barysaw" "of Yuriev" "of Tuzara" "Borisov" "Vyshatich" "of Vyshhorod" "Vsevolodich" "of Pankovka" "Khitrov" "of Davyd-Haradok" "Mozhavic" "Neplyuyev" "of Pitesti" "Tverdiatich" "Lukovic" "Turgenev" }
+	}
+	carantanian = {
+		primary = SLO
+		dynasty_names = { }
+	}
+	bosnian = {
+		primary = BOS
+		dynasty_names = { "Hrvatinic" "Nikolic" "Vukovic" "Vlatkovic" "od Hög" }
+	}
+}

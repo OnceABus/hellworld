@@ -1,0 +1,26 @@
+# Achaia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = lollard
+clear_scripted_personalities = yes
+capital = 1773
+1437.8.1 = {
+	monarch = {
+		name = "Kaisarios"
+		birth_date = 1404.1.27
+		dynasty = "Brachamios"
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 1773
+	add_treasury = 64
+	add_prestige = 19
+}

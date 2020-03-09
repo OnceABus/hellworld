@@ -1,0 +1,27 @@
+# Trebizond
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 330
+1409.8.27 = {
+	monarch = {
+		name = "Cosma"
+		birth_date = 1394.12.12
+		dynasty = "Pisanu"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 330
+	add_treasury = 76
+	add_prestige = 342
+}

@@ -1,0 +1,166 @@
+# Transylvania
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 255 150 150 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	religious_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	germanized_pike
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+}
+
+
+
+leader_names = {
+
+	"Könçek" "Karacik" "Gulçiçek" "Bozçin" "Uzluk" "RuanSuogu" "Girgen" "Sevilay" "Ayasun" "Atrak" 
+	"Sibel" "Kozel" "Törtogul" "Begluk" "Itlar" "Sarica" "Eldeçyuk" "Sirçan" "Çiçek" "Sevindik" 
+	"Sugr" "Kopti" "Sotan" "Koza" "Songul" "Tugor" "Peksen" "Gulay" "Tura" "Özgul" 
+	"Kutan" "Özlem" "Bönek" "Yeldem" "Ipek" "Esin" "Tolun" "Bonyak" "Etrek" "Ipekel" 
+	"Akgul" "Ilkay" "Bachman" "Gundes" "Samur" "Yasar" "Uzur" "Mala" "Borç" "Kobyak" 
+	"Sirma" "Asep" "Sati" "Irge" "Tekçe" "Çiltanesi" "Yilig" "Dukum" "Alzek" "Zabergan" 
+	"Yani" "Yugurtu" "Ispor" "Gostum" "Kayghalagh" "Dox" "Gyula" "Horca" "István" "Sámuel" 
+	"Levente" "Béla" "László" "Õdön" "Tamás" "Móric" "Gergely" "György" "Berta" "Natália" 
+	"Aranka" "Zsigmond" "Saul" "Boldizsár" "Ernõ" "Álmos" "Lampert" "Tacsony" "Géza" "Lázár" 
+	"Amalie" "Çilbu" "Aepak" "Asalup" "Blush" "Gzi" "Ituk" "Kotyan" "Kubasar" "Kuntuvdi" 
+	"Pulad" "Saru" "Sevenç" "Sokal" "Togli" }
+monarch_names = {
+	"Könçek #0" = 1
+	"Karacik #0" = -1
+	"Gulçiçek #0" = -1
+	"Bozçin #0" = -1
+	"Uzluk #2" = 18
+	"RuanSuogu #0" = 1
+	"Girgen #1" = 45
+	"Sevilay #0" = -1
+	"Ayasun #0" = -1
+	"Atrak #0" = 1
+	"Sibel #0" = -1
+	"Kozel #0" = 1
+	"Törtogul #1" = 24
+	"Begluk #2" = 27
+	"Itlar #0" = 1
+	"Sarica #0" = -1
+	"Eldeçyuk #0" = 1
+	"Sirçan #0" = 1
+	"Çiçek #0" = -1
+	"Sevindik #0" = -1
+	"Sugr #0" = 1
+	"Kopti #0" = 1
+	"Sotan #0" = 1
+	"Koza #0" = 1
+	"Songul #0" = -1
+	"Tugor #0" = 1
+	"Peksen #0" = -1
+	"Gulay #0" = -1
+	"Tura #0" = -1
+	"Özgul #0" = -1
+	"Kutan #0" = 1
+	"Özlem #0" = -1
+	"Bönek #0" = 1
+	"Yeldem #0" = -1
+	"Ipek #0" = -1
+	"Esin #0" = -1
+	"Tolun #0" = 1
+	"Bonyak #0" = 1
+	"Etrek #0" = 1
+	"Ipekel #0" = -1
+	"Akgul #0" = -1
+	"Ilkay #0" = -1
+	"Bachman #0" = 1
+	"Gundes #0" = -1
+	"Samur #0" = -1
+	"Yasar #0" = -1
+	"Uzur #0" = 1
+	"Mala #0" = -1
+	"Borç #0" = 1
+	"Kobyak #1" = 18
+	"Sirma #0" = -1
+	"Asep #0" = 1
+	"Sati #0" = -1
+	"Irge #0" = -1
+	"Tekçe #0" = -1
+	"Çiltanesi #0" = -1
+	"Yilig #1" = 0
+	"Dukum #1" = 0
+	"Alzek #1" = 0
+	"Zabergan #1" = 0
+	"Yani #1" = 0
+	"Yugurtu #1" = 0
+	"Ispor #1" = 0
+	"Gostum #1" = 0
+	"Kayghalagh #1" = 0
+	"Dox #1" = 0
+	"Gyula #3" = 0
+	"Horca #1" = 0
+	"István #1" = 0
+	"Sámuel #1" = 0
+	"Levente #1" = 0
+	"Béla #1" = 0
+	"László #1" = 0
+	"Õdön #1" = 0
+	"Tamás #1" = 0
+	"Móric #1" = 0
+	"Gergely #1" = 0
+	"György #2" = 0
+	"Berta #1" = -1
+	"Natália #1" = -1
+	"Aranka #1" = -1
+	"Zsigmond #1" = 0
+	"Saul #1" = 0
+	"Boldizsár #1" = 0
+	"Ernõ #1" = 0
+	"Álmos #1" = 0
+	"Lampert #1" = 0
+	"Tacsony #1" = 0
+	"Géza #1" = 0
+	"Lázár #1" = 0
+	"Amalie #1" = -1
+	"Çilbu #0" = 0
+	"Aepak #0" = 0
+	"Asalup #0" = 0
+	"Blush #0" = 0
+	"Gzi #0" = 0
+	"Ituk #0" = 0
+	"Kotyan #0" = 0
+	"Kubasar #0" = 0
+	"Kuntuvdi #0" = 0
+	"Pulad #0" = 0
+	"Saru #0" = 0
+	"Sevenç #0" = 0
+	"Sokal #0" = 0
+	"Togli #0" = 0
+}
+ship_names = {
+	Aranybulla 
+	Arpad
+	Magyar
+	Sigismund
+	"Szent Istvan kiraly"
+	"Hunyadi Matyas"
+	"Karoly Robert"
+	"Nagy Lajos"
+	Laszlo
+	Kalman
+}
+

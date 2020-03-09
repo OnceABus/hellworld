@@ -1,0 +1,27 @@
+# Transjurania
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = bosnian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1828
+1419.7.12 = {
+	monarch = {
+		name = "Michael II"
+		birth_date = 1413.5.9
+		dynasty = "von Metz"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 1828
+	add_treasury = 27
+	add_prestige = 373
+}

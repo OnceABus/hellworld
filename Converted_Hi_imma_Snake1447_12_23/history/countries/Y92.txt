@@ -1,0 +1,27 @@
+# Alian
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khitan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 718
+1432.11.22 = {
+	monarch = {
+		name = "Fuguzhi"
+		birth_date = 1401.3.26
+		dynasty = "Alian"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 718
+	add_treasury = 17
+	add_prestige = 229
+}

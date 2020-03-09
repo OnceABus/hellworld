@@ -1,0 +1,162 @@
+# Bessarabia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 190 202 175 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	religious_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	germanized_pike
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+}
+
+
+
+leader_names = {
+
+	"Lev" "Predslava" "Rogneda" "Vsevolod" "Vyshata" "Boleslava" "Vasilisa" "Vseslav" "Sbyslava" "Roman" 
+	"Marina" "Yemelyan" "Alexei" "Ulyana" "Pereyaslava" "Dmitriy" "Koz'ma" "Alexandr" "Kirill" "Andrei" 
+	"Sudislav" "Radoslav" "Pribislava" "Davyd" "Nikita" "Irina" "Daniil" "Rodislav" "Rogvolod" "Fevronia" 
+	"Olga" "Kubrat" "Batbayan" "Asparukh" "Tervel" "Kelbir" "Sabin" "Telerig" "Kardam" "Dukum" 
+	"Gavril" "Boru" "Konstantios" "Andronikos" "Theoktistos" "Nikephoros" "Theocharistos" "Gerasimos" "Çilbu" "Dilek" 
+	"Dorothea" "Cothilda" "Afanasiy" "Boris" "Briachislav" "Demid" "Dobrynia" "Fedot" "Feodor" "Gavriil" 
+	"Gleb" "Grigoriy" "Iakov" "Igor" "Iliya" "Ingvar" "Ivan" "Iziaslav" "Konstantin" "Matfei" 
+	"Mikhail" "Mitrofan" "Mstislav" "Oleg" "Pavel" "Putiata" "Rostislav" "Rurik" "Ruslan" "Stanislav" 
+	"Stepan" "Svetozar" "Sviatopolk" "Sviatoslav" "Terentiy" "Trifon" "Vasiliy" "Vasilko" "Viacheslav" "Vladimir" 
+	"Vladislav" "Voislav" "Volodar" "Vysheslav" "Yaropolk" "Yaroslav" "Yefimiy" "Yelisey" "Yeremey" "Yevstafiy" 
+	"Yuriy" }
+monarch_names = {
+	"Lev #0" = 1
+	"Predslava #0" = -1
+	"Rogneda #0" = -1
+	"Vsevolod #1" = 18
+	"Vyshata #0" = 1
+	"Boleslava #0" = -1
+	"Vasilisa #0" = -1
+	"Vseslav #1" = 21
+	"Sbyslava #0" = -1
+	"Roman #0" = 1
+	"Marina #0" = -1
+	"Yemelyan #0" = 1
+	"Alexei #0" = 1
+	"Ulyana #0" = -1
+	"Pereyaslava #0" = -1
+	"Dmitriy #0" = 1
+	"Koz'ma #1" = 24
+	"Alexandr #0" = 1
+	"Kirill #0" = 1
+	"Andrei #0" = 1
+	"Sudislav #1" = 21
+	"Radoslav #0" = 1
+	"Pribislava #0" = -1
+	"Davyd #0" = 1
+	"Nikita #0" = 1
+	"Irina #0" = -1
+	"Daniil #0" = 1
+	"Rodislav #0" = 1
+	"Rogvolod #0" = 1
+	"Fevronia #0" = -1
+	"Olga #0" = -1
+	"Kubrat #1" = 0
+	"Batbayan #1" = 0
+	"Asparukh #1" = 0
+	"Tervel #1" = 0
+	"Kelbir #1" = 0
+	"Sabin #1" = 0
+	"Telerig #1" = 0
+	"Kardam #1" = 0
+	"Dukum #1" = 0
+	"Gavril #1" = 0
+	"Boru #1" = 0
+	"Konstantios #1" = 0
+	"Andronikos #1" = 0
+	"Theoktistos #3" = 0
+	"Nikephoros #1" = 0
+	"Theocharistos #1" = 0
+	"Gerasimos #2" = 0
+	"Çilbu #3" = 0
+	"Dilek #1" = -1
+	"Dorothea #1" = -1
+	"Cothilda #1" = -1
+	"Afanasiy #0" = 0
+	"Boris #0" = 0
+	"Briachislav #0" = 0
+	"Demid #0" = 0
+	"Dobrynia #0" = 0
+	"Fedot #0" = 0
+	"Feodor #0" = 0
+	"Gavriil #0" = 0
+	"Gleb #0" = 0
+	"Grigoriy #0" = 0
+	"Iakov #0" = 0
+	"Igor #0" = 0
+	"Iliya #0" = 0
+	"Ingvar #0" = 0
+	"Ivan #0" = 0
+	"Iziaslav #0" = 0
+	"Konstantin #0" = 0
+	"Matfei #0" = 0
+	"Mikhail #0" = 0
+	"Mitrofan #0" = 0
+	"Mstislav #0" = 0
+	"Oleg #0" = 0
+	"Pavel #0" = 0
+	"Putiata #0" = 0
+	"Rostislav #0" = 0
+	"Rurik #0" = 0
+	"Ruslan #0" = 0
+	"Stanislav #0" = 0
+	"Stepan #0" = 0
+	"Svetozar #0" = 0
+	"Sviatopolk #0" = 0
+	"Sviatoslav #0" = 0
+	"Terentiy #0" = 0
+	"Trifon #0" = 0
+	"Vasiliy #0" = 0
+	"Vasilko #0" = 0
+	"Viacheslav #0" = 0
+	"Vladimir #0" = 0
+	"Vladislav #0" = 0
+	"Voislav #0" = 0
+	"Volodar #0" = 0
+	"Vysheslav #0" = 0
+	"Yaropolk #0" = 0
+	"Yaroslav #0" = 0
+	"Yefimiy #0" = 0
+	"Yelisey #0" = 0
+	"Yeremey #0" = 0
+	"Yevstafiy #0" = 0
+	"Yuriy #0" = 0
+}
+ship_names = {
+	Aranybulla 
+	Arpad
+	Magyar
+	Sigismund
+	"Szent Istvan kiraly"
+	"Hunyadi Matyas"
+	"Karoly Robert"
+	"Nagy Lajos"
+	Laszlo
+	Kalman
+}
+

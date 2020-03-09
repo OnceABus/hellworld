@@ -1,0 +1,27 @@
+# Cairo
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2329
+1428.1.25 = {
+	monarch = {
+		name = "Arcibaldo"
+		birth_date = 1424.2.28
+		dynasty = "Bugur"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = well_connected_personality
+}
+1444.11.11 = {
+	capital = 2329
+	add_treasury = 84
+	add_prestige = 132
+}

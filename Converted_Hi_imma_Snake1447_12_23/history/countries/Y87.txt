@@ -1,0 +1,27 @@
+# Bhakkar
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = gujarati
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 576
+1441.5.7 = {
+	monarch = {
+		name = "Hariyadevi"
+		birth_date = 1417.9.15
+		dynasty = "Vinaykpalid"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = lawgiver_personality
+}
+1444.11.11 = {
+	capital = 576
+	add_treasury = 44
+	add_prestige = 135
+}

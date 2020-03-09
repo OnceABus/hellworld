@@ -1,0 +1,187 @@
+# Azerbaijan
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 112 120 180 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Vassak" "Zmroukhd" "Yahya" "Yazid" "Khalid" "Haytham" "Manuchehr" "Kubad" "Salar" "Fariburz" 
+	"Mamlan" "Konstantinos" "Timotheos" "Theophylaktos" "Ioannes" "Abdul-Wahab" "Kiliç" "Gulchara" "Basarab" "Daniel" 
+	"Keratsa" "Saros" "Btsenon" "Kaikhosro" "Andronikos" "Vishtasb" "Irandokht" "Roshanora" "Adelasia" "Aghsartan" 
+	"Tahmasb" "Mehrab" "Shirin" "Ricciarda" "Luchino" "Morteza" "Soraya" "Carla" "Bonaventura" "Abas" 
+	"Abirad" "Aboughamr" "Aboulgharib" "Aleksandr" "Artashes" "Artashir" "Artavazd" "Arsen" "Arshak" "Ashot" 
+	"Athom" "Atrnerseh" "Avag" "Avedis" "Bagour" "Bagrat" "Bedros" "Boghos" "Davit" "Eshkhan" 
+	"Gagik" "Gevorg" "Gosdantin" "Grigor" "Gurgen" "Hagop" "Hamazasp" "Hethum" "Hovhannes" "Hovsep" 
+	"Ishkhan" "Ivane" "Kapriel" "Khachik" "Khosrov" "Levon" "Malkhas" "Mamigon" "Manuel" "Margos" 
+	"Melek" "Mihrdat" "Mikayel" "Mleh" "Mushegh" "Mushel" "Mzhezh" "Nerseh" "Oshin" "Roupen" 
+	"Sahag" "Sarkis" "Sevag" "Shahanshah" "Smbat" "Stepanos" "Tachat" "Taniel" "Tatoul" "Tigran" 
+	"Tornik" "Tovmas" "Thoros" "Trdat" "Vache" "Vachagan" "Vagharshak" "Vahag" "Vahan" "Vahram" 
+	"Vakhtank" "Varazdat" "Vartan" "Vesd" "Vrtanes" "Zakare" "Zarmihr" }
+monarch_names = {
+	"Vassak #1" = 18
+	"Zmroukhd #0" = -1
+	"Yahya #1" = 0
+	"Yazid #3" = 0
+	"Khalid #1" = 0
+	"Haytham #2" = 0
+	"Manuchehr #1" = 0
+	"Kubad #1" = 0
+	"Salar #1" = 0
+	"Fariburz #1" = 0
+	"Mamlan #1" = 0
+	"Konstantinos #1" = 0
+	"Timotheos #1" = 0
+	"Theophylaktos #2" = 0
+	"Ioannes #1" = 0
+	"Abdul-Wahab #1" = 0
+	"Kiliç #1" = 0
+	"Gulchara #1" = -1
+	"Basarab #1" = 0
+	"Daniel #1" = 0
+	"Keratsa #1" = -1
+	"Saros #1" = 0
+	"Btsenon #1" = -1
+	"Kaikhosro #1" = 0
+	"Andronikos #1" = 0
+	"Vishtasb #1" = 0
+	"Irandokht #1" = -1
+	"Roshanora #1" = -1
+	"Adelasia #1" = -1
+	"Aghsartan #1" = 0
+	"Tahmasb #1" = 0
+	"Mehrab #1" = 0
+	"Shirin #1" = -1
+	"Ricciarda #1" = -1
+	"Luchino #1" = 0
+	"Morteza #1" = 0
+	"Soraya #1" = -1
+	"Carla #1" = -1
+	"Bonaventura #1" = 0
+	"Abas #0" = 0
+	"Abirad #0" = 0
+	"Aboughamr #0" = 0
+	"Aboulgharib #0" = 0
+	"Aleksandr #0" = 0
+	"Artashes #0" = 0
+	"Artashir #0" = 0
+	"Artavazd #0" = 0
+	"Arsen #0" = 0
+	"Arshak #0" = 0
+	"Ashot #0" = 0
+	"Athom #0" = 0
+	"Atrnerseh #0" = 0
+	"Avag #0" = 0
+	"Avedis #0" = 0
+	"Bagour #0" = 0
+	"Bagrat #0" = 0
+	"Bedros #0" = 0
+	"Boghos #0" = 0
+	"Davit #0" = 0
+	"Eshkhan #0" = 0
+	"Gagik #0" = 0
+	"Gevorg #0" = 0
+	"Gosdantin #0" = 0
+	"Grigor #0" = 0
+	"Gurgen #0" = 0
+	"Hagop #0" = 0
+	"Hamazasp #0" = 0
+	"Hethum #0" = 0
+	"Hovhannes #0" = 0
+	"Hovsep #0" = 0
+	"Ishkhan #0" = 0
+	"Ivane #0" = 0
+	"Kapriel #0" = 0
+	"Khachik #0" = 0
+	"Khosrov #0" = 0
+	"Levon #0" = 0
+	"Malkhas #0" = 0
+	"Mamigon #0" = 0
+	"Manuel #0" = 0
+	"Margos #0" = 0
+	"Melek #0" = 0
+	"Mihrdat #0" = 0
+	"Mikayel #0" = 0
+	"Mleh #0" = 0
+	"Mushegh #0" = 0
+	"Mushel #0" = 0
+	"Mzhezh #0" = 0
+	"Nerseh #0" = 0
+	"Oshin #0" = 0
+	"Roupen #0" = 0
+	"Sahag #0" = 0
+	"Sarkis #0" = 0
+	"Sevag #0" = 0
+	"Shahanshah #0" = 0
+	"Smbat #0" = 0
+	"Stepanos #0" = 0
+	"Tachat #0" = 0
+	"Taniel #0" = 0
+	"Tatoul #0" = 0
+	"Tigran #0" = 0
+	"Tornik #0" = 0
+	"Tovmas #0" = 0
+	"Thoros #0" = 0
+	"Trdat #0" = 0
+	"Vache #0" = 0
+	"Vachagan #0" = 0
+	"Vagharshak #0" = 0
+	"Vahag #0" = 0
+	"Vahan #0" = 0
+	"Vahram #0" = 0
+	"Vakhtank #0" = 0
+	"Varazdat #0" = 0
+	"Vartan #0" = 0
+	"Vesd #0" = 0
+	"Vrtanes #0" = 0
+	"Zakare #0" = 0
+	"Zarmihr #0" = 0
+}
+ship_names = {
+	Abathur "Adamn Kasia" "Aesma Daeva" Agas
+	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
+	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
+	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
+	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
+	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
+	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
+	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
+	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
+	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
+	"Zend-Avesta" Zurvan
+}
+

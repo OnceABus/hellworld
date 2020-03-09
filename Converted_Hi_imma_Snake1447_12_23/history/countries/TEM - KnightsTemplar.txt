@@ -1,0 +1,27 @@
+# Knights Templar
+government = theocracy
+add_government_reform = monastic_order_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = cosmopolitan_french
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1939
+1417.11.2 = {
+	monarch = {
+		name = "Eadberht"
+		birth_date = 1387.7.11
+		dynasty = "Bussino"
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 1939
+	add_treasury = 759
+	add_prestige = 684
+}

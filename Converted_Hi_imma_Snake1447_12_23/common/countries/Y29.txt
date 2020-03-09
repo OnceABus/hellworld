@@ -1,0 +1,265 @@
+# Pest
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 150 51 51 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	religious_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	germanized_pike
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+}
+
+
+
+leader_names = {
+
+	"Lothar" "Etel" "Kozel" "Roxana" "Bönek" "Gzi" "Kutan" "Atrak" "Bachman" "Irge" 
+	"Ambrosia" "Sirçan" "Corradino" "Adolf" "Peksen" "Ladislau" "Asli" "Ipekel" "Gút" "Bény" 
+	"Miklós" "Ipoly" "Keled" "Dezsõ" "Margit" "Lothár" "Elemér" "Gertrúd" "Vid" "Márton" 
+	"Zsanett" "Lampert" "Lõrinc" "Terezia" "Alajos" "Gazsi" "Mátyás" "Matild" "Ádárn" "Anikó" 
+	"Szilveszter" "Zsófia" "Dorottya" "Orsolya" "Kinga" "Ferenc" "Czenzi" "Erika" "Sámuel" "Irén" 
+	"György" "Anna" "Péter" "Mózes" "Piroska" "Gizella" "Tundér" "Berta" "Natália" "Móric" 
+	"Euphemia" "Csongor" "Skolasztika" "Pál" "Ágoston" "Oszkár" "Mária" "Ernõ" "Paolo" "Sándor" 
+	"Vencel" "Sára" "Katalin" "Lodovico" "Ñouddl" "Aranka" "Pesanthia" "Eszter" "Magdolna" "Fulöp" 
+	"Tivadar" "Judith" "Augusta" "Györgyi" "Sophia" "Kunigunda" "Jolán" "Carla" "Hajnal" "Soma" 
+	"Zoltán" "Krisztina" "Kálmán" "Angyalka" "Jenõ" "Donát" "Mihály" "Álmos" "Konstancia" "József" 
+	"Sugr" "Itlar" "Ambrus" "Kamilla" "Kopti" "Júlia" "Csilla" "Levente" "Csaba" "Elek" 
+	"Sarica" "Gyula" "Kobyak" "Ayasun" "Mala" "Çiçek" "Bonyak" "Aepak" "Sati" "Emõke" 
+	"Etrek" "Usunbike" "Asep" "Bertók" "Gundes" "Tura" "Kuntuvdi" "Ituk" "Prospero" "Borç" 
+	"Tolun" "Drong" "Yavantey" "Alp" "Dizeng" "Baghatur" "Tuzniq" "Khudbard" "Salamon" "Kätyarikka" 
+	"Klára" "Bretislava" "Ábel" "Árpád" "Õdön" "András" "Antal" "Attila" "Bálint" "Béla" 
+	"Balázs" "Benedek" "Bernát" "Bertalan" "Boldizsár" "Bonuslo" "Borisz" "Csák" "Dénes" "Dömötör" 
+	"Domoszló" "Endre" "Frigyes" "Gábor" "Gábriel" "Gáspár" "Géza" "Gellért" "Gergely" "Imre" 
+	"István" "Izsák" "Jákob" "János" "Károly" "Konrád" "Kornél" "Kristóf" "László" "Lázár" 
+	"Lajos" "Lukács" "Márk" "Máté" "Nándor" "Orbán" "Saul" "Tádor" "Tacsony" "Tamás" 
+	"Tibor" "Vazul" "Vilmos" "Zsigmond" "Zsolt" }
+monarch_names = {
+	"Lothar #0" = 1
+	"Etel #0" = -1
+	"Kozel #0" = 1
+	"Roxana #0" = -1
+	"Bönek #0" = 1
+	"Gzi #0" = 1
+	"Kutan #0" = 1
+	"Atrak #0" = 1
+	"Bachman #0" = 1
+	"Irge #0" = -1
+	"Ambrosia #0" = -1
+	"Sirçan #0" = 1
+	"Corradino #0" = 1
+	"Adolf #1" = 18
+	"Peksen #0" = -1
+	"Ladislau #0" = 1
+	"Asli #0" = -1
+	"Ipekel #0" = -1
+	"Gút #0" = 1
+	"Bény #0" = 1
+	"Miklós #1" = 27
+	"Ipoly #0" = 1
+	"Keled #0" = 1
+	"Dezsõ #1" = 24
+	"Margit #0" = -1
+	"Lothár #0" = 1
+	"Elemér #0" = 1
+	"Gertrúd #0" = -1
+	"Vid #0" = 1
+	"Márton #1" = 30
+	"Zsanett #1" = -22
+	"Lampert #0" = 1
+	"Lõrinc #0" = 1
+	"Terezia #0" = -1
+	"Alajos #0" = 1
+	"Gazsi #0" = 1
+	"Mátyás #0" = 1
+	"Matild #0" = -1
+	"Ádárn #0" = 1
+	"Anikó #0" = -1
+	"Szilveszter #0" = 1
+	"Zsófia #1" = -19
+	"Dorottya #0" = -1
+	"Orsolya #1" = -22
+	"Kinga #0" = -1
+	"Ferenc #0" = 1
+	"Czenzi #0" = -1
+	"Erika #0" = -1
+	"Sámuel #0" = 1
+	"Irén #0" = -1
+	"György #0" = 1
+	"Anna #0" = -1
+	"Péter #0" = 1
+	"Mózes #0" = 1
+	"Piroska #0" = -1
+	"Gizella #0" = -1
+	"Tundér #0" = -1
+	"Berta #1" = -22
+	"Natália #0" = -1
+	"Móric #1" = 21
+	"Euphemia #0" = -1
+	"Csongor #0" = 1
+	"Skolasztika #0" = -1
+	"Pál #0" = 1
+	"Ágoston #0" = 1
+	"Oszkár #0" = 1
+	"Mária #0" = -1
+	"Ernõ #0" = 1
+	"Paolo #0" = 1
+	"Sándor #1" = 21
+	"Vencel #0" = 1
+	"Sára #0" = -1
+	"Katalin #0" = -1
+	"Lodovico #0" = 1
+	"Ñouddl #0" = -1
+	"Aranka #1" = -22
+	"Pesanthia #0" = -1
+	"Eszter #0" = -1
+	"Magdolna #0" = -1
+	"Fulöp #0" = 1
+	"Tivadar #0" = 1
+	"Judith #0" = -1
+	"Augusta #0" = -1
+	"Györgyi #0" = -1
+	"Sophia #0" = -1
+	"Kunigunda #1" = -22
+	"Jolán #1" = -19
+	"Carla #0" = -1
+	"Hajnal #0" = -1
+	"Soma #0" = 1
+	"Zoltán #0" = 1
+	"Krisztina #0" = -1
+	"Kálmán #0" = 1
+	"Angyalka #0" = -1
+	"Jenõ #0" = 1
+	"Donát #1" = 21
+	"Mihály #0" = 1
+	"Álmos #0" = 1
+	"Konstancia #0" = -1
+	"József #0" = 1
+	"Sugr #0" = 1
+	"Itlar #0" = 1
+	"Ambrus #0" = 1
+	"Kamilla #0" = -1
+	"Kopti #0" = 1
+	"Júlia #0" = -1
+	"Csilla #0" = -1
+	"Levente #0" = 1
+	"Csaba #0" = 1
+	"Elek #0" = 1
+	"Sarica #0" = -1
+	"Gyula #0" = 1
+	"Kobyak #0" = 1
+	"Ayasun #0" = -1
+	"Mala #0" = -1
+	"Çiçek #0" = -1
+	"Bonyak #0" = 1
+	"Aepak #0" = 1
+	"Sati #0" = -1
+	"Emõke #0" = -1
+	"Etrek #0" = 1
+	"Usunbike #0" = -1
+	"Asep #0" = 1
+	"Bertók #0" = 1
+	"Gundes #0" = -1
+	"Tura #0" = -1
+	"Kuntuvdi #0" = 1
+	"Ituk #0" = 1
+	"Prospero #1" = 18
+	"Borç #0" = 1
+	"Tolun #0" = 1
+	"Drong #1" = 0
+	"Yavantey #1" = 0
+	"Alp #1" = 0
+	"Dizeng #1" = 0
+	"Baghatur #1" = 0
+	"Tuzniq #1" = 0
+	"Khudbard #1" = 0
+	"Salamon #1" = 0
+	"Kätyarikka #1" = -1
+	"Klára #1" = -1
+	"Bretislava #1" = -1
+	"Ábel #0" = 0
+	"Árpád #0" = 0
+	"Õdön #0" = 0
+	"András #0" = 0
+	"Antal #0" = 0
+	"Attila #0" = 0
+	"Bálint #0" = 0
+	"Béla #0" = 0
+	"Balázs #0" = 0
+	"Benedek #0" = 0
+	"Bernát #0" = 0
+	"Bertalan #0" = 0
+	"Boldizsár #0" = 0
+	"Bonuslo #0" = 0
+	"Borisz #0" = 0
+	"Csák #0" = 0
+	"Dénes #0" = 0
+	"Dömötör #0" = 0
+	"Domoszló #0" = 0
+	"Endre #0" = 0
+	"Frigyes #0" = 0
+	"Gábor #0" = 0
+	"Gábriel #0" = 0
+	"Gáspár #0" = 0
+	"Géza #0" = 0
+	"Gellért #0" = 0
+	"Gergely #0" = 0
+	"Imre #0" = 0
+	"István #0" = 0
+	"Izsák #0" = 0
+	"Jákob #0" = 0
+	"János #0" = 0
+	"Károly #0" = 0
+	"Konrád #0" = 0
+	"Kornél #0" = 0
+	"Kristóf #0" = 0
+	"László #0" = 0
+	"Lázár #0" = 0
+	"Lajos #0" = 0
+	"Lukács #0" = 0
+	"Márk #0" = 0
+	"Máté #0" = 0
+	"Nándor #0" = 0
+	"Orbán #0" = 0
+	"Saul #0" = 0
+	"Tádor #0" = 0
+	"Tacsony #0" = 0
+	"Tamás #0" = 0
+	"Tibor #0" = 0
+	"Vazul #0" = 0
+	"Vilmos #0" = 0
+	"Zsigmond #0" = 0
+	"Zsolt #0" = 0
+}
+ship_names = {
+	Aranybulla 
+	Arpad
+	Magyar
+	Sigismund
+	"Szent Istvan kiraly"
+	"Hunyadi Matyas"
+	"Karoly Robert"
+	"Nagy Lajos"
+	Laszlo
+	Kalman
+}
+

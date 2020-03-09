@@ -1,0 +1,26 @@
+# Poitou
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = fraticelli
+clear_scripted_personalities = yes
+capital = 180
+1443.9.21 = {
+	monarch = {
+		name = "Rorgon"
+		birth_date = 1419.4.28
+		dynasty = "de Gironde"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 180
+	add_treasury = 219
+	add_prestige = 49
+}

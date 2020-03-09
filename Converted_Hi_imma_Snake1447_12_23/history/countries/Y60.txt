@@ -1,0 +1,27 @@
+# Konkana
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = marathi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 517
+1432.11.4 = {
+	monarch = {
+		name = "Cimmavisnu II"
+		birth_date = 1411.7.27
+		dynasty = "Vengi Chalukya"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 517
+	add_treasury = 37
+	add_prestige = 466
+}

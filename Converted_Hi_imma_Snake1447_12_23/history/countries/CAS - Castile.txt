@@ -1,0 +1,26 @@
+# Castille
+government = republic
+add_government_reform = republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = castillian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 1745
+1440.8.7 = {
+	monarch = {
+		name = "Eugenio II"
+		birth_date = 1398.11.28
+		dynasty = "di Santander"
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 1745
+	add_treasury = 148
+	add_prestige = 86
+}

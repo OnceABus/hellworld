@@ -1,0 +1,474 @@
+# Bavaria
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 178 163 143 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	religious_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	halberd_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Bernhard" "Amalberga" "Bianca" "Wannaqo" "Velmayka" "Ibtisam" "Caterina" "Zvonimir" "Khadija" "Tiziana" 
+	"Gerberga" "Garsiya" "Alberico" "Abdul-Aziz" "Glu's Righteous Anger" "Benilde" "Dima" "Chindyapa" "Konrad" "Umar" 
+	"Abdul-Razzaq" "Košuta" "Nataša" "Abdul-Hazm" "Mundir" "Bogoslav" "Barbara" "Gamila" "Tedaldo" "Tahira" 
+	"Rasiq" "Munya" "Jovana" "Letizia" "Agalina" "Mislav" "Sofia" "Fadl" "Marcella" "Cherava" 
+	"Fausta" "Amr" "Nada" "Benedetta" "Alda" "Habiba" "Helene" "Yahya" "Mihaela" "Engeltraud" 
+	"Balashk" "Adelia" "Daniyah" "Adolf" "Milman" "Thashim" "Fatima" "Rainero" "Ricciarda" "Ibrahim" 
+	"Sanyo" "Arnulf" "Reinhard" "Zsuzsa" "Salamon" "Kunigunda" "Gábriel" "Katalin" "Skolasztika" "Emese" 
+	"Natália" "Máté" "Vilmos" "Bertók" "Tádor" "Aranka" "Nándor" "Gerhard" "Agáta" "Zsófia" 
+	"Dömötör" "István" "Frigyes" "Lõrinc" "Panni" "Luca" "János" "Adela" "Hedwig" "Ádárn" 
+	"Benedek" "Lamberto" "Elemér" "Józsa" "Tibor" "Borbála" "Gabrieli" "Zsigmond" "Atenolfo" "Vencel" 
+	"Ágnes" "Ildikó" "Illona" "Gergely" "József" "Aubrey" "Györgyi" "Amália" "Irén" "Ágoston" 
+	"Júlia" "Csillag" "Silvester" "Ausonia" "Matteo" "Yusuf" "Enzio" "Felicita" "Pál" "Fortunata" 
+	"Béla" "Catone" "Vitale" "Berta" "Gulisa" "Matild" "Constanza" "Tacsony" "Ippolita" "Krisztina" 
+	"Ambrus" "Õdön" "Virág" "Caracosa" "Dezsõ" "Yvon" "Frédéric" "Torf" "Butayna" "Gellért" 
+	"Flandina" "Magdolna" "Bona" "Odola" "Delinda" "Errand" "Ida" "Malika" "Stentore" "Euphemia" 
+	"Wahida" "Sa'd" "Giselle" "Francesca" "Valdrade" "Oddone" "Stefania" "Lampert" "Czenzi" "Mária" 
+	"Patrizio" "Alessandra" "Michele" "Adelasia" "Antonino" "Felicia" "Zahra" "Yasmin" "Augusta" "Ferenc" 
+	"Adalbert" "Shindyay" "Ahu" "Karima" "Paola" "Lubb" "Ambrosia" "Zhebeg" "Abbad" "Nunzia" 
+	"Amelie" "Léonard" "Costantino" "Karlmann" "Suleyman" "Bilal" "Kera" "Naila" "Randa" "Eufemia" 
+	"Nezayka" "Hakam" "Hilal" "Eve" "Potyava" "Huda" "Toyaksha" "Hodierne" "Isra" "Elyuva" 
+	"Mubashir" "Dietpold" "Andyamo" "Musa" "Tomislav" "Otto" "Kanyava" "Aliyah" "Umm" "Berenice" 
+	"Gerardo" "Slyugan'ka" "Raineri" "Danail" "Ottobono" "Ute" "Rashid" "Ladika" "Vidyava" "Christine" 
+	"Héloise" "Doroteja" "Jacopo" "Abdul-Rahman" "Malyy" "Hranislav" "Guidone" "Stefano" "Ulrich" "Arnolfo" 
+	"Niccolò" "Chechama" "Abdul-Hakam" "Dergun" "Pyera" "Pokshayka" "Gheorghe" "Nur" "Alessandro" "Konstanze" 
+	"Layla" "Flora" "Nestore" "Chenksa" "Joscella" "Jyad" "Gordana" "Nikolitza" "Seyamka" "Elisa" 
+	"Milic" "Tetyava" "Viola" "Vladislava" "Rahat" "Mutimir" "Somatu" "Mare" "Klingon Lied Austria Died" "Clorinda" 
+	"Lidia" "Rafiqa" "Leopold" "Eberhard" "Berthold" "Heinrich" "Kuno" "Eberhart" "Helga" "Hartwig" 
+	"Richara" "Yippers" "Rinaldo" "Cosimo" "Tibaldo" "Simone" "Thietmar" "Candido" "Adalbero" "Adalhard" 
+	"Adam" "Ademar" "Alarich" "Alberich" "Albrecht" "Aldrich" "Alois" "Amadeus" "Amalrich" "Andreas" 
+	"Anselm" "Arnold" "Augustin" "Baldarich" "Baldewin" "Baldomar" "Baldur" "Berengar" "Burchard" "Dieter" 
+	"Dietmar" "Dietrich" "Dietwin" "Eginolf" "Ehrenfried" "Ekbert" "Ekkehard" "Emelrich" "Emich" "Emmerich" 
+	"Emund" "Engelbert" "Erich" "Ernst" "Ferdinand" "Filibert" "Folkhard" "Folkmar" "Franz" "Friedrich" 
+	"Gautselin" "Gebhard" "Georg" "Gerlach" "Giselbert" "Gottfried" "Gotthard" "Gottschalk" "Gotzelo" "Guntram" 
+	"Gunzelin" "Günther" "Hartmann" "Helferich" "Heribert" "Hermann" "Hesso" "Hugo" "Humbert" "Hupold" 
+	"Jakob" "Johann" "Jürgen" "Karl" "Kaspar" "Lambert" "Landolf" "Liudolf" "Liutbert" "Liutbrand" 
+	"Liutpold" "Lothar" "Ludolf" "Ludwig" "Lutbert" "Manegold" "Manfred" "Markward" "Matthias" "Meinhard" 
+	"Nikolaus" "Norbert" "Philipp" "Poppo" "Radbot" "Reinhold" "Rudolf" "Ruprecht" "Rutger" "Siegfried" 
+	"Sieghard" "Siegmund" "Sigismund" "Stefan" "Theodorich" "Udalrich" "Viktor" "Waldemar" "Walram" "Walther" 
+	"Welf" "Wenzel" "Werner" "Wido" "Wigerich" "Wilhelm" "Wolfgang" "Wolfram" }
+monarch_names = {
+	"Bernhard #0" = 1
+	"Amalberga #0" = -1
+	"Bianca #0" = -1
+	"Wannaqo #0" = 1
+	"Velmayka #0" = 1
+	"Ibtisam #0" = -1
+	"Caterina #0" = -1
+	"Zvonimir #0" = 1
+	"Khadija #0" = -1
+	"Tiziana #0" = -1
+	"Gerberga #0" = -1
+	"Garsiya #0" = 1
+	"Alberico #0" = 1
+	"Abdul-Aziz #0" = 1
+	"Glu's Righteous Anger #0" = 1
+	"Benilde #0" = -1
+	"Dima #0" = -1
+	"Chindyapa #0" = -1
+	"Konrad #0" = 1
+	"Umar #0" = 1
+	"Abdul-Razzaq #0" = 1
+	"Košuta #0" = -1
+	"Nataša #0" = -1
+	"Abdul-Hazm #0" = 1
+	"Mundir #0" = 1
+	"Bogoslav #0" = 1
+	"Barbara #0" = -1
+	"Gamila #0" = -1
+	"Tedaldo #0" = 1
+	"Tahira #0" = -1
+	"Rasiq #0" = 1
+	"Munya #0" = -1
+	"Jovana #0" = -1
+	"Letizia #0" = -1
+	"Agalina #0" = -1
+	"Mislav #0" = 1
+	"Sofia #0" = -1
+	"Fadl #0" = 1
+	"Marcella #0" = -1
+	"Cherava #0" = -1
+	"Fausta #0" = -1
+	"Amr #0" = 1
+	"Nada #0" = -1
+	"Benedetta #0" = -1
+	"Alda #0" = -1
+	"Habiba #0" = -1
+	"Helene #0" = -1
+	"Yahya #0" = 1
+	"Mihaela #0" = -1
+	"Engeltraud #0" = -1
+	"Balashk #0" = 1
+	"Adelia #0" = -1
+	"Daniyah #0" = -1
+	"Adolf #1" = 21
+	"Milman #0" = 1
+	"Thashim #0" = -1
+	"Fatima #0" = -1
+	"Rainero #0" = 1
+	"Ricciarda #1" = -19
+	"Ibrahim #0" = 1
+	"Sanyo #0" = 1
+	"Arnulf #1" = 18
+	"Reinhard #0" = 1
+	"Zsuzsa #0" = -1
+	"Salamon #0" = 1
+	"Kunigunda #0" = -1
+	"Gábriel #0" = 1
+	"Katalin #0" = -1
+	"Skolasztika #0" = -1
+	"Emese #0" = -1
+	"Natália #0" = -1
+	"Máté #0" = 1
+	"Vilmos #0" = 1
+	"Bertók #0" = 1
+	"Tádor #0" = 1
+	"Aranka #0" = -1
+	"Nándor #0" = 1
+	"Gerhard #0" = 1
+	"Agáta #0" = -1
+	"Zsófia #0" = -1
+	"Dömötör #0" = 1
+	"István #0" = 1
+	"Frigyes #0" = 1
+	"Lõrinc #0" = 1
+	"Panni #0" = -1
+	"Luca #0" = -1
+	"János #0" = 1
+	"Adela #0" = -1
+	"Hedwig #0" = -1
+	"Ádárn #0" = 1
+	"Benedek #0" = 1
+	"Lamberto #0" = 1
+	"Elemér #0" = 1
+	"Józsa #0" = -1
+	"Tibor #0" = 1
+	"Borbála #0" = -1
+	"Gabrieli #0" = 1
+	"Zsigmond #0" = 1
+	"Atenolfo #0" = 1
+	"Vencel #0" = 1
+	"Ágnes #0" = -1
+	"Ildikó #0" = -1
+	"Illona #0" = -1
+	"Gergely #0" = 1
+	"József #0" = 1
+	"Aubrey #0" = 1
+	"Györgyi #0" = -1
+	"Amália #0" = -1
+	"Irén #0" = -1
+	"Ágoston #0" = 1
+	"Júlia #0" = -1
+	"Csillag #0" = -1
+	"Silvester #0" = 1
+	"Ausonia #0" = -1
+	"Matteo #0" = 1
+	"Yusuf #0" = 1
+	"Enzio #0" = 1
+	"Felicita #0" = -1
+	"Pál #0" = 1
+	"Fortunata #0" = -1
+	"Béla #0" = 1
+	"Catone #0" = 1
+	"Vitale #0" = 1
+	"Berta #0" = -1
+	"Gulisa #0" = -1
+	"Matild #0" = -1
+	"Constanza #0" = -1
+	"Tacsony #0" = 1
+	"Ippolita #0" = -1
+	"Krisztina #0" = -1
+	"Ambrus #0" = 1
+	"Õdön #0" = 1
+	"Virág #0" = -1
+	"Caracosa #0" = -1
+	"Dezsõ #0" = 1
+	"Yvon #0" = -1
+	"Frédéric #0" = 1
+	"Torf #0" = 1
+	"Butayna #0" = -1
+	"Gellért #0" = 1
+	"Flandina #0" = -1
+	"Magdolna #0" = -1
+	"Bona #0" = -1
+	"Odola #0" = -1
+	"Delinda #0" = -1
+	"Errand #0" = 1
+	"Ida #0" = -1
+	"Malika #0" = -1
+	"Stentore #0" = 1
+	"Euphemia #0" = -1
+	"Wahida #0" = -1
+	"Sa'd #0" = 1
+	"Giselle #0" = -1
+	"Francesca #0" = -1
+	"Valdrade #0" = -1
+	"Oddone #0" = 1
+	"Stefania #1" = -19
+	"Lampert #0" = 1
+	"Czenzi #0" = -1
+	"Mária #0" = -1
+	"Patrizio #0" = 1
+	"Alessandra #0" = -1
+	"Michele #0" = 1
+	"Adelasia #0" = -1
+	"Antonino #0" = 1
+	"Felicia #0" = -1
+	"Zahra #0" = -1
+	"Yasmin #0" = -1
+	"Augusta #0" = -1
+	"Ferenc #0" = 1
+	"Adalbert #0" = 1
+	"Shindyay #0" = 1
+	"Ahu #0" = -1
+	"Karima #0" = -1
+	"Paola #0" = -1
+	"Lubb #0" = 1
+	"Ambrosia #0" = -1
+	"Zhebeg #0" = 1
+	"Abbad #0" = 1
+	"Nunzia #0" = -1
+	"Amelie #0" = -1
+	"Léonard #0" = 1
+	"Costantino #0" = 1
+	"Karlmann #0" = 1
+	"Suleyman #0" = 1
+	"Bilal #0" = 1
+	"Kera #0" = -1
+	"Naila #0" = -1
+	"Randa #0" = -1
+	"Eufemia #0" = -1
+	"Nezayka #0" = -1
+	"Hakam #0" = 1
+	"Hilal #0" = 1
+	"Eve #0" = -1
+	"Potyava #0" = -1
+	"Huda #0" = -1
+	"Toyaksha #0" = -1
+	"Hodierne #0" = -1
+	"Isra #0" = -1
+	"Elyuva #0" = -1
+	"Mubashir #0" = 1
+	"Dietpold #0" = 1
+	"Andyamo #0" = 1
+	"Musa #0" = 1
+	"Tomislav #0" = 1
+	"Otto #2" = 18
+	"Kanyava #0" = -1
+	"Aliyah #0" = -1
+	"Umm #0" = -1
+	"Berenice #0" = -1
+	"Gerardo #0" = 1
+	"Slyugan'ka #0" = -1
+	"Raineri #0" = 1
+	"Danail #0" = 1
+	"Ottobono #0" = 1
+	"Ute #0" = -1
+	"Rashid #0" = 1
+	"Ladika #0" = -1
+	"Vidyava #0" = -1
+	"Christine #0" = -1
+	"Héloise #0" = -1
+	"Doroteja #0" = -1
+	"Jacopo #0" = 1
+	"Abdul-Rahman #0" = 1
+	"Malyy #0" = 1
+	"Hranislav #0" = 1
+	"Guidone #0" = 1
+	"Stefano #0" = 1
+	"Ulrich #0" = 1
+	"Arnolfo #0" = 1
+	"Niccolò #0" = 1
+	"Chechama #0" = -1
+	"Abdul-Hakam #0" = 1
+	"Dergun #0" = 1
+	"Pyera #0" = 1
+	"Pokshayka #0" = 1
+	"Gheorghe #0" = 1
+	"Nur #0" = -1
+	"Alessandro #0" = 1
+	"Konstanze #0" = -1
+	"Layla #0" = -1
+	"Flora #1" = -19
+	"Nestore #1" = 18
+	"Chenksa #0" = -1
+	"Joscella #0" = -1
+	"Jyad #0" = 1
+	"Gordana #0" = -1
+	"Nikolitza #0" = 1
+	"Seyamka #0" = -1
+	"Elisa #0" = -1
+	"Milic #0" = 1
+	"Tetyava #0" = -1
+	"Viola #0" = -1
+	"Vladislava #0" = -1
+	"Rahat #0" = -1
+	"Mutimir #0" = 1
+	"Somatu #0" = 1
+	"Mare #0" = -1
+	"Klingon Lied Austria Died #0" = -1
+	"Clorinda #0" = -1
+	"Lidia #0" = -1
+	"Rafiqa #0" = -1
+	"Leopold #1" = 0
+	"Eberhard #1" = 0
+	"Berthold #1" = 0
+	"Heinrich #8" = 0
+	"Kuno #1" = 0
+	"Eberhart #1" = 0
+	"Helga #1" = -1
+	"Hartwig #1" = 0
+	"Richara #1" = -1
+	"Yippers #1" = 0
+	"Rinaldo #2" = 0
+	"Cosimo #1" = 0
+	"Tibaldo #1" = 0
+	"Simone #1" = 0
+	"Thietmar #1" = 0
+	"Candido #1" = 0
+	"Adalbero #0" = 0
+	"Adalhard #0" = 0
+	"Adam #0" = 0
+	"Ademar #0" = 0
+	"Alarich #0" = 0
+	"Alberich #0" = 0
+	"Albrecht #0" = 0
+	"Aldrich #0" = 0
+	"Alois #0" = 0
+	"Amadeus #0" = 0
+	"Amalrich #0" = 0
+	"Andreas #0" = 0
+	"Anselm #0" = 0
+	"Arnold #0" = 0
+	"Augustin #0" = 0
+	"Baldarich #0" = 0
+	"Baldewin #0" = 0
+	"Baldomar #0" = 0
+	"Baldur #0" = 0
+	"Berengar #0" = 0
+	"Burchard #0" = 0
+	"Dieter #0" = 0
+	"Dietmar #0" = 0
+	"Dietrich #0" = 0
+	"Dietwin #0" = 0
+	"Eginolf #0" = 0
+	"Ehrenfried #0" = 0
+	"Ekbert #0" = 0
+	"Ekkehard #0" = 0
+	"Emelrich #0" = 0
+	"Emich #0" = 0
+	"Emmerich #0" = 0
+	"Emund #0" = 0
+	"Engelbert #0" = 0
+	"Erich #0" = 0
+	"Ernst #0" = 0
+	"Ferdinand #0" = 0
+	"Filibert #0" = 0
+	"Folkhard #0" = 0
+	"Folkmar #0" = 0
+	"Franz #0" = 0
+	"Friedrich #0" = 0
+	"Gautselin #0" = 0
+	"Gebhard #0" = 0
+	"Georg #0" = 0
+	"Gerlach #0" = 0
+	"Giselbert #0" = 0
+	"Gottfried #0" = 0
+	"Gotthard #0" = 0
+	"Gottschalk #0" = 0
+	"Gotzelo #0" = 0
+	"Guntram #0" = 0
+	"Gunzelin #0" = 0
+	"Günther #0" = 0
+	"Hartmann #0" = 0
+	"Helferich #0" = 0
+	"Heribert #0" = 0
+	"Hermann #0" = 0
+	"Hesso #0" = 0
+	"Hugo #0" = 0
+	"Humbert #0" = 0
+	"Hupold #0" = 0
+	"Jakob #0" = 0
+	"Johann #0" = 0
+	"Jürgen #0" = 0
+	"Karl #0" = 0
+	"Kaspar #0" = 0
+	"Lambert #0" = 0
+	"Landolf #0" = 0
+	"Liudolf #0" = 0
+	"Liutbert #0" = 0
+	"Liutbrand #0" = 0
+	"Liutpold #0" = 0
+	"Lothar #0" = 0
+	"Ludolf #0" = 0
+	"Ludwig #0" = 0
+	"Lutbert #0" = 0
+	"Manegold #0" = 0
+	"Manfred #0" = 0
+	"Markward #0" = 0
+	"Matthias #0" = 0
+	"Meinhard #0" = 0
+	"Nikolaus #0" = 0
+	"Norbert #0" = 0
+	"Philipp #0" = 0
+	"Poppo #0" = 0
+	"Radbot #0" = 0
+	"Reinhold #0" = 0
+	"Rudolf #0" = 0
+	"Ruprecht #0" = 0
+	"Rutger #0" = 0
+	"Siegfried #0" = 0
+	"Sieghard #0" = 0
+	"Siegmund #0" = 0
+	"Sigismund #0" = 0
+	"Stefan #0" = 0
+	"Theodorich #0" = 0
+	"Udalrich #0" = 0
+	"Viktor #0" = 0
+	"Waldemar #0" = 0
+	"Walram #0" = 0
+	"Walther #0" = 0
+	"Welf #0" = 0
+	"Wenzel #0" = 0
+	"Werner #0" = 0
+	"Wido #0" = 0
+	"Wigerich #0" = 0
+	"Wilhelm #0" = 0
+	"Wolfgang #0" = 0
+	"Wolfram #0" = 0
+}
+ship_names = {
+	"St. Kilian" "Tassilo III" "Kaiser Ludwig IV"
+	"König Arnulf" "Graf von Bogen" "Graf von Andechs"
+	"Graf von Sulzbach" Wittelsbach "Graf von Diepolding"
+	"König Konrad III" "König Friedrich I" "Pfalzgraf Otto"
+	Augsburg Andechs Burgau Diessen Friedberg Kempten Lindau
+	Memmingen Mindel Oettingen Straubing Wolfstein
+}
+

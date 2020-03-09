@@ -1,0 +1,37 @@
+# Razzaqid
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = andalucian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 2315
+1444.7.1 = {
+	monarch = {
+		name = "Abdul-Rahman"
+		birth_date = 1386.6.10
+		dynasty = "Razzaqid"
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+	add_ruler_personality = pious_personality
+	heir = {
+		name = "Abu"
+		monarch_name = "Abu II"
+		dynasty = "Razzaqid"
+		birth_date = 1431.8.26
+		death_date = 1511.8.26
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 2315
+	add_treasury = 4
+	add_prestige = 302
+}

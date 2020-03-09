@@ -1,0 +1,205 @@
+# Vorotynsk
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 125 145 50 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Xi’er" "Deguang" "Dinianzhuli" "Qulü" "Yalixin" "Yueliduo" "Puhui" "Yanmu" "Zhigu" "Xi’erzhi" 
+	"Ketuyu" "Salade" "Taoge" "Yaliguo" "Duolubu" "Abaoji" "Ping" "Chucai" "Dilu" "Yudu" 
+	"Taige" "Mohuai" "Juqu" "Xibaxiong" "Hechen" "Qizhen" "Mohuba" "Boshi" "Bage" "Xuedu" 
+	"Xiao" "Xiao-Wen" "Changshou" "Baling" "Tabuyan" "Duba" "Sougu" "Cuiba" "Lübugu" "Yingtian" 
+	"Heluwo" "Tiebu" "Kailuo" "Pidie" "Xian" "Noulisi" "Abugu" "Aguo" "Alian" "Anduan" 
+	"Axin" "Bancai" "Bei" "Biegute" "Bishe" "Chala" "Dashi" "Dilie" "Duoluo" "Fuguzhi" 
+	"Gaoqi" "Gou'er" "Gou’er" "Gunai" "Guozhe" "Hanshe" "Helü" "Hongji" "Hougu" "Hudugu" 
+	"Hudujin" "Jilujuan" "Jing" "Jinshan" "Julü" "Keling" "Kuge" "Lihu" "Liuge" "Loguo" 
+	"Mergan" "Mohui" "Mopei" "Muyan" "Nieli" "Nuohebo" "Nuosi" "Pidi" "Pogu" "Qidegui" 
+	"Qinde" "Qinu" "Quju" "Qushu" "Rian" "Rilujuan" "RuanSuogu" "Saba" "Saladi" "Shancai" 
+	"Shaogu" "Shefuchen" "Shegui" "Shifang" "Shihuo" "Shilu" "Shouguonu" "Shulü" "Sibu" "Tanmozhe" 
+	"Tiande" "Tongguyu" "Tuyu" "Wenshunu" "Wogan" "Wolila" "Wuge" "Wuwuchen" "Wuyu" "Xiduguan" 
+	"Xiuge" "Yali" "Yanchege" "Yanxi" "Yaogu" "Yaoshinu" "Yexian" "Yidougui" "Yilie" "Yudugu" 
+	"Yundeshi" "Zhengge" "Zhiligu" "Zhilugu" "Zhongyuan" "Zhulie" "Zongzhen" }
+monarch_names = {
+	"Xi’er #0" = 1
+	"Deguang #0" = 1
+	"Dinianzhuli #0" = 1
+	"Qulü #0" = 1
+	"Yalixin #0" = -1
+	"Yueliduo #0" = -1
+	"Puhui #0" = 1
+	"Yanmu #0" = -1
+	"Zhigu #0" = 1
+	"Xi’erzhi #0" = 1
+	"Ketuyu #0" = 1
+	"Salade #0" = 1
+	"Taoge #0" = -1
+	"Yaliguo #0" = 1
+	"Duolubu #0" = 1
+	"Abaoji #0" = 1
+	"Ping #0" = -1
+	"Chucai #0" = 1
+	"Dilu #0" = 1
+	"Yudu #0" = 1
+	"Taige #0" = -1
+	"Mohuai #0" = 1
+	"Juqu #0" = 1
+	"Xibaxiong #0" = 1
+	"Hechen #0" = 1
+	"Qizhen #0" = 1
+	"Mohuba #0" = 1
+	"Boshi #0" = -1
+	"Bage #0" = -1
+	"Xuedu #0" = 1
+	"Xiao #0" = -1
+	"Xiao-Wen #0" = -1
+	"Changshou #0" = -1
+	"Baling #0" = 1
+	"Tabuyan #0" = -1
+	"Duba #0" = 1
+	"Sougu #0" = 1
+	"Cuiba #0" = -1
+	"Lübugu #0" = -1
+	"Yingtian #0" = -1
+	"Heluwo #0" = 1
+	"Tiebu #0" = 1
+	"Kailuo #0" = 1
+	"Pidie #0" = 1
+	"Xian #0" = 1
+	"Noulisi #0" = 1
+	"Abugu #0" = 0
+	"Aguo #0" = 0
+	"Alian #0" = 0
+	"Anduan #0" = 0
+	"Axin #0" = 0
+	"Bancai #0" = 0
+	"Bei #0" = 0
+	"Biegute #0" = 0
+	"Bishe #0" = 0
+	"Chala #0" = 0
+	"Dashi #0" = 0
+	"Dilie #0" = 0
+	"Duoluo #0" = 0
+	"Fuguzhi #0" = 0
+	"Gaoqi #0" = 0
+	"Gou'er #0" = 0
+	"Gou’er #0" = 0
+	"Gunai #0" = 0
+	"Guozhe #0" = 0
+	"Hanshe #0" = 0
+	"Helü #0" = 0
+	"Hongji #0" = 0
+	"Hougu #0" = 0
+	"Hudugu #0" = 0
+	"Hudujin #0" = 0
+	"Jilujuan #0" = 0
+	"Jing #0" = 0
+	"Jinshan #0" = 0
+	"Julü #0" = 0
+	"Keling #0" = 0
+	"Kuge #0" = 0
+	"Lihu #0" = 0
+	"Liuge #0" = 0
+	"Loguo #0" = 0
+	"Mergan #0" = 0
+	"Mohui #0" = 0
+	"Mopei #0" = 0
+	"Muyan #0" = 0
+	"Nieli #0" = 0
+	"Nuohebo #0" = 0
+	"Nuosi #0" = 0
+	"Pidi #0" = 0
+	"Pogu #0" = 0
+	"Qidegui #0" = 0
+	"Qinde #0" = 0
+	"Qinu #0" = 0
+	"Quju #0" = 0
+	"Qushu #0" = 0
+	"Rian #0" = 0
+	"Rilujuan #0" = 0
+	"RuanSuogu #0" = 0
+	"Saba #0" = 0
+	"Saladi #0" = 0
+	"Shancai #0" = 0
+	"Shaogu #0" = 0
+	"Shefuchen #0" = 0
+	"Shegui #0" = 0
+	"Shifang #0" = 0
+	"Shihuo #0" = 0
+	"Shilu #0" = 0
+	"Shouguonu #0" = 0
+	"Shulü #0" = 0
+	"Sibu #0" = 0
+	"Tanmozhe #0" = 0
+	"Tiande #0" = 0
+	"Tongguyu #0" = 0
+	"Tuyu #0" = 0
+	"Wenshunu #0" = 0
+	"Wogan #0" = 0
+	"Wolila #0" = 0
+	"Wuge #0" = 0
+	"Wuwuchen #0" = 0
+	"Wuyu #0" = 0
+	"Xiduguan #0" = 0
+	"Xiuge #0" = 0
+	"Yali #0" = 0
+	"Yanchege #0" = 0
+	"Yanxi #0" = 0
+	"Yaogu #0" = 0
+	"Yaoshinu #0" = 0
+	"Yexian #0" = 0
+	"Yidougui #0" = 0
+	"Yilie #0" = 0
+	"Yudugu #0" = 0
+	"Yundeshi #0" = 0
+	"Zhengge #0" = 0
+	"Zhiligu #0" = 0
+	"Zhilugu #0" = 0
+	"Zhongyuan #0" = 0
+	"Zhulie #0" = 0
+	"Zongzhen #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

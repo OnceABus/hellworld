@@ -1,0 +1,404 @@
+# Navarra
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 230 198 90 }
+historical_idea_groups = {
+	naval_ideas
+	religious_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	french_caracolle
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Walram" "Catone" "Razmouhi" "Vincenzo" "Xiangjun" "Gudrun" "Wolfram" "Friedrica" "Thomas" "Talore" 
+	"Gotzelo" "Oveco" "Albrecht" "Aldonza" "Giric" "Guiges" "Leonide" "Brunhilde" "Lennon" "Inga" 
+	"Eya" "Guntram" "Konstanze" "Ronalda" "Giovanna" "Kazimierz" "Judyta" "Álvaro" "Raynaud" "Beathoc" 
+	"Mechthild" "Edwin" "Martín" "Morna" "Wido" "Eufrozyna" "Gruoch" "Reinhard" "Przemyslaw" "Alois" 
+	"Vartouhi" "Inés" "Adam" "Muriel" "Conan" "Christine" "Martin" "Meinhard" "Friedrich" "Francesca" 
+	"Henry" "Ute" "Anselm" "Manuele" "Tepes" "Rhonda" "Heike" "Frida" "Scholastyka" "Binhilde" 
+	"Gisela" "Ordoño" "Heilwiva" "Berengar" "Alexandru" "Adelasia" "Helga" "Matad" "Helen" "Mariyam" 
+	"Dorothea" "Leopold" "Iona" "Agnes" "Ferdinand" "Günther" "Folkmar" "Fulko" "Jutta" "Kunigunde" 
+	"Heinrich" "Isentrude" "Sofie" "Katharina" "Adolf" "Erich" "Alberich" "Franz" "Osterhild" "Matthias" 
+	"Walpurga" "Ekbert" "Barbara" "Magnus" "Radbot" "Karlotte" "Adelheid" "Kuno" "Maria" "Enric" 
+	"Gottschalk" "Baldomar" "Dietmar" "Ruprecht" "Christopher" "Amalie" "Hedwig" "Margarete" "Berta" "Manegold" 
+	"Dieter" "Ekkehard" "Alberade" "Helferich" "Kriemhild" "Elisabeth" "Irmele" "Berchte" "Ingeltrude" "Helene" 
+	"Hupold" "Wilhelm" "Hemma" "Ademar" "Walther" "Irmgard" "Ulrike" "Rutger" "Wigerich" "Nikolaus" 
+	"Hildeburg" "Adalbert" "Berenice" "Adelinde" "Emma" "Folkhard" "Georg" "Adalbero" "Zsigmond" "Engeltraud" 
+	"Adalberto" "Eginolf" "Cothilda" "Gzi" "Winfrida" "Alienora" "Cecilie" "Miklós" "Ludolf" "Illona" 
+	"Anastazja" "Wulfhilde" "Gerhild" "Klementia" "Emich" "Richwara" "Richenza" "Augustin" "Ludwig" "Philippos" 
+	"Amadeus" "Irmeltrud" "Marin" "Liudolf" "Gerberga" "Wilhelmina" "Wolfgang" "Adela" "Gertrude" "Bozena" 
+	"Arnulf" "Beatrix" "Wszemila" "Borzyslaw" "Dana" "Heribert" "Klingson" "Helena" "Klingonette" "Eufemia" 
+	"Gerlach" "Stefania" "Kenna" "Hildegard" "Beata" "Reinhold" "Ermengard" "Kunegunda" "dippy was here" "Stefan" 
+	"Juana" "Skarbimir" "Henrike" "Johann" "Vesd" "Morgan" "Ernst" "Vilhelm" "Siddick" "Abirad" 
+	"Gotthard" "Tatoul" "Oda" "Marthoc" "Ximeno" "Antso" "Munio" "Eliza" "Galind" "Musa" 
+	"Abu" "Bernard" "Judith" "Petr" "Louis" "Guta" "Benoît" "Yolande" "Sarrazine" "Ilsa" 
+	"Édouard" "Érrard" "Étienne" "Adémar" "Adrien" "Aimery" "Alain" "Aldebert" "Aldéric" "Alphonse" 
+	"Amaury" "Amédée" "Ancel" "André" "Angelbert" "Antoine" "Archambaud" "Arnaud" "Arnault" "Arnoul" 
+	"Aubry" "Aymar" "Barthélémi" "Baudouin" "Bérenger" "Bertrand" "Bohemond" "Boson" "Bouchard" "Centule" 
+	"Charles" "Clotaire" "Ebbon" "Enguerrand" "Eudes" "Eustache" "Evrard" "Foulques" "François" "Frédéric" 
+	"Géraud" "Gargamel" "Gaucher" "Gaucelin" "Gauthier" "Geoffroy" "Gelduin" "Gilbert" "Gilles" "Godefroy" 
+	"Guichard" "Guilhem" "Guillaume" "Guy" "Hélie" "Hamelin" "Henri" "Herbert" "Hildebert" "Hugues" 
+	"Humbert" "Jacques" "Jaufré" "Jaspert" "Jean" "Josselin" "Jourdain" "Julien" "Léon" "Léonard" 
+	"Lothaire" "Loup" "Manassès" "Mathieu" "Maurice" "Nicolas" "Ogier" "Onfroy" "Orson" "Othon" 
+	"Payen" "Philippe" "Pierre" "Raimbaut" "Raoul" "Raymond" "Renaud" "Richard" "Robert" "Robin" 
+	"Roger" "Rorgon" "Rorgues" "Roubaud" "Savary" "Sigismond" "Simon" "Thibault" "Thiébaut" "Thierry" 
+	"Valeran" "Yves" }
+monarch_names = {
+	"Walram #0" = 1
+	"Catone #0" = 1
+	"Razmouhi #0" = -1
+	"Vincenzo #0" = 1
+	"Xiangjun #0" = -1
+	"Gudrun #0" = -1
+	"Wolfram #0" = 1
+	"Friedrica #0" = -1
+	"Thomas #0" = 1
+	"Talore #0" = 1
+	"Gotzelo #0" = 1
+	"Oveco #0" = 1
+	"Albrecht #0" = 1
+	"Aldonza #0" = -1
+	"Giric #0" = 1
+	"Guiges #0" = 1
+	"Leonide #0" = -1
+	"Brunhilde #0" = -1
+	"Lennon #0" = 1
+	"Inga #0" = -1
+	"Eya #0" = -1
+	"Guntram #0" = 1
+	"Konstanze #0" = -1
+	"Ronalda #0" = -1
+	"Giovanna #0" = -1
+	"Kazimierz #0" = 1
+	"Judyta #0" = -1
+	"Álvaro #0" = 1
+	"Raynaud #1" = 18
+	"Beathoc #0" = -1
+	"Mechthild #0" = -1
+	"Edwin #0" = 1
+	"Martín #0" = 1
+	"Morna #0" = -1
+	"Wido #0" = 1
+	"Eufrozyna #0" = -1
+	"Gruoch #0" = -1
+	"Reinhard #0" = 1
+	"Przemyslaw #0" = 1
+	"Alois #0" = 1
+	"Vartouhi #0" = -1
+	"Inés #0" = -1
+	"Adam #0" = 1
+	"Muriel #0" = -1
+	"Conan #0" = 1
+	"Christine #0" = -1
+	"Martin #0" = 1
+	"Meinhard #0" = 1
+	"Friedrich #0" = 1
+	"Francesca #0" = -1
+	"Henry #0" = 1
+	"Ute #0" = -1
+	"Anselm #0" = 1
+	"Manuele #0" = 1
+	"Tepes #0" = 1
+	"Rhonda #0" = -1
+	"Heike #0" = -1
+	"Frida #0" = -1
+	"Scholastyka #0" = -1
+	"Binhilde #0" = -1
+	"Gisela #0" = -1
+	"Ordoño #0" = 1
+	"Heilwiva #0" = -1
+	"Berengar #0" = 1
+	"Alexandru #0" = 1
+	"Adelasia #0" = -1
+	"Helga #0" = -1
+	"Matad #0" = 1
+	"Helen #0" = -1
+	"Mariyam #1" = -19
+	"Dorothea #0" = -1
+	"Leopold #0" = 1
+	"Iona #0" = -1
+	"Agnes #0" = -1
+	"Ferdinand #0" = 1
+	"Günther #0" = 1
+	"Folkmar #0" = 1
+	"Fulko #0" = 1
+	"Jutta #0" = -1
+	"Kunigunde #0" = -1
+	"Heinrich #0" = 1
+	"Isentrude #0" = -1
+	"Sofie #0" = -1
+	"Katharina #0" = -1
+	"Adolf #0" = 1
+	"Erich #0" = 1
+	"Alberich #0" = 1
+	"Franz #0" = 1
+	"Osterhild #0" = -1
+	"Matthias #0" = 1
+	"Walpurga #0" = -1
+	"Ekbert #0" = 1
+	"Barbara #0" = -1
+	"Magnus #0" = 1
+	"Radbot #0" = 1
+	"Karlotte #0" = -1
+	"Adelheid #0" = -1
+	"Kuno #0" = 1
+	"Maria #0" = -1
+	"Enric #0" = 1
+	"Gottschalk #0" = 1
+	"Baldomar #0" = 1
+	"Dietmar #0" = 1
+	"Ruprecht #0" = 1
+	"Christopher #0" = 1
+	"Amalie #0" = -1
+	"Hedwig #0" = -1
+	"Margarete #0" = -1
+	"Berta #0" = -1
+	"Manegold #0" = 1
+	"Dieter #0" = 1
+	"Ekkehard #0" = 1
+	"Alberade #0" = -1
+	"Helferich #0" = 1
+	"Kriemhild #0" = -1
+	"Elisabeth #0" = -1
+	"Irmele #0" = -1
+	"Berchte #0" = -1
+	"Ingeltrude #0" = -1
+	"Helene #0" = -1
+	"Hupold #0" = 1
+	"Wilhelm #0" = 1
+	"Hemma #1" = -19
+	"Ademar #0" = 1
+	"Walther #0" = 1
+	"Irmgard #0" = -1
+	"Ulrike #0" = -1
+	"Rutger #0" = 1
+	"Wigerich #0" = 1
+	"Nikolaus #0" = 1
+	"Hildeburg #0" = -1
+	"Adalbert #0" = 1
+	"Berenice #0" = -1
+	"Adelinde #0" = -1
+	"Emma #1" = -19
+	"Folkhard #0" = 1
+	"Georg #0" = 1
+	"Adalbero #0" = 1
+	"Zsigmond #0" = 1
+	"Engeltraud #0" = -1
+	"Adalberto #0" = 1
+	"Eginolf #0" = 1
+	"Cothilda #0" = -1
+	"Gzi #0" = 1
+	"Winfrida #0" = -1
+	"Alienora #0" = -1
+	"Cecilie #0" = -1
+	"Miklós #0" = 1
+	"Ludolf #0" = 1
+	"Illona #0" = -1
+	"Anastazja #0" = -1
+	"Wulfhilde #0" = -1
+	"Gerhild #0" = -1
+	"Klementia #0" = -1
+	"Emich #0" = 1
+	"Richwara #0" = -1
+	"Richenza #0" = -1
+	"Augustin #0" = 1
+	"Ludwig #0" = 1
+	"Philippos #0" = 1
+	"Amadeus #0" = 1
+	"Irmeltrud #0" = -1
+	"Marin #0" = 1
+	"Liudolf #0" = 1
+	"Gerberga #0" = -1
+	"Wilhelmina #0" = -1
+	"Wolfgang #0" = 1
+	"Adela #0" = -1
+	"Gertrude #0" = -1
+	"Bozena #0" = -1
+	"Arnulf #0" = 1
+	"Beatrix #0" = -1
+	"Wszemila #0" = -1
+	"Borzyslaw #0" = 1
+	"Dana #0" = -1
+	"Heribert #0" = 1
+	"Klingson #0" = 1
+	"Helena #0" = -1
+	"Klingonette #0" = -1
+	"Eufemia #0" = -1
+	"Gerlach #0" = 1
+	"Stefania #0" = -1
+	"Kenna #0" = -1
+	"Hildegard #0" = -1
+	"Beata #0" = -1
+	"Reinhold #0" = 1
+	"Ermengard #0" = -1
+	"Kunegunda #0" = -1
+	"dippy was here #0" = 1
+	"Stefan #0" = 1
+	"Juana #0" = -1
+	"Skarbimir #0" = 1
+	"Henrike #0" = -1
+	"Johann #0" = 1
+	"Vesd #0" = 1
+	"Morgan #0" = 1
+	"Ernst #0" = 1
+	"Vilhelm #0" = 1
+	"Siddick #0" = 1
+	"Abirad #0" = 1
+	"Gotthard #0" = 1
+	"Tatoul #0" = 1
+	"Oda #0" = -1
+	"Marthoc #0" = -1
+	"Ximeno #1" = 0
+	"Antso #2" = 0
+	"Munio #1" = 0
+	"Eliza #1" = -1
+	"Galind #1" = 0
+	"Musa #4" = 0
+	"Abu #1" = 0
+	"Bernard #1" = 0
+	"Judith #1" = -1
+	"Petr #1" = 0
+	"Louis #1" = 0
+	"Guta #1" = -1
+	"Benoît #1" = 0
+	"Yolande #1" = -1
+	"Sarrazine #1" = -1
+	"Ilsa #1" = -1
+	"Édouard #0" = 0
+	"Érrard #0" = 0
+	"Étienne #0" = 0
+	"Adémar #0" = 0
+	"Adrien #0" = 0
+	"Aimery #0" = 0
+	"Alain #0" = 0
+	"Aldebert #0" = 0
+	"Aldéric #0" = 0
+	"Alphonse #0" = 0
+	"Amaury #0" = 0
+	"Amédée #0" = 0
+	"Ancel #0" = 0
+	"André #0" = 0
+	"Angelbert #0" = 0
+	"Antoine #0" = 0
+	"Archambaud #0" = 0
+	"Arnaud #0" = 0
+	"Arnault #0" = 0
+	"Arnoul #0" = 0
+	"Aubry #0" = 0
+	"Aymar #0" = 0
+	"Barthélémi #0" = 0
+	"Baudouin #0" = 0
+	"Bérenger #0" = 0
+	"Bertrand #0" = 0
+	"Bohemond #0" = 0
+	"Boson #0" = 0
+	"Bouchard #0" = 0
+	"Centule #0" = 0
+	"Charles #0" = 0
+	"Clotaire #0" = 0
+	"Ebbon #0" = 0
+	"Enguerrand #0" = 0
+	"Eudes #0" = 0
+	"Eustache #0" = 0
+	"Evrard #0" = 0
+	"Foulques #0" = 0
+	"François #0" = 0
+	"Frédéric #0" = 0
+	"Géraud #0" = 0
+	"Gargamel #0" = 0
+	"Gaucher #0" = 0
+	"Gaucelin #0" = 0
+	"Gauthier #0" = 0
+	"Geoffroy #0" = 0
+	"Gelduin #0" = 0
+	"Gilbert #0" = 0
+	"Gilles #0" = 0
+	"Godefroy #0" = 0
+	"Guichard #0" = 0
+	"Guilhem #0" = 0
+	"Guillaume #0" = 0
+	"Guy #0" = 0
+	"Hélie #0" = 0
+	"Hamelin #0" = 0
+	"Henri #0" = 0
+	"Herbert #0" = 0
+	"Hildebert #0" = 0
+	"Hugues #0" = 0
+	"Humbert #0" = 0
+	"Jacques #0" = 0
+	"Jaufré #0" = 0
+	"Jaspert #0" = 0
+	"Jean #0" = 0
+	"Josselin #0" = 0
+	"Jourdain #0" = 0
+	"Julien #0" = 0
+	"Léon #0" = 0
+	"Léonard #0" = 0
+	"Lothaire #0" = 0
+	"Loup #0" = 0
+	"Manassès #0" = 0
+	"Mathieu #0" = 0
+	"Maurice #0" = 0
+	"Nicolas #0" = 0
+	"Ogier #0" = 0
+	"Onfroy #0" = 0
+	"Orson #0" = 0
+	"Othon #0" = 0
+	"Payen #0" = 0
+	"Philippe #0" = 0
+	"Pierre #0" = 0
+	"Raimbaut #0" = 0
+	"Raoul #0" = 0
+	"Raymond #0" = 0
+	"Renaud #0" = 0
+	"Richard #0" = 0
+	"Robert #0" = 0
+	"Robin #0" = 0
+	"Roger #0" = 0
+	"Rorgon #0" = 0
+	"Rorgues #0" = 0
+	"Roubaud #0" = 0
+	"Savary #0" = 0
+	"Sigismond #0" = 0
+	"Simon #0" = 0
+	"Thibault #0" = 0
+	"Thiébaut #0" = 0
+	"Thierry #0" = 0
+	"Valeran #0" = 0
+	"Yves #0" = 0
+}
+ship_names = {
+	Atlántida "Conde de Evreux" "Conde de Foix" "Conde de Guenduláin" "Conde de Lerín"
+	"Don Jimeno" "Duque de Armagnac" "Duque de Champaña"
+	"El Agramontés" "El Beaomontés" "El Bearnés" "El Cruzado Navarro" "El Montañés" "El Navarro" "El Salvador" "El Trobador" "El Viñador" "Emperador Hispánico" Europa
+	"Mar de Navarra" "Nuestra Sra de Leyre" "Príncipe de Viana"
+	"Reina Juana" "Rey Enrique" "Rey García" "Rey Sancho" "Reyno de Navarra" "Reyno de Pamplona"
+	"San Agustín" "San Andrés" "San Antonio" "San Carlos" "San Enrique" "San Esteban" "San Fermín" "San Francisco" "San Francisco Xabier" "San Gregorio" "San Juan" "San León" "San Miguel Arcángel" "San Raimundo" "San Virila"
+	"Santa Ana" "Santa Catalina" "Santa Juana" "Santa Leonor" "Santísima Trinidad" "Señor de Tudela"
+	Vasconia
+}
+

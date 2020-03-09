@@ -1,0 +1,28 @@
+# Varangian Guard
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = animism
+clear_scripted_personalities = yes
+capital = 1
+1428.12.1 = {
+	monarch = {
+		name = "Kraka"
+		birth_date = 1394.9.12
+		dynasty = "di  Uppland"
+		female = yes
+		adm = 1
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 1
+	add_treasury = 1592
+	add_prestige = 94
+}

@@ -1,0 +1,24 @@
+# Utman
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = italian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+1444.10.13 = {
+	monarch = {
+		name = "Utman"
+		birth_date = 1411.9.30
+		dynasty = "Utman"
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	add_treasury = 0
+	add_prestige = 1
+}

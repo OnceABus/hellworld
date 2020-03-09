@@ -1,0 +1,27 @@
+# Ural
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = komi
+religion = catholic
+clear_scripted_personalities = yes
+capital = 305
+1434.7.13 = {
+	monarch = {
+		name = "Biur III"
+		birth_date = 1412.12.12
+		dynasty = "Pyerid"
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 305
+	add_treasury = 44
+	add_prestige = 51
+}

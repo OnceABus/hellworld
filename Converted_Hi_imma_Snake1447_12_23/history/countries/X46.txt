@@ -1,0 +1,27 @@
+# Chalid
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2094
+1401.11.25 = {
+	monarch = {
+		name = "Kamal"
+		birth_date = 1394.6.9
+		dynasty = "Chalid"
+		adm = 6
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 2094
+	add_treasury = 45
+	add_prestige = 569
+}

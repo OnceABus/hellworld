@@ -1,0 +1,24 @@
+# Purang
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = rajput
+religion = hinduism
+clear_scripted_personalities = yes
+1442.7.22 = {
+	monarch = {
+		name = "Dhangadeva"
+		birth_date = 1418.10.15
+		dynasty = "Solanki"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = malevolent_personality
+}
+1444.11.11 = {
+	add_treasury = 212
+	add_prestige = 216
+}

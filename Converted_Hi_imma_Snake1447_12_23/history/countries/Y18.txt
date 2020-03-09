@@ -1,0 +1,38 @@
+# Dyrrachion
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = cathar
+clear_scripted_personalities = yes
+capital = 143
+1441.5.1 = {
+	monarch = {
+		name = "Methodios"
+		birth_date = 1407.1.28
+		dynasty = "Charsianites"
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+	add_ruler_personality = scholar_personality
+}
+1445.8.5 = {
+	heir = {
+		name = "Anthemios"
+		monarch_name = "Anthemios"
+		dynasty = "Charsianites"
+		birth_date = 1445.8.5
+		death_date = 1525.8.5
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 143
+	add_treasury = 26
+	add_prestige = 6
+}

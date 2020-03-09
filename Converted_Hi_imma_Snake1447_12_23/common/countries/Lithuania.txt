@@ -1,0 +1,190 @@
+# Lithuania
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 81 0 0 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Cirulis" "Imanta" "Manvydas" "Palemon" "Kunos" "Kernius" "Kiras" "Kukovaitis" "Utenis" "Šventaragis" 
+	"Mingaila" "Sotvaras" "Roze" "Tarvydas" "Junda" "Živinbudas" "Rimantas" "Jaunutis" "Poklius" "Giselbert" 
+	"Kaspar" "Wit" "Zygmunt" "Samboja" "Kamaj" "Isho'yahb" "Manegold" "Jutta" "Thietmar" "Agnes" 
+	"Irmgard" "Dietmar" "Heribert" "Ricciarda" "Merigo" "Abelardo" "Jogaila" "Ottobono" "Marino" "Dousteyn" 
+	"Deleyr" "Aadam" "Aadeynag" "Aali" "Aalmaas" "Adham" "Allayaar" "Armaan" "Baahout" "Baalaach" 
+	"Baaraan" "Baarag" "Bahraam" "Ban'dag" "Bashshaam" "Behrouz" "Beh'zaad" "Bibagr" "Bohaador" "Buhaa'dor" 
+	"Bouheyr" "Braanz" "Chaakar" "Chaarshambeh" "Cheerag" "Delaa'waar" "Deedag" "Del'shaad" "Didag" "Doudaa" 
+	"Gaazi" "Gam'shaad" "Gazzi" "Gishshar" "Gwahraam" "Haameyn" "Ham'bal" "Hammal" "Hayaat" "Haybat" 
+	"Horsond" "Jaafar" "Jalab" "Jehaangir" "Jiyand" "Joma" "Kamaal" "Kambar" "Mazaar" "Mallouk" 
+	"Mayaar" "Meer'zaad" "Meraan" "Meereen" "Mirbal" "Mirdoust" "Mirzaad" "Oumaan" "Omeyd" "Rahmat" 
+	"Rayhaan" "Rameen" "Roushen" "Rozhn" "Sabzal" "Sayaad" "Shaadaan" "Shaadmaan" "Shah'sawaar" "Shah'zaad" 
+	"Shah'daad" "Shahdoust" "Shahmir" "Shanbeh" "Shakkal" "Shamsheyr" "Sharif" "Sekandar" "Sheyrdel" "Soubaan" 
+	"Zangi" }
+monarch_names = {
+	"Cirulis #1" = 0
+	"Imanta #1" = 0
+	"Manvydas #1" = 0
+	"Palemon #1" = 0
+	"Kunos #1" = 0
+	"Kernius #1" = 0
+	"Kiras #1" = 0
+	"Kukovaitis #3" = 0
+	"Utenis #1" = 0
+	"Šventaragis #1" = 0
+	"Mingaila #1" = 0
+	"Sotvaras #1" = 0
+	"Roze #1" = -1
+	"Tarvydas #1" = 0
+	"Junda #1" = -1
+	"Živinbudas #1" = 0
+	"Rimantas #1" = 0
+	"Jaunutis #1" = 0
+	"Poklius #1" = 0
+	"Giselbert #1" = 0
+	"Kaspar #1" = 0
+	"Wit #1" = 0
+	"Zygmunt #1" = 0
+	"Samboja #1" = -1
+	"Kamaj #1" = 0
+	"Isho'yahb #1" = 0
+	"Manegold #1" = 0
+	"Jutta #1" = -1
+	"Thietmar #2" = 0
+	"Agnes #1" = -1
+	"Irmgard #1" = -1
+	"Dietmar #1" = 0
+	"Heribert #1" = 0
+	"Ricciarda #1" = -1
+	"Merigo #1" = 0
+	"Abelardo #1" = 0
+	"Jogaila #1" = 0
+	"Ottobono #1" = 0
+	"Marino #1" = 0
+	"Dousteyn #1" = 0
+	"Deleyr #1" = 0
+	"Aadam #0" = 0
+	"Aadeynag #0" = 0
+	"Aali #0" = 0
+	"Aalmaas #0" = 0
+	"Adham #0" = 0
+	"Allayaar #0" = 0
+	"Armaan #0" = 0
+	"Baahout #0" = 0
+	"Baalaach #0" = 0
+	"Baaraan #0" = 0
+	"Baarag #0" = 0
+	"Bahraam #0" = 0
+	"Ban'dag #0" = 0
+	"Bashshaam #0" = 0
+	"Behrouz #0" = 0
+	"Beh'zaad #0" = 0
+	"Bibagr #0" = 0
+	"Bohaador #0" = 0
+	"Buhaa'dor #0" = 0
+	"Bouheyr #0" = 0
+	"Braanz #0" = 0
+	"Chaakar #0" = 0
+	"Chaarshambeh #0" = 0
+	"Cheerag #0" = 0
+	"Delaa'waar #0" = 0
+	"Deedag #0" = 0
+	"Del'shaad #0" = 0
+	"Didag #0" = 0
+	"Doudaa #0" = 0
+	"Gaazi #0" = 0
+	"Gam'shaad #0" = 0
+	"Gazzi #0" = 0
+	"Gishshar #0" = 0
+	"Gwahraam #0" = 0
+	"Haameyn #0" = 0
+	"Ham'bal #0" = 0
+	"Hammal #0" = 0
+	"Hayaat #0" = 0
+	"Haybat #0" = 0
+	"Horsond #0" = 0
+	"Jaafar #0" = 0
+	"Jalab #0" = 0
+	"Jehaangir #0" = 0
+	"Jiyand #0" = 0
+	"Joma #0" = 0
+	"Kamaal #0" = 0
+	"Kambar #0" = 0
+	"Mazaar #0" = 0
+	"Mallouk #0" = 0
+	"Mayaar #0" = 0
+	"Meer'zaad #0" = 0
+	"Meraan #0" = 0
+	"Meereen #0" = 0
+	"Mirbal #0" = 0
+	"Mirdoust #0" = 0
+	"Mirzaad #0" = 0
+	"Oumaan #0" = 0
+	"Omeyd #0" = 0
+	"Rahmat #0" = 0
+	"Rayhaan #0" = 0
+	"Rameen #0" = 0
+	"Roushen #0" = 0
+	"Rozhn #0" = 0
+	"Sabzal #0" = 0
+	"Sayaad #0" = 0
+	"Shaadaan #0" = 0
+	"Shaadmaan #0" = 0
+	"Shah'sawaar #0" = 0
+	"Shah'zaad #0" = 0
+	"Shah'daad #0" = 0
+	"Shahdoust #0" = 0
+	"Shahmir #0" = 0
+	"Shanbeh #0" = 0
+	"Shakkal #0" = 0
+	"Shamsheyr #0" = 0
+	"Sharif #0" = 0
+	"Sekandar #0" = 0
+	"Sheyrdel #0" = 0
+	"Soubaan #0" = 0
+	"Zangi #0" = 0
+}
+ship_names = {
+	Alytus
+	Birzai
+	Druskininkai
+	Gardinas
+	Jonava
+	Kaunas Kretinga Kreva
+	Lazdijai
+	Naugardukas
+	Palanga
+	Raseiniai
+	Siauliai Sventoji
+	Taurage Telsiai Trakai
+	Utena
+	Vilkmerge
+}
+

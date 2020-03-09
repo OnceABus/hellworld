@@ -1,0 +1,24 @@
+# Sinai
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = italian
+religion = catholic
+capital = 4033
+1442.4.12 = {
+	monarch = {
+		name = "Valerio"
+		birth_date = 1442.2.7
+		dynasty = "Dandolo"
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 4033
+	add_treasury = 119
+	add_prestige = 29
+}

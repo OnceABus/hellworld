@@ -1,0 +1,109 @@
+# Sarkel
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 236 200 105 }
+
+
+
+
+leader_names = {
+
+	"Adelmo" "Nolfo" "Agostina" "Isabella" "Durante" "Alisia" "Landone" "Adalgisa" "Cosma" "Silvano" 
+	"Matilda" "Lucinetta" "Claudia" "Dora" "Raineri" "Alcide" "Mario" "Marietta" "Aurelia" "Renata" 
+	"Laura" "Benedetta" "Ausilia" "Adelia" "Eleonora" "Ugoccione" "Agnese" "Patrizia" "Paola" "Giulia" 
+	"Ausonia" "Berenice" "Agostino" "Sciarra" "Stefania" "Bonifacio" "Adriana" "Doménico" "Aaron" "Menahem" 
+	"Benjamin" "Kisa" "Ioseph" "Blush" "Saru" "Aepak" "Kozel" "Ayasun" "Törtogul" "Togli" 
+	"Bachman" "Kopti" "Itlar" "Asep" "Asalup" "Bönek" "Usunbike" "Dilek" "Gulay" "Tugor" 
+	"Sevenç" "Riccardo" "Çilbu" "Atrak" "Begluk" "Bonyak" "Borç" "Eldeçyuk" "Etrek" "Girgen" 
+	"Gzi" "Ituk" "Könçek" "Kobyak" "Kotyan" "Koza" "Kubasar" "Kuntuvdi" "Kutan" "Pulad" 
+	"Sirçan" "Sokal" "Sotan" "Sugr" "Tolun" "Uzluk" "Uzur" }
+monarch_names = {
+	"Adelmo #0" = 1
+	"Nolfo #0" = 1
+	"Agostina #0" = -1
+	"Isabella #0" = -1
+	"Durante #0" = 1
+	"Alisia #1" = -25
+	"Landone #0" = 1
+	"Adalgisa #0" = -1
+	"Cosma #1" = 33
+	"Silvano #0" = 1
+	"Matilda #0" = -1
+	"Lucinetta #0" = -1
+	"Claudia #0" = -1
+	"Dora #0" = -1
+	"Raineri #0" = 1
+	"Alcide #0" = 1
+	"Mario #0" = 1
+	"Marietta #0" = -1
+	"Aurelia #0" = -1
+	"Renata #0" = -1
+	"Laura #0" = -1
+	"Benedetta #0" = -1
+	"Ausilia #0" = -1
+	"Adelia #0" = -1
+	"Eleonora #0" = -1
+	"Ugoccione #0" = 1
+	"Agnese #0" = -1
+	"Patrizia #0" = -1
+	"Paola #0" = -1
+	"Giulia #0" = -1
+	"Ausonia #0" = -1
+	"Berenice #0" = -1
+	"Agostino #0" = 1
+	"Sciarra #0" = 1
+	"Stefania #0" = -1
+	"Bonifacio #0" = 1
+	"Adriana #0" = -1
+	"Doménico #1" = 18
+	"Aaron #2" = 0
+	"Menahem #1" = 0
+	"Benjamin #1" = 0
+	"Kisa #1" = 0
+	"Ioseph #1" = 0
+	"Blush #3" = 0
+	"Saru #1" = 0
+	"Aepak #2" = 0
+	"Kozel #1" = 0
+	"Ayasun #2" = -1
+	"Törtogul #2" = 0
+	"Togli #1" = 0
+	"Bachman #2" = 0
+	"Kopti #2" = 0
+	"Itlar #2" = 0
+	"Asep #1" = 0
+	"Asalup #2" = 0
+	"Bönek #1" = 0
+	"Usunbike #1" = -1
+	"Dilek #1" = -1
+	"Gulay #1" = -1
+	"Tugor #1" = 0
+	"Sevenç #1" = 0
+	"Riccardo #1" = 0
+	"Çilbu #0" = 0
+	"Atrak #0" = 0
+	"Begluk #0" = 0
+	"Bonyak #0" = 0
+	"Borç #0" = 0
+	"Eldeçyuk #0" = 0
+	"Etrek #0" = 0
+	"Girgen #0" = 0
+	"Gzi #0" = 0
+	"Ituk #0" = 0
+	"Könçek #0" = 0
+	"Kobyak #0" = 0
+	"Kotyan #0" = 0
+	"Koza #0" = 0
+	"Kubasar #0" = 0
+	"Kuntuvdi #0" = 0
+	"Kutan #0" = 0
+	"Pulad #0" = 0
+	"Sirçan #0" = 0
+	"Sokal #0" = 0
+	"Sotan #0" = 0
+	"Sugr #0" = 0
+	"Tolun #0" = 0
+	"Uzluk #0" = 0
+	"Uzur #0" = 0
+}
+

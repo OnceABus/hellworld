@@ -1,0 +1,40 @@
+# Munzirid
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 444
+1423.12.10 = {
+	monarch = {
+		name = "Jhetpala"
+		birth_date = 1399.6.20
+		dynasty = "Munzirid"
+		adm = 2
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = fierce_negotiator_personality
+}
+1431.8.16 = {
+	heir = {
+		name = "Jhetpala"
+		monarch_name = "Jhetpala II"
+		dynasty = "Munzirid"
+		birth_date = 1431.8.16
+		death_date = 1511.8.16
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+	add_heir_personality = silver_tongue_personality
+}
+1444.11.11 = {
+	capital = 444
+	add_treasury = 87
+	add_prestige = 173
+}

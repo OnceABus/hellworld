@@ -1,0 +1,26 @@
+# Târgoviste
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = romanian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 161
+1437.3.4 = {
+	monarch = {
+		name = "Valentin"
+		birth_date = 1410.8.20
+		dynasty = "Prodanic"
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 161
+	add_treasury = 37
+	add_prestige = 39
+}

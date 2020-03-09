@@ -1,0 +1,40 @@
+# Ugra
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = bogomilist
+clear_scripted_personalities = yes
+capital = 4256
+1429.3.1 = {
+	monarch = {
+		name = "Mandak"
+		birth_date = 1403.2.19
+		dynasty = "Ukhtid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = benevolent_personality
+}
+1447.7.23 = {
+	heir = {
+		name = "Mandak"
+		monarch_name = "Mandak"
+		dynasty = "Ukhtid"
+		birth_date = 1447.7.23
+		death_date = 1527.7.23
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 4256
+	add_treasury = 43
+	add_prestige = 61
+}

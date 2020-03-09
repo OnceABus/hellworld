@@ -1,0 +1,26 @@
+# Bessarabia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 261
+1436.12.25 = {
+	monarch = {
+		name = "Vsevolod"
+		birth_date = 1417.3.28
+		dynasty = "Lyubechanin"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 261
+	add_treasury = 29
+	add_prestige = 98
+}

@@ -1,0 +1,27 @@
+# Qocho
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = uyghur
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2192
+1378.4.4 = {
+	monarch = {
+		name = "Qumash"
+		birth_date = 1377.8.9
+		dynasty = "Glo"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 2192
+	add_treasury = 56
+	add_prestige = 567
+}

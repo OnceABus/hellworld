@@ -1,0 +1,27 @@
+# Yudu
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khitan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 1075
+1423.9.23 = {
+	monarch = {
+		name = "Duoluo"
+		birth_date = 1391.10.2
+		dynasty = "Yudu"
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 1075
+	add_treasury = 23
+	add_prestige = 304
+}

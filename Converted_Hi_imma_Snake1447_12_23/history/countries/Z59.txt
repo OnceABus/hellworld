@@ -1,0 +1,27 @@
+# Raetia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 1873
+1440.3.3 = {
+	monarch = {
+		name = "Amalie"
+		birth_date = 1403.12.12
+		dynasty = "von Madman"
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = tolerant_personality
+}
+1444.11.11 = {
+	capital = 1873
+	add_treasury = 583
+	add_prestige = 305
+}

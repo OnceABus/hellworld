@@ -1,0 +1,27 @@
+# Aguo
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = khitan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 4518
+1442.4.9 = {
+	monarch = {
+		name = "Changshou"
+		birth_date = 1396.2.9
+		dynasty = "Aguo"
+		female = yes
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = babbling_buffoon_personality
+}
+1444.11.11 = {
+	capital = 4518
+	add_treasury = 6
+	add_prestige = 112
+}

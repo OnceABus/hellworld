@@ -1,0 +1,41 @@
+# Altishahr
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = uyghur
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 710
+1412.10.10 = {
+	monarch = {
+		name = "Tatpar"
+		birth_date = 1409.12.20
+		dynasty = "Eneligçurid"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+}
+1438.7.28 = {
+	heir = {
+		name = "Ilbeslik"
+		monarch_name = "Ilbeslik"
+		dynasty = "Eneligçurid"
+		birth_date = 1438.7.28
+		death_date = 1518.7.28
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = calm_personality
+}
+1444.11.11 = {
+	capital = 710
+	add_treasury = 0
+	add_prestige = 153
+}

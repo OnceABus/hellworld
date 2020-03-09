@@ -1,0 +1,382 @@
+# Alania
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 155 110 48 }
+historical_idea_groups = {
+	offensive_ideas
+	religious_ideas
+	economic_ideas
+	spy_ideas
+	defensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Cecilizzo" "Sa'd" "Amalia" "Maddalena" "Shahanshah" "Ambrosia" "Alessandro" "Benedetto" "Rodolfo" "Adalberta" 
+	"Elisa" "Gian" "Antoniotto" "Camilla" "Naila" "Onorio" "Giuditta" "Basilio" "Leonardo" "Lodovico" 
+	"Sofia" "Lealdo" "Shoushanig" "Elisabetta" "Alitz" "Stefano" "Flandina" "Folkmar" "Laura" "Michelangelo" 
+	"Omero" "Guigliadore" "Riccardo" "Alfonso" "Lucinetta" "Agostina" "Luigi" "Õdön" "Avag" "Aghavni" 
+	"Keran" "Benilde" "Bona" "Galasso" "Sinibaldo" "Virginia" "Gellért" "Bruto" "Giorgio" "Isra" 
+	"Margherita" "Antonia" "Hasmig" "Carlo" "Alisia" "Leonor" "Cornelia" "Severo" "Libero" "Anastasia" 
+	"Innocenzo" "Cesare" "Bonifacio" "Elena" "Patrizia" "Nicola" "Jacopo" "Agalina" "Andrea" "Froizza" 
+	"Giolio" "Aloisia" "Pandolfo" "Nunzia" "Joscella" "Clara" "Adalgisa" "Abbondanzio" "Ausilia" "Berenice" 
+	"Hercule" "Fosca" "Cataldo" "Sinucello" "Leonide" "Biagio" "Loïs" "Galeotto" "Gaetano" "Antonella" 
+	"Eudossia" "Lavinia" "Benedetta" "Ermenegilda" "Gabriele" "Tiziana" "Giuseppe" "Abelardo" "Isabella" "Edda" 
+	"Rolando" "Galeazzo" "Adriana" "Cornelio" "Giacinta" "Bruno" "Gilberto" "Severino" "Lazzaro" "Constanza" 
+	"Giuseppa" "Dora" "Ginevra" "Agostino" "Micaela" "Ausilio" "Averado" "Stefania" "Berta" "Marco" 
+	"Lidia" "Rosso" "Letizia" "Niccolò" "Lucia" "Augusta" "Adelasia" "Agnese" "Martina" "Abelina" 
+	"Eleonora" "Lazzarino" "Adelia" "Candida" "Caterina" "Balashk" "Adriano" "Alberico" "Rossino" "Maha" 
+	"Giulia" "Torgodorio" "Secondotto" "Muyahid" "Huda" "Helene" "Eugenia" "Arcibaldo" "Sofie" "Symmachos" 
+	"Gianleone" "Adelmo" "Vittore" "Kaspar" "Silvana" "Oberto" "Obizzo" "Aurelia" "Albina" "Alessandra" 
+	"Ermenegildo" "Roupen" "Ibrahim" "Rainero" "Bertoldo" "Marsiglio" "Artemio" "Giacomo" "Leonello" "Fahriya" 
+	"Gaspare" "Nikita" "Leopoldo" "Rita" "Marcella" "Akutla" "Ashot" "Filippo" "Gamila" "Cassio" 
+	"Fahra" "Gaillard" "Dobroslava" "Augusto" "Zakare" "Sulayman" "Zvenislava" "Irbis" "Busir" "Barjik" 
+	"Bihar" "Buriberdi" "Balsag" "Bazuk" "Itaz" "Levan" "Ber" "Durgulel" "Alda" "Irene" 
+	"Nikephoros" "Pulcheria" "Zenon" "Tamari" "Gulchara" "Aspar" "Törtogul" "Antonios" "Praksa" "Oshi" 
+	"Gagiki" "Shanshe" "Andronik" "Sibylla" "Silvano" "Filippa" "Ælbeg" "Æmbalan" "Aghsartan" "Alatey" 
+	"Akhsar" "Anbal" "Anbazuk" "Aravat" "Arsen" "Askhkadar" "Aslan" "Athom" "Balambar" "Barlah" 
+	"Bæqætar" "Basil" "Beler" "Biræg" "Boz-Uruz" "Buürgur" "Burikhan" "Candak" "Chelakhsartag" "Davit" 
+	"Djadaron" "Dzæræs" "Gætæg" "Georgy" "Girgon" "Gokhar" "Gubaz" "Guram" "Hasqar" "Huddan" 
+	"Istor" "Iveri" "Kandak" "Kandz" "Kavtia" "Kaur" "Khankhusy" "Khætag" "Konstantin" "Kubal" 
+	"Kuddana" "Kul" "Kuluk" "Lak" "Pulad" "Respendial" "Rosmag" "Safrak" "Sakhir" "Sangipan" 
+	"Saros" "Sathis" "Savkudz" "Soslan" "Suarn" "Syrdon" "Taymuraz" "Taus" "Totraz" "Urdure" 
+	"Uruzma" "Uturku" "Yasynya" "Zaur" }
+monarch_names = {
+	"Cecilizzo #0" = 1
+	"Sa'd #0" = 1
+	"Amalia #0" = -1
+	"Maddalena #0" = -1
+	"Shahanshah #0" = 1
+	"Ambrosia #0" = -1
+	"Alessandro #0" = 1
+	"Benedetto #0" = 1
+	"Rodolfo #0" = 1
+	"Adalberta #0" = -1
+	"Elisa #0" = -1
+	"Gian #0" = 1
+	"Antoniotto #0" = 1
+	"Camilla #0" = -1
+	"Naila #0" = -1
+	"Onorio #0" = 1
+	"Giuditta #0" = -1
+	"Basilio #0" = 1
+	"Leonardo #0" = 1
+	"Lodovico #0" = 1
+	"Sofia #0" = -1
+	"Lealdo #0" = 1
+	"Shoushanig #0" = -1
+	"Elisabetta #0" = -1
+	"Alitz #0" = -1
+	"Stefano #0" = 1
+	"Flandina #0" = -1
+	"Folkmar #0" = 1
+	"Laura #0" = -1
+	"Michelangelo #0" = 1
+	"Omero #0" = 1
+	"Guigliadore #0" = 1
+	"Riccardo #1" = 18
+	"Alfonso #0" = 1
+	"Lucinetta #0" = -1
+	"Agostina #0" = -1
+	"Luigi #0" = 1
+	"Õdön #1" = 18
+	"Avag #0" = 1
+	"Aghavni #0" = -1
+	"Keran #0" = -1
+	"Benilde #0" = -1
+	"Bona #0" = -1
+	"Galasso #0" = 1
+	"Sinibaldo #0" = 1
+	"Virginia #0" = -1
+	"Gellért #0" = 1
+	"Bruto #0" = 1
+	"Giorgio #0" = 1
+	"Isra #0" = -1
+	"Margherita #0" = -1
+	"Antonia #0" = -1
+	"Hasmig #0" = -1
+	"Carlo #0" = 1
+	"Alisia #0" = -1
+	"Leonor #0" = -1
+	"Cornelia #0" = -1
+	"Severo #0" = 1
+	"Libero #0" = 1
+	"Anastasia #0" = -1
+	"Innocenzo #0" = 1
+	"Cesare #0" = 1
+	"Bonifacio #0" = 1
+	"Elena #0" = -1
+	"Patrizia #0" = -1
+	"Nicola #0" = 1
+	"Jacopo #0" = 1
+	"Agalina #0" = -1
+	"Andrea #0" = 1
+	"Froizza #0" = -1
+	"Giolio #0" = 1
+	"Aloisia #0" = -1
+	"Pandolfo #0" = 1
+	"Nunzia #0" = -1
+	"Joscella #0" = -1
+	"Clara #0" = -1
+	"Adalgisa #0" = -1
+	"Abbondanzio #0" = 1
+	"Ausilia #0" = -1
+	"Berenice #0" = -1
+	"Hercule #0" = 1
+	"Fosca #0" = -1
+	"Cataldo #0" = 1
+	"Sinucello #0" = 1
+	"Leonide #0" = -1
+	"Biagio #0" = 1
+	"Loïs #0" = 1
+	"Galeotto #0" = 1
+	"Gaetano #0" = 1
+	"Antonella #0" = -1
+	"Eudossia #0" = -1
+	"Lavinia #0" = -1
+	"Benedetta #0" = -1
+	"Ermenegilda #0" = -1
+	"Gabriele #0" = 1
+	"Tiziana #0" = -1
+	"Giuseppe #0" = 1
+	"Abelardo #0" = 1
+	"Isabella #0" = -1
+	"Edda #0" = -1
+	"Rolando #0" = 1
+	"Galeazzo #0" = 1
+	"Adriana #0" = -1
+	"Cornelio #0" = 1
+	"Giacinta #0" = -1
+	"Bruno #0" = 1
+	"Gilberto #0" = 1
+	"Severino #0" = 1
+	"Lazzaro #0" = 1
+	"Constanza #0" = -1
+	"Giuseppa #0" = -1
+	"Dora #0" = -1
+	"Ginevra #0" = -1
+	"Agostino #0" = 1
+	"Micaela #0" = -1
+	"Ausilio #0" = 1
+	"Averado #0" = 1
+	"Stefania #0" = -1
+	"Berta #0" = -1
+	"Marco #0" = 1
+	"Lidia #0" = -1
+	"Rosso #0" = 1
+	"Letizia #0" = -1
+	"Niccolò #0" = 1
+	"Lucia #0" = -1
+	"Augusta #0" = -1
+	"Adelasia #0" = -1
+	"Agnese #0" = -1
+	"Martina #0" = -1
+	"Abelina #0" = -1
+	"Eleonora #0" = -1
+	"Lazzarino #0" = 1
+	"Adelia #0" = -1
+	"Candida #0" = -1
+	"Caterina #0" = -1
+	"Balashk #0" = 1
+	"Adriano #0" = 1
+	"Alberico #0" = 1
+	"Rossino #0" = 1
+	"Maha #0" = -1
+	"Giulia #0" = -1
+	"Torgodorio #0" = 1
+	"Secondotto #0" = 1
+	"Muyahid #0" = 1
+	"Huda #0" = -1
+	"Helene #0" = -1
+	"Eugenia #0" = -1
+	"Arcibaldo #0" = 1
+	"Sofie #0" = -1
+	"Symmachos #0" = 1
+	"Gianleone #0" = 1
+	"Adelmo #0" = 1
+	"Vittore #0" = 1
+	"Kaspar #0" = 1
+	"Silvana #0" = -1
+	"Oberto #0" = 1
+	"Obizzo #0" = 1
+	"Aurelia #0" = -1
+	"Albina #0" = -1
+	"Alessandra #0" = -1
+	"Ermenegildo #0" = 1
+	"Roupen #0" = 1
+	"Ibrahim #0" = 1
+	"Rainero #0" = 1
+	"Bertoldo #0" = 1
+	"Marsiglio #0" = 1
+	"Artemio #0" = 1
+	"Giacomo #0" = 1
+	"Leonello #0" = 1
+	"Fahriya #0" = -1
+	"Gaspare #0" = 1
+	"Nikita #0" = 1
+	"Leopoldo #0" = 1
+	"Rita #0" = -1
+	"Marcella #0" = -1
+	"Akutla #0" = 1
+	"Ashot #0" = 1
+	"Filippo #0" = 1
+	"Gamila #0" = -1
+	"Cassio #0" = 1
+	"Fahra #0" = -1
+	"Gaillard #0" = 1
+	"Dobroslava #0" = -1
+	"Augusto #0" = 1
+	"Zakare #0" = 1
+	"Sulayman #0" = 1
+	"Zvenislava #0" = -1
+	"Irbis #1" = 0
+	"Busir #1" = 0
+	"Barjik #1" = 0
+	"Bihar #1" = 0
+	"Buriberdi #1" = 0
+	"Balsag #1" = 0
+	"Bazuk #1" = 0
+	"Itaz #1" = 0
+	"Levan #1" = 0
+	"Ber #1" = 0
+	"Durgulel #1" = 0
+	"Alda #1" = -1
+	"Irene #1" = -1
+	"Nikephoros #1" = 0
+	"Pulcheria #1" = -1
+	"Zenon #1" = 0
+	"Tamari #1" = -1
+	"Gulchara #1" = -1
+	"Aspar #2" = 0
+	"Törtogul #1" = 0
+	"Antonios #1" = 0
+	"Praksa #1" = 0
+	"Oshi #1" = 0
+	"Gagiki #3" = 0
+	"Shanshe #1" = 0
+	"Andronik #1" = 0
+	"Sibylla #1" = -1
+	"Silvano #1" = 0
+	"Filippa #1" = -1
+	"Ælbeg #0" = 0
+	"Æmbalan #0" = 0
+	"Aghsartan #0" = 0
+	"Alatey #0" = 0
+	"Akhsar #0" = 0
+	"Anbal #0" = 0
+	"Anbazuk #0" = 0
+	"Aravat #0" = 0
+	"Arsen #0" = 0
+	"Askhkadar #0" = 0
+	"Aslan #0" = 0
+	"Athom #0" = 0
+	"Balambar #0" = 0
+	"Barlah #0" = 0
+	"Bæqætar #0" = 0
+	"Basil #0" = 0
+	"Beler #0" = 0
+	"Biræg #0" = 0
+	"Boz-Uruz #0" = 0
+	"Buürgur #0" = 0
+	"Burikhan #0" = 0
+	"Candak #0" = 0
+	"Chelakhsartag #0" = 0
+	"Davit #0" = 0
+	"Djadaron #0" = 0
+	"Dzæræs #0" = 0
+	"Gætæg #0" = 0
+	"Georgy #0" = 0
+	"Girgon #0" = 0
+	"Gokhar #0" = 0
+	"Gubaz #0" = 0
+	"Guram #0" = 0
+	"Hasqar #0" = 0
+	"Huddan #0" = 0
+	"Istor #0" = 0
+	"Iveri #0" = 0
+	"Kandak #0" = 0
+	"Kandz #0" = 0
+	"Kavtia #0" = 0
+	"Kaur #0" = 0
+	"Khankhusy #0" = 0
+	"Khætag #0" = 0
+	"Konstantin #0" = 0
+	"Kubal #0" = 0
+	"Kuddana #0" = 0
+	"Kul #0" = 0
+	"Kuluk #0" = 0
+	"Lak #0" = 0
+	"Pulad #0" = 0
+	"Respendial #0" = 0
+	"Rosmag #0" = 0
+	"Safrak #0" = 0
+	"Sakhir #0" = 0
+	"Sangipan #0" = 0
+	"Saros #0" = 0
+	"Sathis #0" = 0
+	"Savkudz #0" = 0
+	"Soslan #0" = 0
+	"Suarn #0" = 0
+	"Syrdon #0" = 0
+	"Taymuraz #0" = 0
+	"Taus #0" = 0
+	"Totraz #0" = 0
+	"Urdure #0" = 0
+	"Uruzma #0" = 0
+	"Uturku #0" = 0
+	"Yasynya #0" = 0
+	"Zaur #0" = 0
+}
+ship_names = {
+	Adrianopolis "Aetos Autokratiki" "Aghia Ioylia" "Aghia Irini" "Aghia Magdalini" "Aghia Sophia" "Aghia Thekla"
+	"Aghios Angelos" "Aghios Eusebios" "Aghios Ioakeim" "Aghios Ioannes" "Aghios Loukas"
+	"Aghios Markos" "Aghios Matthaios" "Aghios Maximos" "Aghios Nikolaos" "Aghios Pavlos"
+	"Aghios Petros" "Aghios Philimon" "Aghios Sergios" "Aghios Stephanos" "Aghios Thimoteos"
+	Aiakos Aineas Akhilleus Amphitrion Aphrodita Apollo Arakhne Ares Asia Athena
+	"Basileous Alexandros" "Basileous Alexeios" "Basileous Andronikos" "Basileous Basileos"
+	"Basileous Demetrios" "Basileous Ioannes" "Basileous Isaak" "Basileous Leon"
+	"Basileous Manuel" "Basileous Michael" "Basileous Rhomaion" "Basileous Romanos"
+	"Basileous Theodoros" "Basileous Theophilos" "Basileisa Theodora" "Basileisa Zoe"
+	Belisarios Byzantion
+	Cassandra Castor "Christos Soter" Chronos
+	Demeter "Despotes Demetrios" "Despotes Moreas" Diana "Drakon Ouranos" Dyonisos
+	Ellade Endymion Eros Europa
+	Gea "Gorgona Poseidonos"
+	Hades Hektor Hephaistos Hera Herakles Hermes Hestia Hydra Hypnos
+	Jason
+	"Kaisar Konstantinos" Konstantinopolis "Konstantinos Dragases"
+	"Liontari Skliros" "Lussa ton Theon" "Lykos Thalasses"
+	Makedonia "Margaritari Aspra" Minos
+	Nestor
+	Odysseos Orestes Okeanasthraustis Ouranos
+	Panselenos Pegasos Perseos "Pontikos Thalasses" Poseidon
+	Rhadamanthys
+	Sebastokrator
+	Thanatos Theseos
+	Zeous
+}
+

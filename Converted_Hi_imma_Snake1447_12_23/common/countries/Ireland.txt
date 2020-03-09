@@ -1,0 +1,204 @@
+# Ireland
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 6 127 2 }
+historical_idea_groups = { 
+	naval_ideas
+	aristocracy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = { 
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Shouli" "Zheng" "Keghanoush" "Cededa" "Khachik" "Zhaode" "Gagik" "Yuanfang" "Chen" "Guozhong" 
+	"Hongwu" "Varazdat" "Hamazasp" "Yuanyu" "Zabel" "Weidao" "Jishan" "Jingchen" "Dezhen" "Yu'er" 
+	"Eilionora" "Vahag" "Yeva" "Yan" "Pounig" "Zhou" "Yuqing" "Zuimei" "Kylo" "Hovhannes" 
+	"Margos" "Jinxian" "Yoltzin" "Jingying" "Latavri" "Hranoush" "Xianji" "Anahid" "Minzhong" "Axayacatl" 
+	"Cuindles" "Meghranoush" "Barabal" "Tlacaelel" "Shi" "Yingmei" "Dabíd" "Túathal" "Amoxtli" "Dalita" 
+	"Dàvi" "Avag" "Lousin" "Máirgred" "Baozhu" "Mushel" "Cozamalotl" "Yifu" "Ueman" "Khosrov" 
+	"Boris" "Duiblesc" "Flannán" "Suibne" "Amalgaid" "Cú-Allaid" "Dalbach" "Caissín" "Fingen" "Séigíne" 
+	"Énna" "Abas" "Abirad" "Aboughamr" "Aboulgharib" "Aleksandr" "Artashes" "Artashir" "Artavazd" "Arsen" 
+	"Arshak" "Ashot" "Athom" "Atrnerseh" "Avedis" "Bagour" "Bagrat" "Bedros" "Boghos" "Davit" 
+	"Eshkhan" "Gevorg" "Gosdantin" "Grigor" "Gurgen" "Hagop" "Hethum" "Hovsep" "Ishkhan" "Ivane" 
+	"Kapriel" "Levon" "Malkhas" "Mamigon" "Manuel" "Melek" "Mihrdat" "Mikayel" "Mleh" "Mushegh" 
+	"Mzhezh" "Nerseh" "Oshin" "Roupen" "Sahag" "Sarkis" "Sevag" "Shahanshah" "Smbat" "Stepanos" 
+	"Tachat" "Taniel" "Tatoul" "Tigran" "Tornik" "Tovmas" "Thoros" "Trdat" "Vache" "Vachagan" 
+	"Vagharshak" "Vahan" "Vahram" "Vakhtank" "Vartan" "Vassak" "Vesd" "Vrtanes" "Zakare" "Zarmihr" }
+monarch_names = {
+	"Shouli #0" = 1
+	"Zheng #0" = -1
+	"Keghanoush #0" = -1
+	"Cededa #0" = -1
+	"Khachik #1" = 18
+	"Zhaode #0" = 1
+	"Gagik #0" = 1
+	"Yuanfang #0" = 1
+	"Chen #0" = 1
+	"Guozhong #1" = 21
+	"Hongwu #0" = 1
+	"Varazdat #0" = 1
+	"Hamazasp #0" = 1
+	"Yuanyu #0" = 1
+	"Zabel #0" = -1
+	"Weidao #0" = 1
+	"Jishan #0" = 1
+	"Jingchen #0" = 1
+	"Dezhen #0" = 1
+	"Yu'er #0" = -1
+	"Eilionora #0" = -1
+	"Vahag #0" = 1
+	"Yeva #0" = -1
+	"Yan #0" = 1
+	"Pounig #0" = -1
+	"Zhou #0" = -1
+	"Yuqing #1" = 18
+	"Zuimei #0" = -1
+	"Kylo #1" = 18
+	"Hovhannes #0" = 1
+	"Margos #0" = 1
+	"Jinxian #0" = -1
+	"Yoltzin #0" = -1
+	"Jingying #0" = -1
+	"Latavri #0" = -1
+	"Hranoush #0" = -1
+	"Xianji #0" = -1
+	"Anahid #0" = -1
+	"Minzhong #0" = 1
+	"Axayacatl #0" = 1
+	"Cuindles #1" = 18
+	"Meghranoush #0" = -1
+	"Barabal #0" = -1
+	"Tlacaelel #0" = 1
+	"Shi #0" = -1
+	"Yingmei #0" = -1
+	"Dabíd #0" = 1
+	"Túathal #0" = 1
+	"Amoxtli #0" = -1
+	"Dalita #0" = -1
+	"Dàvi #0" = 1
+	"Avag #0" = 1
+	"Lousin #0" = -1
+	"Máirgred #0" = -1
+	"Baozhu #0" = -1
+	"Mushel #1" = 18
+	"Cozamalotl #0" = -1
+	"Yifu #0" = 1
+	"Ueman #1" = 18
+	"Khosrov #0" = 1
+	"Boris #0" = 1
+	"Duiblesc #1" = 0
+	"Flannán #1" = 0
+	"Suibne #1" = 0
+	"Amalgaid #1" = 0
+	"Cú-Allaid #1" = 0
+	"Dalbach #1" = 0
+	"Caissín #1" = 0
+	"Fingen #1" = 0
+	"Séigíne #1" = 0
+	"Énna #2" = 0
+	"Abas #0" = 0
+	"Abirad #0" = 0
+	"Aboughamr #0" = 0
+	"Aboulgharib #0" = 0
+	"Aleksandr #0" = 0
+	"Artashes #0" = 0
+	"Artashir #0" = 0
+	"Artavazd #0" = 0
+	"Arsen #0" = 0
+	"Arshak #0" = 0
+	"Ashot #0" = 0
+	"Athom #0" = 0
+	"Atrnerseh #0" = 0
+	"Avedis #0" = 0
+	"Bagour #0" = 0
+	"Bagrat #0" = 0
+	"Bedros #0" = 0
+	"Boghos #0" = 0
+	"Davit #0" = 0
+	"Eshkhan #0" = 0
+	"Gevorg #0" = 0
+	"Gosdantin #0" = 0
+	"Grigor #0" = 0
+	"Gurgen #0" = 0
+	"Hagop #0" = 0
+	"Hethum #0" = 0
+	"Hovsep #0" = 0
+	"Ishkhan #0" = 0
+	"Ivane #0" = 0
+	"Kapriel #0" = 0
+	"Levon #0" = 0
+	"Malkhas #0" = 0
+	"Mamigon #0" = 0
+	"Manuel #0" = 0
+	"Melek #0" = 0
+	"Mihrdat #0" = 0
+	"Mikayel #0" = 0
+	"Mleh #0" = 0
+	"Mushegh #0" = 0
+	"Mzhezh #0" = 0
+	"Nerseh #0" = 0
+	"Oshin #0" = 0
+	"Roupen #0" = 0
+	"Sahag #0" = 0
+	"Sarkis #0" = 0
+	"Sevag #0" = 0
+	"Shahanshah #0" = 0
+	"Smbat #0" = 0
+	"Stepanos #0" = 0
+	"Tachat #0" = 0
+	"Taniel #0" = 0
+	"Tatoul #0" = 0
+	"Tigran #0" = 0
+	"Tornik #0" = 0
+	"Tovmas #0" = 0
+	"Thoros #0" = 0
+	"Trdat #0" = 0
+	"Vache #0" = 0
+	"Vachagan #0" = 0
+	"Vagharshak #0" = 0
+	"Vahan #0" = 0
+	"Vahram #0" = 0
+	"Vakhtank #0" = 0
+	"Vartan #0" = 0
+	"Vassak #0" = 0
+	"Vesd #0" = 0
+	"Vrtanes #0" = 0
+	"Zakare #0" = 0
+	"Zarmihr #0" = 0
+}
+ship_names = {
+	Aoife
+	Ciara Connacht
+	Eithne Emer
+	Leinster
+	Munster
+	Niamh
+	Orla
+	Roisin
+	Ulster
+}
+

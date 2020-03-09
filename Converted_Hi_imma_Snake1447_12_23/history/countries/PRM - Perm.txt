@@ -1,0 +1,26 @@
+# Perm
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = komi
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1972
+1444.8.31 = {
+	monarch = {
+		name = "Inzhay"
+		birth_date = 1411.1.26
+		dynasty = "Inzhayid"
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 1972
+	add_treasury = 34
+	add_prestige = 24
+}

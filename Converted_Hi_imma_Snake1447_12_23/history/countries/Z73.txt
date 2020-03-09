@@ -1,0 +1,27 @@
+# Ancona
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 2977
+1414.2.11 = {
+	monarch = {
+		name = "Chiaffredo"
+		birth_date = 1383.12.25
+		dynasty = "Dora"
+		adm = 3
+		dip = 0
+		mil = 5
+	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = pious_personality
+}
+1444.11.11 = {
+	capital = 2977
+	add_treasury = 53
+	add_prestige = 116
+}

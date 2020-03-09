@@ -1,0 +1,196 @@
+# Bambuk
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 80 120 70 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	african_spearmen
+	mali_tribal_warfare
+	african_hill_warfare
+	niger_kongolese_gunpowder_warfare
+	westernized_niger_kongolese
+	african_western_franchise_warfare
+}
+
+
+
+leader_names = {
+
+	"Ademar" "Agnes" "Yama" "Demba" "Daoud" "Radbot" "Manegold" "Tijani" "Fuluku" "Bathily" 
+	"Kilia" "Bernhard" "Heilwiva" "Cecilie" "Michael" "Eberhard" "Liudolf" "Hesso" "Fissourou" "Siegmund" 
+	"Gautselin" "Badä" "Gertrude" "Diakhaba" "Reinhard" "Augustin" "Namiss" "Doucouri" "Tandi" "Sakoura" 
+	"Deye" "Namandjé" "Amita" "Günther" "Gao" "Mamoudou" "Isa" "Kadi" "Sané" "Nafissa" 
+	"Hawa" "Klara" "Hedwig" "Salimata" "Bahir" "Jabir" "Biyu" "Sahba" "Sartäç" "Djenly" 
+	"Odolgan" "Osterhild" "Richwara" "Çeçek" "Ayasun" "Çeçki" "Gunes" "Bisi" "Irmeltrud" "Tib" 
+	"Wali" "Dieter" "Djire" "Maturkka" "Tunka Menin" "Sirman Mesane" "Bannu" "Siya" "Daffi" "Mamadi" 
+	"Aminata" "Soumaba" "Bintou" "Diobé" "Fodi" "Bonaventura" "Anastasio" "Liutpold" "Alboino" "Sergio" 
+	"Caterina" "Abubakar" "Akoi" "Alayaman" "Bérété" "Bomou" "Bilali" "Bunama" "Bamari" "Birama" 
+	"Cissi" "Dabo" "Diawara" "Dankaran" "Diara" "Fadiga" "Fädazu" "Gane" "Ishaq" "Kaba" 
+	"Kabayo" "Kalabi" "Kanafa" "Kambine" "Kassa" "Kaya" "Kayna" "Kinkin" "Kukuray" "Kusoy" 
+	"Marega" "M'Bali" "Maghan" "Majan" "Mari-Djata" "Musa" "Niakhaté" "Nintasanay" "Wague" "Wati" 
+	"Reidja" "Sy" "Sylla" "Sakho" "Soukhouna" "Sima" "Soumaré" "Salman" "Sandaki" "Soumaoro" 
+	"Soundiata" "Sulayman" "Tandian" "Tunka" "Tunka-Menin" "Tabouri" "Tounkara" "Touri" "Takoi" "Yansané" 
+	"Yatabéri" "Yasiboy" "Zakoi" "Zenku" }
+monarch_names = {
+	"Ademar #0" = 1
+	"Agnes #0" = -1
+	"Yama #0" = 1
+	"Demba #0" = 1
+	"Daoud #0" = 1
+	"Radbot #0" = 1
+	"Manegold #3" = 27
+	"Tijani #0" = 1
+	"Fuluku #0" = 1
+	"Bathily #1" = 18
+	"Kilia #0" = -1
+	"Bernhard #0" = 1
+	"Heilwiva #0" = -1
+	"Cecilie #0" = -1
+	"Michael #0" = 1
+	"Eberhard #0" = 1
+	"Liudolf #0" = 1
+	"Hesso #0" = 1
+	"Fissourou #0" = 1
+	"Siegmund #0" = 1
+	"Gautselin #0" = 1
+	"Badä #0" = 1
+	"Gertrude #0" = -1
+	"Diakhaba #0" = 1
+	"Reinhard #0" = 1
+	"Augustin #0" = 1
+	"Namiss #0" = -1
+	"Doucouri #0" = 1
+	"Tandi #0" = 1
+	"Sakoura #0" = 1
+	"Deye #2" = -19
+	"Namandjé #0" = -1
+	"Amita #0" = -1
+	"Günther #0" = 1
+	"Gao #0" = 1
+	"Mamoudou #0" = 1
+	"Isa #0" = 1
+	"Kadi #0" = -1
+	"Sané #0" = -1
+	"Nafissa #0" = -1
+	"Hawa #0" = -1
+	"Klara #0" = -1
+	"Hedwig #0" = -1
+	"Salimata #0" = -1
+	"Bahir #0" = 1
+	"Jabir #0" = 1
+	"Biyu #0" = 1
+	"Sahba #0" = -1
+	"Sartäç #1" = 18
+	"Djenly #0" = -1
+	"Odolgan #0" = 1
+	"Osterhild #0" = -1
+	"Richwara #0" = -1
+	"Çeçek #0" = -1
+	"Ayasun #0" = -1
+	"Çeçki #0" = -1
+	"Gunes #0" = -1
+	"Bisi #0" = 1
+	"Irmeltrud #0" = -1
+	"Tib #0" = 1
+	"Wali #0" = 1
+	"Dieter #0" = 1
+	"Djire #0" = -1
+	"Maturkka #0" = -1
+	"Tunka Menin #1" = 0
+	"Sirman Mesane #1" = 0
+	"Bannu #1" = 0
+	"Siya #1" = -1
+	"Daffi #1" = 0
+	"Mamadi #1" = 0
+	"Aminata #1" = -1
+	"Soumaba #1" = 0
+	"Bintou #1" = -1
+	"Diobé #2" = 0
+	"Fodi #1" = 0
+	"Bonaventura #2" = 0
+	"Anastasio #1" = 0
+	"Liutpold #1" = 0
+	"Alboino #2" = 0
+	"Sergio #1" = 0
+	"Caterina #1" = -1
+	"Abubakar #0" = 0
+	"Akoi #0" = 0
+	"Alayaman #0" = 0
+	"Bérété #0" = 0
+	"Bomou #0" = 0
+	"Bilali #0" = 0
+	"Bunama #0" = 0
+	"Bamari #0" = 0
+	"Birama #0" = 0
+	"Cissi #0" = 0
+	"Dabo #0" = 0
+	"Diawara #0" = 0
+	"Dankaran #0" = 0
+	"Diara #0" = 0
+	"Fadiga #0" = 0
+	"Fädazu #0" = 0
+	"Gane #0" = 0
+	"Ishaq #0" = 0
+	"Kaba #0" = 0
+	"Kabayo #0" = 0
+	"Kalabi #0" = 0
+	"Kanafa #0" = 0
+	"Kambine #0" = 0
+	"Kassa #0" = 0
+	"Kaya #0" = 0
+	"Kayna #0" = 0
+	"Kinkin #0" = 0
+	"Kukuray #0" = 0
+	"Kusoy #0" = 0
+	"Marega #0" = 0
+	"M'Bali #0" = 0
+	"Maghan #0" = 0
+	"Majan #0" = 0
+	"Mari-Djata #0" = 0
+	"Musa #0" = 0
+	"Niakhaté #0" = 0
+	"Nintasanay #0" = 0
+	"Wague #0" = 0
+	"Wati #0" = 0
+	"Reidja #0" = 0
+	"Sy #0" = 0
+	"Sylla #0" = 0
+	"Sakho #0" = 0
+	"Soukhouna #0" = 0
+	"Sima #0" = 0
+	"Soumaré #0" = 0
+	"Salman #0" = 0
+	"Sandaki #0" = 0
+	"Soumaoro #0" = 0
+	"Soundiata #0" = 0
+	"Sulayman #0" = 0
+	"Tandian #0" = 0
+	"Tunka #0" = 0
+	"Tunka-Menin #0" = 0
+	"Tabouri #0" = 0
+	"Tounkara #0" = 0
+	"Touri #0" = 0
+	"Takoi #0" = 0
+	"Yansané #0" = 0
+	"Yatabéri #0" = 0
+	"Yasiboy #0" = 0
+	"Zakoi #0" = 0
+	"Zenku #0" = 0
+}
+ship_names = {
+	Kiringa Timbuktu "Koumbi Saleh" Gao
+	Jenne "Sundiata Keita" "Kankan Musa"
+	"Kouroukan Fouga" "Wali Keita" "Quati Keita"
+	"Khalifa Keita" Sakura
+}
+

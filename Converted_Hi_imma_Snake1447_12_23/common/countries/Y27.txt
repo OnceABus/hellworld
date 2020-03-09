@@ -1,0 +1,97 @@
+# Oltenia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 238 150 50 }
+
+
+
+
+leader_names = {
+
+	"Stelian" "Moise" "Iosif" "Tibor" "Costin" "Ieremia" "Timotei" "Aron" "Dragos" "Seneslav" 
+	"Adrian" "Alexandru" "Anghel" "Bajan" "Balc" "Barbat" "Basarab" "Bogdan" "Carol" "Ciprian" 
+	"Ciubar" "Claudiu" "Corneliu" "Damjan" "Dan" "Dumitru" "Emerik" "Florin" "Franjo" "Gavril" 
+	"Gheorghe" "Grigore" "Iacob" "Iancu" "Ilie" "Ioan" "Iorghu" "Iuga" "Janos" "Ladislau" 
+	"Latcu" "Laurentiu" "Litovoi" "Lucian" "Marin" "Mihai" "Milos" "Mircea" "Nicolaie" "Petre" 
+	"Pirvu" "Radovan" "Radu" "Roman" "Sas" "Sergiu" "Simion" "Stefan" "Teodor" "Tepes" 
+	"Tihomir" "Tudor" "Valentin" "Valeriu" "Vasile" "Veaceslav" "Victor" "Vilhelm" "Vintila" "Vlad" }
+monarch_names = {
+	"Stelian #1" = 18
+	"Moise #2" = 18
+	"Iosif #1" = 0
+	"Tibor #1" = 0
+	"Costin #1" = 0
+	"Ieremia #2" = 0
+	"Timotei #2" = 0
+	"Aron #1" = 0
+	"Dragos #1" = 0
+	"Seneslav #2" = 0
+	"Adrian #1" = 0
+	"Alexandru #0" = 0
+	"Anghel #0" = 0
+	"Bajan #0" = 0
+	"Balc #0" = 0
+	"Barbat #0" = 0
+	"Basarab #0" = 0
+	"Bogdan #0" = 0
+	"Carol #0" = 0
+	"Ciprian #0" = 0
+	"Ciubar #0" = 0
+	"Claudiu #0" = 0
+	"Corneliu #0" = 0
+	"Damjan #0" = 0
+	"Dan #0" = 0
+	"Dumitru #0" = 0
+	"Emerik #0" = 0
+	"Florin #0" = 0
+	"Franjo #0" = 0
+	"Gavril #0" = 0
+	"Gheorghe #0" = 0
+	"Grigore #0" = 0
+	"Iacob #0" = 0
+	"Iancu #0" = 0
+	"Ilie #0" = 0
+	"Ioan #0" = 0
+	"Iorghu #0" = 0
+	"Iuga #0" = 0
+	"Janos #0" = 0
+	"Ladislau #0" = 0
+	"Latcu #0" = 0
+	"Laurentiu #0" = 0
+	"Litovoi #0" = 0
+	"Lucian #0" = 0
+	"Marin #0" = 0
+	"Mihai #0" = 0
+	"Milos #0" = 0
+	"Mircea #0" = 0
+	"Nicolaie #0" = 0
+	"Petre #0" = 0
+	"Pirvu #0" = 0
+	"Radovan #0" = 0
+	"Radu #0" = 0
+	"Roman #0" = 0
+	"Sas #0" = 0
+	"Sergiu #0" = 0
+	"Simion #0" = 0
+	"Stefan #0" = 0
+	"Teodor #0" = 0
+	"Tepes #0" = 0
+	"Tihomir #0" = 0
+	"Tudor #0" = 0
+	"Valentin #0" = 0
+	"Valeriu #0" = 0
+	"Vasile #0" = 0
+	"Veaceslav #0" = 0
+	"Victor #0" = 0
+	"Vilhelm #0" = 0
+	"Vintila #0" = 0
+	"Vlad #0" = 0
+
+
+	"Elisabeta #0" = -1
+	"Vasilica #0" = -1
+	"Voica #0" = -1
+	"Ionela #0" = -1
+	"Angela #0" = -1
+}
+

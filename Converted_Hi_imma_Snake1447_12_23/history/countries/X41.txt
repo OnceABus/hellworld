@@ -1,0 +1,28 @@
+# Ratanpur
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 4452
+1423.2.5 = {
+	monarch = {
+		name = "Kanchuka II"
+		birth_date = 1419.6.10
+		dynasty = "Chalid"
+		female = yes
+		adm = 0
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 4452
+	add_treasury = 30
+	add_prestige = 221
+}

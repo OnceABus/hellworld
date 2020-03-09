@@ -1,0 +1,26 @@
+# Ungvar
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = hungarian
+religion = cathar
+clear_scripted_personalities = yes
+capital = 1953
+1444.3.5 = {
+	monarch = {
+		name = "Boghos II"
+		birth_date = 1430.7.5
+		dynasty = "Jasenovsky"
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+	add_ruler_personality = tolerant_personality
+}
+1444.11.11 = {
+	capital = 1953
+	add_treasury = 344
+	add_prestige = 36
+}

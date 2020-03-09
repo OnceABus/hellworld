@@ -1,0 +1,27 @@
+# Kashgar
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = uyghur
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 739
+1418.6.1 = {
+	monarch = {
+		name = "Yaraq"
+		birth_date = 1389.9.23
+		dynasty = "Mänglikid"
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 739
+	add_treasury = -24
+	add_prestige = 183
+}

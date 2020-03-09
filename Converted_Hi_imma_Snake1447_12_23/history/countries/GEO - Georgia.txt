@@ -1,0 +1,40 @@
+# Georgia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 2203
+1422.1.22 = {
+	monarch = {
+		name = "Ælbeg"
+		birth_date = 1399.9.28
+		dynasty = "Doukas"
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = conqueror_personality
+}
+1439.11.11 = {
+	heir = {
+		name = "Pelagia"
+		monarch_name = "Pelagia"
+		dynasty = "Doukas"
+		birth_date = 1439.11.11
+		death_date = 1519.11.11
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 2203
+	add_treasury = 90
+	add_prestige = 719
+}

@@ -1,0 +1,393 @@
+# Ge'ermu
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 18 139 134 }
+
+
+
+
+leader_names = {
+
+	"Yanxi" "Cuiba" "RuanSuogu" "Yingtian" "Taige" "Sili" "Gongfu" "Zhaode" "Sujie" "Lin" 
+	"Huangshang" "Xian'e" "Wei" "Jie" "Fujin" "Daoqing" "Xuantong" "Suzhen" "Zhichong" "Dehua" 
+	"Zhihong" "Fuguo" "Xiurong" "Changshou" "Mergan" "Noujin" "Mopei" "Yaliguo" "Wogan" "Shuogu" 
+	"Qizhen" "Gunai" "Xiduguan" "Qidegui" "Quju" "Yange" "Zhiligu" "Yilie" "Wolila" "Yanmu" 
+	"Tuyu" "Lübugu" "Shuge" "Loguo" "Chala" "Shefuchen" "Ping" "Yaoshinu" "Yaogu" "Fuguzhi" 
+	"Qinu" "Saige" "Tabuyan" "Sougu" "Xuedu" "Anduan" "Jing" "Boshi" "Hongji" "Hechen" 
+	"Yanyan" "Duba" "Mingxiang" "Yali" "Shaojing" "Dianni" "Xiao-Wen" "Zhaoyun" "Renjie" "Yao'er" 
+	"Miaoyu" "Jifu" "Zongru" "Youwu" "Fangqing" "Bilge" "Yiltïs" "Rabten" "Driza" "Konchog" 
+	"Tridé" "Rangdol" "Khrimalod" "Zangtsa" "Khribang" "Yueliduo" "Ji" "Yu" "Deyi" "Wuji" 
+	"Xuanling" "Ruhui" "Yanbo" "Shilian" "Shiji" "Xingcheng" "Zhining" "Suiliang" "Rengui" "Zhide" 
+	"Liangsi" "Daijia" "Chengsi" "Changliang" "Qinwang" "Jishan" "Xiujing" "Yuanzhong" "Chengqi" "Shi" 
+	"Ziyi" "Maozhen" "Gongren" "Shidao" "Wenben" "Zhou" "Dunli" "Yifu" "Zhenglun" "Jingzong" 
+	"Xiangdao" "Dunxin" "Liben" "Chujun" "Jingxuan" "Yuanchao" "Zhiwen" "Yan" "Weidao" "Judao" 
+	"Wenwei" "Sansi" "Qiao" "Zaisi" "Xuanwei" "Shuji" "Anshi" "Chuke" "Zhizhong" "Chong" 
+	"Shuo" "Jiazhen" "Song" "Jiuling" "Linfu" "Guozhong" "Yuan" "Huaiguang" "Sheng" "Jian" 
+	"Hong" "Minzhong" "Zhaodu" "Wenjing" "Kang" "Shuda" "Yuanji" "Gui" "Zheng" "Wenjie" 
+	"Maojiang" "Yushi" "Dexuan" "Luo" "Wenguan" "Jingxian" "Dezhen" "Siqian" "Guangfu" "Youning" 
+	"Wuzi" "Qinke" "Tong" "Shou" "Hui" "Yanfan" "Huai" "Juyuan" "Chuna" "Rizhi" 
+	"Youqiu" "Huaizhen" "Xi" "Zhigu" "Huaishen" "Qianyao" "Guangting" "Yaoqin" "Xianke" "Shizhi" 
+	"Xilie" "Jiansu" "Jinqin" "Jin" "Sui" "Duo" "Mei" "Congdang" "Yanruo" "Yin" 
+	"Junji" "Yaxiang" "Chengqing" "Yi" "Yanwei" "Chuyue" "Hongwu" "Anqi" "Renben" "Heng" 
+	"Yiyan" "Zhizhou" "Da'an" "Daiju" "Hongmin" "Weizhi" "Benli" "Xiaojie" "Jiongxiu" "Dan" 
+	"Jianzhi" "Huaiyuan" "Qinming" "Renyuan" "Xiangxian" "Na" "Zhengyi" "Jingchen" "Junliang" "Cha" 
+	"Fangzhi" "Lübing" "Youyi" "Sihui" "Fuyuan" "Xingben" "Zhirou" "Youdao" "Shenji" "Yuanzong" 
+	"Yuansu" "Rui" "Yuanfang" "Shifang" "Jingquan" "Yunyuan" "Yuanheng" "Daoguang" "Yuanchong" "Xu" 
+	"Jingze" "Rong" "Weiqian" "Yanzhao" "Jiafu" "Yuanhong" "Guan" "Mian" "Ting" "Qi" 
+	"Kui" "Hua" "Zunqing" "Zai" "Hongjian" "Gun" "Zhongchen" "Youfu" "Bo" "Congyi" 
+	"Yanshang" "Zao" "Huang" "Hun" "Bi" "Can" "Zhi" "Mai" "Sun" "Yuqing" 
+	"Ying" "Xunyu" "Zhiyi" "Di" "Pan" "Deyu" "Jiang" "Hongjin" "Guanzhi" "Fengji" 
+	"Qun" "Yong" "Yijian" "Fu" "Wenchang" "Yuanying" "Sengru" "Chen" "Yizhi" "Chuhou" 
+	"Zongmin" "Shenxi" "Guyan" "Yuanyu" "Xun" "Tan" "Yixing" "Sifu" "Shen" "Rangyi" 
+	"Su" "Shang" "Yuanshi" "Guicong" "Tao" "Mo" "Lang" "Shenyou" "Zhuan" "Shenquan" 
+	"Xian" "Que" "Zhan" "Ye" "Che" "Gou" "Changtu" "Rangneng" "Yanchang" "Xisheng" 
+	"Chuan" "Pu" "Wo" "She" "Riyong" "Renshi" "Guangqi" "Yanjing" "Dewei" "Shouyi" 
+	"Longji" "Shouli" "Yuanzhen" "Xinfu" "Yun" }
+monarch_names = {
+	"Yanxi #0" = 1
+	"Cuiba #0" = -1
+	"RuanSuogu #0" = 1
+	"Yingtian #0" = -1
+	"Taige #0" = -1
+	"Sili #0" = 1
+	"Gongfu #0" = 1
+	"Zhaode #0" = 1
+	"Sujie #0" = -1
+	"Lin #0" = 1
+	"Huangshang #0" = 1
+	"Xian'e #0" = -1
+	"Wei #0" = 1
+	"Jie #0" = 1
+	"Fujin #0" = -1
+	"Daoqing #0" = -1
+	"Xuantong #1" = 24
+	"Suzhen #0" = -1
+	"Zhichong #0" = -1
+	"Dehua #0" = -1
+	"Zhihong #2" = 21
+	"Fuguo #0" = 1
+	"Xiurong #0" = -1
+	"Changshou #0" = -1
+	"Mergan #0" = 1
+	"Noujin #0" = -1
+	"Mopei #0" = 1
+	"Yaliguo #0" = 1
+	"Wogan #0" = 1
+	"Shuogu #0" = -1
+	"Qizhen #0" = 1
+	"Gunai #0" = 1
+	"Xiduguan #0" = 1
+	"Qidegui #0" = 1
+	"Quju #0" = 1
+	"Yange #0" = -1
+	"Zhiligu #0" = 1
+	"Yilie #0" = 1
+	"Wolila #1" = 21
+	"Yanmu #0" = -1
+	"Tuyu #0" = 1
+	"Lübugu #0" = -1
+	"Shuge #0" = -1
+	"Loguo #0" = 1
+	"Chala #0" = 1
+	"Shefuchen #1" = 21
+	"Ping #0" = -1
+	"Yaoshinu #0" = 1
+	"Yaogu #0" = 1
+	"Fuguzhi #0" = 1
+	"Qinu #0" = 1
+	"Saige #0" = -1
+	"Tabuyan #0" = -1
+	"Sougu #0" = 1
+	"Xuedu #0" = 1
+	"Anduan #0" = 1
+	"Jing #0" = 1
+	"Boshi #0" = -1
+	"Hongji #0" = 1
+	"Hechen #0" = 1
+	"Yanyan #0" = -1
+	"Duba #0" = 1
+	"Mingxiang #0" = -1
+	"Yali #0" = 1
+	"Shaojing #0" = 1
+	"Dianni #0" = -1
+	"Xiao-Wen #0" = -1
+	"Zhaoyun #0" = -1
+	"Renjie #0" = 1
+	"Yao'er #0" = -1
+	"Miaoyu #0" = -1
+	"Jifu #0" = 1
+	"Zongru #0" = 1
+	"Youwu #0" = -1
+	"Fangqing #1" = 18
+	"Bilge #1" = 0
+	"Yiltïs #1" = -1
+	"Rabten #1" = 0
+	"Driza #1" = -1
+	"Konchog #1" = -1
+	"Tridé #1" = 0
+	"Rangdol #1" = 0
+	"Khrimalod #1" = -1
+	"Zangtsa #1" = 0
+	"Khribang #1" = -1
+	"Yueliduo #1" = -1
+	"Ji #0" = 0
+	"Yu #0" = 0
+	"Deyi #0" = 0
+	"Wuji #0" = 0
+	"Xuanling #0" = 0
+	"Ruhui #0" = 0
+	"Yanbo #0" = 0
+	"Shilian #0" = 0
+	"Shiji #0" = 0
+	"Xingcheng #0" = 0
+	"Zhining #0" = 0
+	"Suiliang #0" = 0
+	"Rengui #0" = 0
+	"Zhide #0" = 0
+	"Liangsi #0" = 0
+	"Daijia #0" = 0
+	"Chengsi #0" = 0
+	"Changliang #0" = 0
+	"Qinwang #0" = 0
+	"Jishan #0" = 0
+	"Xiujing #0" = 0
+	"Yuanzhong #0" = 0
+	"Chengqi #0" = 0
+	"Shi #0" = 0
+	"Ziyi #0" = 0
+	"Maozhen #0" = 0
+	"Gongren #0" = 0
+	"Shidao #0" = 0
+	"Wenben #0" = 0
+	"Zhou #0" = 0
+	"Dunli #0" = 0
+	"Yifu #0" = 0
+	"Zhenglun #0" = 0
+	"Jingzong #0" = 0
+	"Xiangdao #0" = 0
+	"Dunxin #0" = 0
+	"Liben #0" = 0
+	"Chujun #0" = 0
+	"Jingxuan #0" = 0
+	"Yuanchao #0" = 0
+	"Zhiwen #0" = 0
+	"Yan #0" = 0
+	"Weidao #0" = 0
+	"Judao #0" = 0
+	"Wenwei #0" = 0
+	"Sansi #0" = 0
+	"Qiao #0" = 0
+	"Zaisi #0" = 0
+	"Xuanwei #0" = 0
+	"Shuji #0" = 0
+	"Anshi #0" = 0
+	"Chuke #0" = 0
+	"Zhizhong #0" = 0
+	"Chong #0" = 0
+	"Shuo #0" = 0
+	"Jiazhen #0" = 0
+	"Song #0" = 0
+	"Jiuling #0" = 0
+	"Linfu #0" = 0
+	"Guozhong #0" = 0
+	"Yuan #0" = 0
+	"Huaiguang #0" = 0
+	"Sheng #0" = 0
+	"Jian #0" = 0
+	"Hong #0" = 0
+	"Minzhong #0" = 0
+	"Zhaodu #0" = 0
+	"Wenjing #0" = 0
+	"Kang #0" = 0
+	"Shuda #0" = 0
+	"Yuanji #0" = 0
+	"Gui #0" = 0
+	"Zheng #0" = 0
+	"Wenjie #0" = 0
+	"Maojiang #0" = 0
+	"Yushi #0" = 0
+	"Dexuan #0" = 0
+	"Luo #0" = 0
+	"Wenguan #0" = 0
+	"Jingxian #0" = 0
+	"Dezhen #0" = 0
+	"Siqian #0" = 0
+	"Guangfu #0" = 0
+	"Youning #0" = 0
+	"Wuzi #0" = 0
+	"Qinke #0" = 0
+	"Tong #0" = 0
+	"Shou #0" = 0
+	"Hui #0" = 0
+	"Yanfan #0" = 0
+	"Huai #0" = 0
+	"Juyuan #0" = 0
+	"Chuna #0" = 0
+	"Rizhi #0" = 0
+	"Youqiu #0" = 0
+	"Huaizhen #0" = 0
+	"Xi #0" = 0
+	"Zhigu #0" = 0
+	"Huaishen #0" = 0
+	"Qianyao #0" = 0
+	"Guangting #0" = 0
+	"Yaoqin #0" = 0
+	"Xianke #0" = 0
+	"Shizhi #0" = 0
+	"Xilie #0" = 0
+	"Jiansu #0" = 0
+	"Jinqin #0" = 0
+	"Jin #0" = 0
+	"Sui #0" = 0
+	"Duo #0" = 0
+	"Mei #0" = 0
+	"Congdang #0" = 0
+	"Yanruo #0" = 0
+	"Yin #0" = 0
+	"Junji #0" = 0
+	"Yaxiang #0" = 0
+	"Chengqing #0" = 0
+	"Yi #0" = 0
+	"Yanwei #0" = 0
+	"Chuyue #0" = 0
+	"Hongwu #0" = 0
+	"Anqi #0" = 0
+	"Renben #0" = 0
+	"Heng #0" = 0
+	"Yiyan #0" = 0
+	"Zhizhou #0" = 0
+	"Da'an #0" = 0
+	"Daiju #0" = 0
+	"Hongmin #0" = 0
+	"Weizhi #0" = 0
+	"Benli #0" = 0
+	"Xiaojie #0" = 0
+	"Jiongxiu #0" = 0
+	"Dan #0" = 0
+	"Jianzhi #0" = 0
+	"Huaiyuan #0" = 0
+	"Qinming #0" = 0
+	"Renyuan #0" = 0
+	"Xiangxian #0" = 0
+	"Na #0" = 0
+	"Zhengyi #0" = 0
+	"Jingchen #0" = 0
+	"Junliang #0" = 0
+	"Cha #0" = 0
+	"Fangzhi #0" = 0
+	"Lübing #0" = 0
+	"Youyi #0" = 0
+	"Sihui #0" = 0
+	"Fuyuan #0" = 0
+	"Xingben #0" = 0
+	"Zhirou #0" = 0
+	"Youdao #0" = 0
+	"Shenji #0" = 0
+	"Yuanzong #0" = 0
+	"Yuansu #0" = 0
+	"Rui #0" = 0
+	"Yuanfang #0" = 0
+	"Shifang #0" = 0
+	"Jingquan #0" = 0
+	"Yunyuan #0" = 0
+	"Yuanheng #0" = 0
+	"Daoguang #0" = 0
+	"Yuanchong #0" = 0
+	"Xu #0" = 0
+	"Jingze #0" = 0
+	"Rong #0" = 0
+	"Weiqian #0" = 0
+	"Yanzhao #0" = 0
+	"Jiafu #0" = 0
+	"Yuanhong #0" = 0
+	"Guan #0" = 0
+	"Mian #0" = 0
+	"Ting #0" = 0
+	"Qi #0" = 0
+	"Kui #0" = 0
+	"Hua #0" = 0
+	"Zunqing #0" = 0
+	"Zai #0" = 0
+	"Hongjian #0" = 0
+	"Gun #0" = 0
+	"Zhongchen #0" = 0
+	"Youfu #0" = 0
+	"Bo #0" = 0
+	"Congyi #0" = 0
+	"Yanshang #0" = 0
+	"Zao #0" = 0
+	"Huang #0" = 0
+	"Hun #0" = 0
+	"Bi #0" = 0
+	"Can #0" = 0
+	"Zhi #0" = 0
+	"Mai #0" = 0
+	"Sun #0" = 0
+	"Yuqing #0" = 0
+	"Ying #0" = 0
+	"Xunyu #0" = 0
+	"Zhiyi #0" = 0
+	"Di #0" = 0
+	"Pan #0" = 0
+	"Deyu #0" = 0
+	"Jiang #0" = 0
+	"Hongjin #0" = 0
+	"Guanzhi #0" = 0
+	"Fengji #0" = 0
+	"Qun #0" = 0
+	"Yong #0" = 0
+	"Yijian #0" = 0
+	"Fu #0" = 0
+	"Wenchang #0" = 0
+	"Yuanying #0" = 0
+	"Sengru #0" = 0
+	"Chen #0" = 0
+	"Yizhi #0" = 0
+	"Chuhou #0" = 0
+	"Zongmin #0" = 0
+	"Shenxi #0" = 0
+	"Guyan #0" = 0
+	"Yuanyu #0" = 0
+	"Xun #0" = 0
+	"Tan #0" = 0
+	"Yixing #0" = 0
+	"Sifu #0" = 0
+	"Shen #0" = 0
+	"Rangyi #0" = 0
+	"Su #0" = 0
+	"Shang #0" = 0
+	"Yuanshi #0" = 0
+	"Guicong #0" = 0
+	"Tao #0" = 0
+	"Mo #0" = 0
+	"Lang #0" = 0
+	"Shenyou #0" = 0
+	"Zhuan #0" = 0
+	"Shenquan #0" = 0
+	"Xian #0" = 0
+	"Que #0" = 0
+	"Zhan #0" = 0
+	"Ye #0" = 0
+	"Che #0" = 0
+	"Gou #0" = 0
+	"Changtu #0" = 0
+	"Rangneng #0" = 0
+	"Yanchang #0" = 0
+	"Xisheng #0" = 0
+	"Chuan #0" = 0
+	"Pu #0" = 0
+	"Wo #0" = 0
+	"She #0" = 0
+	"Riyong #0" = 0
+	"Renshi #0" = 0
+	"Guangqi #0" = 0
+	"Yanjing #0" = 0
+	"Dewei #0" = 0
+	"Shouyi #0" = 0
+	"Longji #0" = 0
+	"Shouli #0" = 0
+	"Yuanzhen #0" = 0
+	"Xinfu #0" = 0
+	"Yun #0" = 0
+}
+

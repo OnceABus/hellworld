@@ -1,0 +1,22 @@
+germanic = {
+	german = {
+		primary = GER
+		dynasty_names = { "von Rügen" "von Andechs" "von Wickerode" "von Babenberg" "von Nörvenich" "von Limburg" "Roes" "Ydulfing" "Oeningen" "von Rheinfelden" "Udonen" "Etichonen" "von Rietberg" "von Waldeck" "von Trier" "von Nauen" "von Lunen" "von Komburg" "Gross" "von Schweipünt" "von Altenbaumberg" "von Ortenburg" "von Vinstingen" "von Schoenecken" "von Daun" "von Veringen" "von Muhlhausen" "von Landau" "von Tschudi" "von Rugen" "von Schlawe" "von Schwelz" "von Liebschau" "von der Lippe" "von Assel" "von Kiel" "von Rostock" "von Gustrow" "von Essen" "von Ingelheim" "StepOnTaxes" "von Madman" "Biscuits" "von Halberstedt" "von Niendorf" "von Hersfeld" "von El Anakir" "von Château-Thierry" "von Hammelburg" "von Metz" "von Abbeville" "von Arlon" "von Olesnica" "von Wroclaw" "von Brandenburg" "von Monheim" "von Berwick" "von Goslar" "von Montoire" "von Aberaeron" "von Newstead" "von Southwell" "von Mirandola" "von Khilovo" "von Kopparberg" "von Kopparberg" "von Hedemora" "von Hedemora" }
+	}
+	frankish = {
+		primary = FRA
+		dynasty_names = { "de Gironde" "Saint-Gilles" "d'Éolienne" "de Bessa" "Luneville" "de Penthièvre" "de Bellegarde" "de Mellent" "de Vernon" "Estouteville" "de Nimes" "de Tilly" "Bosonid" "de Châtillon" "de Bresz Kujawski" "d'Ayerbe" "de Vinkovci" "de Montefeltro" "de Vecsovato" "de Russi" "de Leptis Magna" "de Lillebonne" "de Montreuil" "de Senlis" "de Castillon" "de Malveisin" }
+	}
+	suebi = {
+		primary = POR
+		dynasty_names = { }
+	}
+	frisian = {
+		primary = NED
+		dynasty_names = { "van Vlaanderen" }
+	}
+	old_lombard = {
+		primary = ITA
+		dynast_names = Â§old_lombardÂ§
+	}
+}

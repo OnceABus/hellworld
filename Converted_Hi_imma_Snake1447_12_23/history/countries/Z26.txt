@@ -1,0 +1,27 @@
+# Opsikion
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = jewish
+clear_scripted_personalities = yes
+capital = 4312
+1433.4.19 = {
+	monarch = {
+		name = "Bosporios"
+		birth_date = 1394.3.2
+		dynasty = "of  Nikaea"
+		adm = 0
+		dip = 5
+		mil = 1
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 4312
+	add_treasury = 265
+	add_prestige = 44
+}

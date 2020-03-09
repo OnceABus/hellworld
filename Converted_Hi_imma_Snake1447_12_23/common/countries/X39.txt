@@ -1,0 +1,205 @@
+# Virsinghadevid
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 174 120 0 }
+
+
+
+
+leader_names = {
+
+	"Virsinghadeva" "Dhruvadevi" "Prasadhanadevi" "Shrimitradevi" "Bhoja" "Hamir" "Anuppal" "Karmavati" "Subhatavarman" "Nannuka" 
+	"Ishtpala" "Anupapala" "Lakshman" "Mahipata" "Kalayandevi" "Jagatpala" "Sanyukta" "Kailaspala" "Kumaradevi" "Bachraj" 
+	"Draupada" "Prithviraj" "Margdeva" "Prabhavati" "Govindaraja" "Bhumpal" "Maharani" "Rajamati" "Suhava" "Ramabhadra" 
+	"Harsa" "Prithvi" "Prabhavatigupta" "Kakanvati" "Sonpala" "Jagdev" "Hemavati" "Sultanpal" "Rangraja" "Brahmapala" 
+	"Govindachandra" "Ghatamdeva" "Nattadevi" "Harshapala" "Sultanpala" "Jatanpal" "Jatanpala" "Keeratdeva" "Vidurathpala" "Dehanagadevi" 
+	"Ratnapala" "Birpala" "Narpal" "Arjunpal" "Draupad" "Himu" "Udaysangh" "Paramardideva" "Kalkurna" "Puppadevi" 
+	"Dhruvasvamini" "Dilipapala" "Udayaditya" "Vindhyavarman" "Jaspal" "Damayanti" "Akal" "Sallaksanavarman" "Jagdeva" "Kunwarpal" 
+	"Rana" "Khadag" "Krishnray" "Kanwar" "Vakpati" "Salivaahan" "Rajapala" "Varshapala" "Bhilpala" "Jasapala" 
+	"Dhanga" "Dhangadeva" "Arjunavarman" "Dasu" "Bhoj" "Partap" "Hirapala" "Sukhinpal" "Mahidevi" "Mahlakadeva" 
+	"Junpala" "Mahipal" "Pritampal" "Lokpala" "Traillokyachandra" "Pavak" "Dharmapala" "Anantadevi" "Dattadevi" "Kanchuka" 
+	"Sonpal" "Devavarman" "Someshvara" "Bhojavarman" "Gopal" "Vinayakapala" "Somasi" "Viramdeva" "Vidyadhara" "Rijhpala" 
+	"Ashoka" "Danush" "Ardeshir" "Toruntay" "Kïlïç" "Buyruq" "Aydogan" "Mustafa" "Lilan" "Ajit" 
+	"Amar" "Amar Dasi" "Amir" "Angad" "Arjun" "Atar" "Basawa" "Bhagwant" "Bhaimani" "Budh" 
+	"Chand" "Charat" "Damodar" "Datu" "Dayaram" "Didar" "Farid" "Fateh" "Gobind" "Gurdita" 
+	"Hargobind" "Hari" "Har Krishan" "Har Rai" "Jai Ram" "Jetha" "Jujhar" "Kalyan" "Kapur" "Kehar" 
+	"Kharak" "Khushal" "Lahna" "Lakhmichand" "Laxman" "Mahadev" "Mohan" "Mohri" "Nanak" "Narayan" 
+	"Nodha" "Pheru" "Prithichand" "Ram Rai" "Ranjit" "Ranjor" "Sahdev" "Shamsher" "Sher" "Srichand" 
+	"Tegh Bahadur" "Tej Bhan" "Thakur" "Zorawar" }
+monarch_names = {
+	"Virsinghadeva #0" = 1
+	"Dhruvadevi #1" = -28
+	"Prasadhanadevi #1" = -34
+	"Shrimitradevi #0" = -1
+	"Bhoja #0" = 1
+	"Hamir #0" = 1
+	"Anuppal #0" = 1
+	"Karmavati #0" = -1
+	"Subhatavarman #1" = 36
+	"Nannuka #0" = 1
+	"Ishtpala #0" = 1
+	"Anupapala #0" = 1
+	"Lakshman #0" = -1
+	"Mahipata #0" = 1
+	"Kalayandevi #0" = -1
+	"Jagatpala #0" = 1
+	"Sanyukta #0" = -1
+	"Kailaspala #0" = 1
+	"Kumaradevi #0" = -1
+	"Bachraj #0" = 1
+	"Draupada #0" = 1
+	"Prithviraj #0" = 1
+	"Margdeva #0" = 1
+	"Prabhavati #2" = -46
+	"Govindaraja #0" = 1
+	"Bhumpal #0" = 1
+	"Maharani #0" = -1
+	"Rajamati #0" = -1
+	"Suhava #0" = -1
+	"Ramabhadra #0" = 1
+	"Harsa #0" = 1
+	"Prithvi #0" = 1
+	"Prabhavatigupta #0" = -1
+	"Kakanvati #0" = -1
+	"Sonpala #0" = 1
+	"Jagdev #0" = 1
+	"Hemavati #0" = -1
+	"Sultanpal #0" = 1
+	"Rangraja #0" = 1
+	"Brahmapala #0" = 1
+	"Govindachandra #0" = 1
+	"Ghatamdeva #0" = 1
+	"Nattadevi #0" = -1
+	"Harshapala #0" = 1
+	"Sultanpala #0" = 1
+	"Jatanpal #0" = 1
+	"Jatanpala #0" = 1
+	"Keeratdeva #0" = 1
+	"Vidurathpala #0" = 1
+	"Dehanagadevi #0" = -1
+	"Ratnapala #0" = 1
+	"Birpala #0" = 1
+	"Narpal #0" = 1
+	"Arjunpal #0" = 1
+	"Draupad #0" = 1
+	"Himu #0" = -1
+	"Udaysangh #0" = 1
+	"Paramardideva #0" = 1
+	"Kalkurna #0" = 1
+	"Puppadevi #0" = -1
+	"Dhruvasvamini #0" = -1
+	"Dilipapala #1" = 21
+	"Udayaditya #0" = 1
+	"Vindhyavarman #0" = 1
+	"Jaspal #0" = 1
+	"Damayanti #0" = -1
+	"Akal #0" = -1
+	"Sallaksanavarman #0" = 1
+	"Jagdeva #0" = 1
+	"Kunwarpal #0" = 1
+	"Rana #0" = 1
+	"Khadag #0" = 1
+	"Krishnray #0" = 1
+	"Kanwar #1" = -31
+	"Vakpati #1" = 24
+	"Salivaahan #0" = 1
+	"Rajapala #0" = 1
+	"Varshapala #0" = 1
+	"Bhilpala #0" = 1
+	"Jasapala #0" = 1
+	"Dhanga #0" = 1
+	"Dhangadeva #0" = 1
+	"Arjunavarman #0" = 1
+	"Dasu #0" = 1
+	"Bhoj #0" = 1
+	"Partap #0" = 1
+	"Hirapala #0" = 1
+	"Sukhinpal #0" = 1
+	"Mahidevi #0" = -1
+	"Mahlakadeva #0" = 1
+	"Junpala #0" = 1
+	"Mahipal #0" = 1
+	"Pritampal #0" = 1
+	"Lokpala #0" = 1
+	"Traillokyachandra #0" = 1
+	"Pavak #0" = 1
+	"Dharmapala #0" = 1
+	"Anantadevi #0" = -1
+	"Dattadevi #0" = -1
+	"Kanchuka #0" = -1
+	"Sonpal #0" = 1
+	"Devavarman #0" = 1
+	"Someshvara #0" = 1
+	"Bhojavarman #0" = 1
+	"Gopal #0" = 1
+	"Vinayakapala #0" = 1
+	"Somasi #0" = 1
+	"Viramdeva #0" = 1
+	"Vidyadhara #0" = 1
+	"Rijhpala #0" = 1
+	"Ashoka #1" = 0
+	"Danush #1" = 0
+	"Ardeshir #1" = 0
+	"Toruntay #1" = 0
+	"Kïlïç #1" = 0
+	"Buyruq #1" = 0
+	"Aydogan #1" = 0
+	"Mustafa #1" = 0
+	"Lilan #1" = -1
+	"Ajit #0" = 0
+	"Amar #0" = 0
+	"Amar Dasi #0" = 0
+	"Amir #0" = 0
+	"Angad #0" = 0
+	"Arjun #0" = 0
+	"Atar #0" = 0
+	"Basawa #0" = 0
+	"Bhagwant #0" = 0
+	"Bhaimani #0" = 0
+	"Budh #0" = 0
+	"Chand #0" = 0
+	"Charat #0" = 0
+	"Damodar #0" = 0
+	"Datu #0" = 0
+	"Dayaram #0" = 0
+	"Didar #0" = 0
+	"Farid #0" = 0
+	"Fateh #0" = 0
+	"Gobind #0" = 0
+	"Gurdita #0" = 0
+	"Hargobind #0" = 0
+	"Hari #0" = 0
+	"Har Krishan #0" = 0
+	"Har Rai #0" = 0
+	"Jai Ram #0" = 0
+	"Jetha #0" = 0
+	"Jujhar #0" = 0
+	"Kalyan #0" = 0
+	"Kapur #0" = 0
+	"Kehar #0" = 0
+	"Kharak #0" = 0
+	"Khushal #0" = 0
+	"Lahna #0" = 0
+	"Lakhmichand #0" = 0
+	"Laxman #0" = 0
+	"Mahadev #0" = 0
+	"Mohan #0" = 0
+	"Mohri #0" = 0
+	"Nanak #0" = 0
+	"Narayan #0" = 0
+	"Nodha #0" = 0
+	"Pheru #0" = 0
+	"Prithichand #0" = 0
+	"Ram Rai #0" = 0
+	"Ranjit #0" = 0
+	"Ranjor #0" = 0
+	"Sahdev #0" = 0
+	"Shamsher #0" = 0
+	"Sher #0" = 0
+	"Srichand #0" = 0
+	"Tegh Bahadur #0" = 0
+	"Tej Bhan #0" = 0
+	"Thakur #0" = 0
+	"Zorawar #0" = 0
+}
+

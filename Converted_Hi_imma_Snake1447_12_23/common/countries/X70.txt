@@ -1,0 +1,153 @@
+# Mari
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 150 132 110 }
+
+
+
+
+leader_names = {
+
+	"Albrikt" "Olafr" "Birgitta" "Åsa" "Arelis" "Sten" "Margareta" "Mila" "Brage" "Iliana" 
+	"Tolir" "Totil" "Markus" "Inga" "Paksyut" "Chipaz" "Azyren" "Shudyr-Samych" "Purysho" "Tyushtya" 
+	"Nuyanza" "Rassate" "Hudbad" "Uchva" "Virdyan" "Puresh" "Zyryan" "Kezhevat" "Setyamka" "Kezhedey" 
+	"Alf" "Algot" "Anders" "Anund" "Arnbjörn" "Arne" "Arnfast" "Asbjörn" "Astrad" "Azur" 
+	"Bagge" "Balder" "Bengt" "Bertil" "Birger" "Björn" "Bo" "Borkvard" "Botulf" "Bror" 
+	"Brynjolf" "Dag" "Dan" "Dyre" "Egil" "Einar" "Emund" "Erik" "Eskild" "Faste" 
+	"Fredrik" "Filip" "Folke" "Frej" "Georg" "Greger" "Grim" "Gudröd" "Gunnar" "Gustav" 
+	"Halsten" "Harald" "Helgi" "Henrik" "Hjalmar" "Holmger" "Håkan" "Inge" "Ingemar" "Ingvar" 
+	"Jedvard" "Johan" "Karl" "Kettil" "Kettilmund" "Klas" "Knut" "Kol" "Kolbjörn" "Lars" 
+	"Mats" "Nils" "Niklas" "Odd" "Olaf" "Orvar" "Peder" "Ragnar" "Rolf" "Rörek" 
+	"Ragnvald" "Sämund" "Sörkver" "Sigbjörn" "Sigtrygg" "Sigurd" "Starkad" "Styrbjörn" "Sune" "Sven" 
+	"Sverker" "Sölvi" "Tjudmund" "Toke" "Torbjörn" "Tord" "Torbrand" "Torfinn" "Torkel" "Torolf" 
+	"Torsten" "Toste" "Tyke" "Ulf" "Valdemar" "Åke" "Östen" }
+monarch_names = {
+	"Albrikt #0" = 1
+	"Olafr #0" = 1
+	"Birgitta #1" = -19
+	"Åsa #0" = -1
+	"Arelis #0" = 1
+	"Sten #0" = 1
+	"Margareta #0" = -1
+	"Mila #0" = -1
+	"Brage #0" = 1
+	"Iliana #0" = -1
+	"Tolir #0" = 1
+	"Totil #0" = 1
+	"Markus #0" = 1
+	"Inga #0" = -1
+	"Paksyut #2" = 0
+	"Chipaz #1" = 0
+	"Azyren #1" = 0
+	"Shudyr-Samych #1" = 0
+	"Purysho #2" = 0
+	"Tyushtya #1" = 0
+	"Nuyanza #1" = 0
+	"Rassate #1" = 0
+	"Hudbad #1" = 0
+	"Uchva #2" = 0
+	"Virdyan #2" = 0
+	"Puresh #1" = 0
+	"Zyryan #1" = 0
+	"Kezhevat #1" = 0
+	"Setyamka #1" = 0
+	"Kezhedey #1" = 0
+	"Alf #0" = 0
+	"Algot #0" = 0
+	"Anders #0" = 0
+	"Anund #0" = 0
+	"Arnbjörn #0" = 0
+	"Arne #0" = 0
+	"Arnfast #0" = 0
+	"Asbjörn #0" = 0
+	"Astrad #0" = 0
+	"Azur #0" = 0
+	"Bagge #0" = 0
+	"Balder #0" = 0
+	"Bengt #0" = 0
+	"Bertil #0" = 0
+	"Birger #0" = 0
+	"Björn #0" = 0
+	"Bo #0" = 0
+	"Borkvard #0" = 0
+	"Botulf #0" = 0
+	"Bror #0" = 0
+	"Brynjolf #0" = 0
+	"Dag #0" = 0
+	"Dan #0" = 0
+	"Dyre #0" = 0
+	"Egil #0" = 0
+	"Einar #0" = 0
+	"Emund #0" = 0
+	"Erik #0" = 0
+	"Eskild #0" = 0
+	"Faste #0" = 0
+	"Fredrik #0" = 0
+	"Filip #0" = 0
+	"Folke #0" = 0
+	"Frej #0" = 0
+	"Georg #0" = 0
+	"Greger #0" = 0
+	"Grim #0" = 0
+	"Gudröd #0" = 0
+	"Gunnar #0" = 0
+	"Gustav #0" = 0
+	"Halsten #0" = 0
+	"Harald #0" = 0
+	"Helgi #0" = 0
+	"Henrik #0" = 0
+	"Hjalmar #0" = 0
+	"Holmger #0" = 0
+	"Håkan #0" = 0
+	"Inge #0" = 0
+	"Ingemar #0" = 0
+	"Ingvar #0" = 0
+	"Jedvard #0" = 0
+	"Johan #0" = 0
+	"Karl #0" = 0
+	"Kettil #0" = 0
+	"Kettilmund #0" = 0
+	"Klas #0" = 0
+	"Knut #0" = 0
+	"Kol #0" = 0
+	"Kolbjörn #0" = 0
+	"Lars #0" = 0
+	"Mats #0" = 0
+	"Nils #0" = 0
+	"Niklas #0" = 0
+	"Odd #0" = 0
+	"Olaf #0" = 0
+	"Orvar #0" = 0
+	"Peder #0" = 0
+	"Ragnar #0" = 0
+	"Rolf #0" = 0
+	"Rörek #0" = 0
+	"Ragnvald #0" = 0
+	"Sämund #0" = 0
+	"Sörkver #0" = 0
+	"Sigbjörn #0" = 0
+	"Sigtrygg #0" = 0
+	"Sigurd #0" = 0
+	"Starkad #0" = 0
+	"Styrbjörn #0" = 0
+	"Sune #0" = 0
+	"Sven #0" = 0
+	"Sverker #0" = 0
+	"Sölvi #0" = 0
+	"Tjudmund #0" = 0
+	"Toke #0" = 0
+	"Torbjörn #0" = 0
+	"Tord #0" = 0
+	"Torbrand #0" = 0
+	"Torfinn #0" = 0
+	"Torkel #0" = 0
+	"Torolf #0" = 0
+	"Torsten #0" = 0
+	"Toste #0" = 0
+	"Tyke #0" = 0
+	"Ulf #0" = 0
+	"Valdemar #0" = 0
+	"Åke #0" = 0
+	"Östen #0" = 0
+}
+

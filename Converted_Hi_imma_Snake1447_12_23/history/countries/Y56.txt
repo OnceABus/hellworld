@@ -1,0 +1,27 @@
+# Lahore
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 4510
+1432.12.5 = {
+	monarch = {
+		name = "Basawa"
+		birth_date = 1419.5.13
+		dynasty = "Hoysala"
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = martial_educator_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 4510
+	add_treasury = 565
+	add_prestige = 315
+}

@@ -1,0 +1,27 @@
+# Chernigov
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+clear_scripted_personalities = yes
+capital = 289
+1432.12.12 = {
+	monarch = {
+		name = "Rainero"
+		birth_date = 1384.8.12
+		dynasty = "di Curlies"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = loose_lips_personality
+	add_ruler_personality = sinner_personality
+}
+1444.11.11 = {
+	capital = 289
+	add_treasury = 16
+	add_prestige = 773
+}

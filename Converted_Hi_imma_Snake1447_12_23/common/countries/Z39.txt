@@ -1,0 +1,229 @@
+# Søreyar
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 6 42 127 }
+historical_idea_groups = {
+	defensive_ideas
+	aristocracy_ideas
+	naval_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	scottish_highlander
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Brénainn" "Artucán" "Gruoch" "Cairell" "Somerled" "Brigida" "Matad" "Tezozomoc" "Barabal" "Adam" 
+	"Faílbe" "Coirpre" "Úna" "Lerben" "Bressal" "Siobán" "Tigernach" "Cobthach" "Gilla-Pátraic" "Pilib" 
+	"Constantín" "Ben-Ulad" "Ólchobar" "Fergal" "Gilpatrick" "Finnacán" "Laisrén" "Dubchoblaig" "Órnat" "Garb" 
+	"Teiuc" "Étaín" "Corbb" "Loarn" "Fergus" "Domangart" "Comgall" "Gabrán" "Conall" "Áedán" 
+	"Connad" "Eochaid" "Domnall" "Ferchar" "Dúnchad" "Máel-Dúin" "Ainbcellach" "Fiannamail" "Béc" "Selbach" 
+	"Dúngal" "Muiredach" "Alpín" "Eógan" "Indrechtach" "Diarmait" "Áed" "Donncoirce" "Caustantín" "Tadg" 
+	"Óengus" "Eóganán" "Kenneth" "Gofraid" "Ivar" "Rögnvaldr" "Sihtric Caech" "Guðfrið" "Olafr" "Olafr Cuarán" 
+	"Maccus" "Sigurdr" "Einarr" "Amlaíb" "Þorfinn" "Gudrød" "Thorborg" "Haldor" "Ros" "Donella" 
+	"Douglas" "Tizocic" "Yolotli" "Eloxochitl" "Ahuiliztli" "Cú-Allaid" "Imchad" "Cóelbad" "Muadhnait" "Alan" 
+	"Indulf" "Sheena" "Omero" "Alv" "Arne" "Arnfinn" "Arnkjell" "Arnmod" "Arnvid" "Bård" 
+	"Bjørn" "Eigil" "Eilif" "Einar" "Eirik" "Erlend" "Erling" "Eystein" "Finn" "Grim" 
+	"Gudbrand" "Gudleik" "Gunnar" "Guttorm" "Halfdan" "Halkjell" "Harald" "Håkon" "Håvard" "Inge" 
+	"Jon" "Kåre" "Kolbein" "Lodin" "Magne" "Magnus" "Ogmund" "Olav" "Ossor" "Pål" 
+	"Ragnar" "Ragnvald" "Rolf" "Sigurd" "Skjalg" "Skofte" "Skule" "Svein" "Sverre" "Torbjørn" 
+	"Tord" "Tore" "Torgil" "Tormod" "Torolf" "Torstein" "Trond" "Tryggve" "Ulv" "Vigleik" 
+	"Åle" "Åmund" "Ølver" "Øystein" }
+monarch_names = {
+	"Brénainn #0" = 1
+	"Artucán #0" = 1
+	"Gruoch #0" = -1
+	"Cairell #0" = 1
+	"Somerled #0" = 1
+	"Brigida #1" = -19
+	"Matad #0" = 1
+	"Tezozomoc #0" = -1
+	"Barabal #0" = -1
+	"Adam #0" = 1
+	"Faílbe #1" = 18
+	"Coirpre #0" = 1
+	"Úna #0" = -1
+	"Lerben #0" = -1
+	"Bressal #0" = 1
+	"Siobán #0" = -1
+	"Tigernach #0" = 1
+	"Cobthach #0" = 1
+	"Gilla-Pátraic #0" = 1
+	"Pilib #0" = 1
+	"Constantín #0" = 1
+	"Ben-Ulad #0" = -1
+	"Ólchobar #0" = 1
+	"Fergal #0" = 1
+	"Gilpatrick #0" = 1
+	"Finnacán #0" = 1
+	"Laisrén #0" = 1
+	"Dubchoblaig #0" = -1
+	"Órnat #0" = -1
+	"Garb #0" = -1
+	"Teiuc #0" = -1
+	"Étaín #0" = -1
+	"Corbb #0" = 1
+	"Loarn #1" = 0
+	"Fergus #2" = 0
+	"Domangart #2" = 0
+	"Comgall #1" = 0
+	"Gabrán #1" = 0
+	"Conall #4" = 0
+	"Áedán #2" = 0
+	"Connad #1" = 0
+	"Eochaid #4" = 0
+	"Domnall #3" = 0
+	"Ferchar #2" = 0
+	"Dúnchad #2" = 0
+	"Máel-Dúin #1" = 0
+	"Ainbcellach #1" = 0
+	"Fiannamail #1" = 0
+	"Béc #1" = 0
+	"Selbach #1" = 0
+	"Dúngal #1" = 0
+	"Muiredach #1" = 0
+	"Alpín #2" = 0
+	"Eógan #1" = 0
+	"Indrechtach #1" = 0
+	"Diarmait #1" = 0
+	"Áed #2" = 0
+	"Donncoirce #1" = 0
+	"Caustantín #1" = 0
+	"Tadg #1" = 0
+	"Óengus #1" = 0
+	"Eóganán #1" = 0
+	"Kenneth #1" = 0
+	"Gofraid #1" = 0
+	"Ivar #1" = 0
+	"Rögnvaldr #2" = 0
+	"Sihtric Caech #1" = 0
+	"Guðfrið #2" = 0
+	"Olafr #1" = 0
+	"Olafr Cuarán #1" = 0
+	"Maccus #1" = 0
+	"Sigurdr #1" = 0
+	"Einarr #1" = 0
+	"Amlaíb #1" = 0
+	"Þorfinn #1" = 0
+	"Gudrød #1" = 0
+	"Thorborg #1" = -1
+	"Haldor #1" = 0
+	"Ros #1" = -1
+	"Donella #1" = -1
+	"Douglas #1" = 0
+	"Tizocic #1" = 0
+	"Yolotli #1" = 0
+	"Eloxochitl #1" = -1
+	"Ahuiliztli #1" = -1
+	"Cú-Allaid #1" = 0
+	"Imchad #1" = 0
+	"Cóelbad #1" = 0
+	"Muadhnait #1" = -1
+	"Alan #1" = 0
+	"Indulf #1" = 0
+	"Sheena #1" = -1
+	"Omero #1" = 0
+	"Alv #0" = 0
+	"Arne #0" = 0
+	"Arnfinn #0" = 0
+	"Arnkjell #0" = 0
+	"Arnmod #0" = 0
+	"Arnvid #0" = 0
+	"Bård #0" = 0
+	"Bjørn #0" = 0
+	"Eigil #0" = 0
+	"Eilif #0" = 0
+	"Einar #0" = 0
+	"Eirik #0" = 0
+	"Erlend #0" = 0
+	"Erling #0" = 0
+	"Eystein #0" = 0
+	"Finn #0" = 0
+	"Grim #0" = 0
+	"Gudbrand #0" = 0
+	"Gudleik #0" = 0
+	"Gunnar #0" = 0
+	"Guttorm #0" = 0
+	"Halfdan #0" = 0
+	"Halkjell #0" = 0
+	"Harald #0" = 0
+	"Håkon #0" = 0
+	"Håvard #0" = 0
+	"Inge #0" = 0
+	"Jon #0" = 0
+	"Kåre #0" = 0
+	"Kolbein #0" = 0
+	"Lodin #0" = 0
+	"Magne #0" = 0
+	"Magnus #0" = 0
+	"Ogmund #0" = 0
+	"Olav #0" = 0
+	"Ossor #0" = 0
+	"Pål #0" = 0
+	"Ragnar #0" = 0
+	"Ragnvald #0" = 0
+	"Rolf #0" = 0
+	"Sigurd #0" = 0
+	"Skjalg #0" = 0
+	"Skofte #0" = 0
+	"Skule #0" = 0
+	"Svein #0" = 0
+	"Sverre #0" = 0
+	"Torbjørn #0" = 0
+	"Tord #0" = 0
+	"Tore #0" = 0
+	"Torgil #0" = 0
+	"Tormod #0" = 0
+	"Torolf #0" = 0
+	"Torstein #0" = 0
+	"Trond #0" = 0
+	"Tryggve #0" = 0
+	"Ulv #0" = 0
+	"Vigleik #0" = 0
+	"Åle #0" = 0
+	"Åmund #0" = 0
+	"Ølver #0" = 0
+	"Øystein #0" = 0
+}
+ship_names = {
+	Advantage "Ann of Anstruther"
+	Bonaventure Bruce
+	Charles "Christian of Boness" Christopher Cuckoo
+	Flower Fortune
+	"Good Fortune" Green-tree
+	"Great Michael"
+	James Janet "Jenny Pirwin"
+	"King's Caravel"
+	"Lamb of Leith" Lesley Lion
+	Margaret "Margaret of Peterhead" "Mary Willoughby" "Mary Walsingham" Mercury Moon Morton
+	Pelican "Prince Rupert" "Providence of Dundee"
+	"Rainbow of Dundee" Rothes
+	Salamander "St. Salvator"
+	Thistle
+	Unicorn
+	Venture
+	Wemyss
+	"Yellow Caravel"
+}
+

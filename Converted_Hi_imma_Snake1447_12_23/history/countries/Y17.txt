@@ -1,0 +1,40 @@
+# Slavonia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1767
+1402.4.24 = {
+	monarch = {
+		name = "Hugo"
+		birth_date = 1394.10.18
+		dynasty = "von Komburg"
+		adm = 6
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = secretive_personality
+}
+1446.8.23 = {
+	heir = {
+		name = "Hildegard"
+		monarch_name = "Hildegard"
+		dynasty = "von Komburg"
+		birth_date = 1446.8.23
+		death_date = 1526.8.23
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 1767
+	add_treasury = 5
+	add_prestige = 259
+}

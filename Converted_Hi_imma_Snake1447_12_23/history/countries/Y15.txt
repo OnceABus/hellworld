@@ -1,0 +1,27 @@
+# Esztergom
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = hungarian
+religion = fraticelli
+clear_scripted_personalities = yes
+capital = 153
+1434.12.1 = {
+	monarch = {
+		name = "Ambrus"
+		birth_date = 1401.3.30
+		dynasty = "Meggyesi"
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 153
+	add_treasury = 4
+	add_prestige = 45
+}

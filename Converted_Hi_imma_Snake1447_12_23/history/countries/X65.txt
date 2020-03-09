@@ -1,0 +1,26 @@
+# Vorotynsk
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = khitan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 4116
+1443.1.16 = {
+	monarch = {
+		name = "Ketuyu"
+		birth_date = 1406.11.24
+		dynasty = "Zhigu"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 4116
+	add_treasury = 92
+	add_prestige = 151
+}

@@ -1,0 +1,39 @@
+# Calarasi
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = romanian
+religion = fraticelli
+clear_scripted_personalities = yes
+capital = 2998
+1436.10.2 = {
+	monarch = {
+		name = "Victor"
+		birth_date = 1410.7.13
+		dynasty = "Várdai"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1447.4.12 = {
+	heir = {
+		name = "Tudor"
+		monarch_name = "Tudor"
+		dynasty = "Várdai"
+		birth_date = 1447.4.12
+		death_date = 1527.4.12
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 2998
+	add_treasury = 40
+	add_prestige = 5
+}

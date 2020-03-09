@@ -1,0 +1,26 @@
+# Oultrejourdain
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 4270
+1441.6.16 = {
+	monarch = {
+		name = "Virginio"
+		birth_date = 1394.10.31
+		dynasty = "mn  Meidvo"
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 4270
+	add_treasury = 171
+	add_prestige = 37
+}

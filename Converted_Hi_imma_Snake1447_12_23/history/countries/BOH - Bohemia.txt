@@ -1,0 +1,27 @@
+# Bohemia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 2968
+1429.8.28 = {
+	monarch = {
+		name = "Vittorio"
+		birth_date = 1399.5.3
+		dynasty = "di M'Saken"
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = free_thinker_personality
+}
+1444.11.11 = {
+	capital = 2968
+	add_treasury = 43
+	add_prestige = 32
+}

@@ -1,0 +1,26 @@
+# Qidegui
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khitan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 719
+1441.12.17 = {
+	monarch = {
+		name = "Xi’erzhi"
+		birth_date = 1380.5.22
+		dynasty = "Qidegui"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 719
+	add_treasury = 3
+	add_prestige = 62
+}

@@ -1,0 +1,37 @@
+# Ehsan
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 443
+1441.9.7 = {
+	monarch = {
+		name = "Ehsan"
+		birth_date = 1416.6.22
+		dynasty = "Ehsan"
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = cruel_personality
+	heir = {
+		name = "Abbas"
+		monarch_name = "Abbas"
+		dynasty = "Ehsan"
+		birth_date = 1438.7.23
+		death_date = 1518.7.23
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 443
+	add_treasury = 13
+	add_prestige = 65
+}

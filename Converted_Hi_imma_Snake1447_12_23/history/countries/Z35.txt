@@ -1,0 +1,26 @@
+# Apulia
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = greek
+religion = cathar
+clear_scripted_personalities = yes
+capital = 1933
+1444.3.27 = {
+	monarch = {
+		name = "Jacopo II"
+		birth_date = 1402.8.14
+		dynasty = "of  Bari"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 1933
+	add_treasury = 505
+	add_prestige = 41
+}

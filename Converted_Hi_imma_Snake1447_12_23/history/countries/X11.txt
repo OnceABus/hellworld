@@ -1,0 +1,26 @@
+# Kebbi
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = hausa
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2278
+1435.4.12 = {
+	monarch = {
+		name = "Jalil"
+		birth_date = 1414.10.15
+		dynasty = "Gobirawa"
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 2278
+	add_treasury = 14
+	add_prestige = 73
+}

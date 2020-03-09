@@ -1,0 +1,171 @@
+# Normandy
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 71 24 226 }
+
+
+
+
+leader_names = {
+
+	"Vahan" "Sevag" "Vahag" "Dalita" "Sarkis" "Almasd" "Satenik" "Tatoul" "Tovmas" "Bagrat" 
+	"Hranoush" "Athom" "Meghranoush" "Abirad" "Hagop" "Ivane" "Anoush" "Hrolfr" "William" "Richard" 
+	"Robert" "Alice" "Bohemond" "Osmond" "Alexander" "Aubrey" "Agnes" "Benoît" "Arnault" "Eve" 
+	"Bernard" "Herbert" "Anselm" "Fressenda" "Raymond" "Anquetil" "Artau" "Humphrey" "Arnald" "Richwara" 
+	"Barthélémi" "Hubert" "Gerbèrga" "Édouard" "Érrard" "Étienne" "Adalbert" "Adémar" "Adrien" "Aimery" 
+	"Alain" "Aldebert" "Aldéric" "Alphonse" "Amaury" "Amédée" "Ancel" "André" "Angelbert" "Antoine" 
+	"Archambaud" "Arnaud" "Arnoul" "Aubry" "Aymar" "Baudouin" "Bérenger" "Bertrand" "Boson" "Bouchard" 
+	"Centule" "Charles" "Clotaire" "Ebbon" "Enguerrand" "Eudes" "Eustache" "Evrard" "Foulques" "François" 
+	"Frédéric" "Géraud" "Gargamel" "Gaucher" "Gaucelin" "Gauthier" "Geoffroy" "Gelduin" "Gilbert" "Gilles" 
+	"Godefroy" "Guichard" "Guiges" "Guilhem" "Guillaume" "Guy" "Hélie" "Hamelin" "Henri" "Hildebert" 
+	"Hugues" "Humbert" "Jacques" "Jaufré" "Jaspert" "Jean" "Josselin" "Jourdain" "Julien" "Léon" 
+	"Léonard" "Lothaire" "Louis" "Loup" "Manassès" "Mathieu" "Maurice" "Nicolas" "Ogier" "Onfroy" 
+	"Orson" "Othon" "Payen" "Philippe" "Pierre" "Raimbaut" "Raoul" "Raynaud" "Renaud" "Robin" 
+	"Roger" "Rorgon" "Rorgues" "Roubaud" "Savary" "Sigismond" "Simon" "Thibault" "Thiébaut" "Thierry" 
+	"Thomas" "Valeran" "Yves" }
+monarch_names = {
+	"Vahan #0" = 1
+	"Sevag #0" = 1
+	"Vahag #0" = 1
+	"Dalita #1" = -19
+	"Sarkis #0" = 1
+	"Almasd #0" = -1
+	"Satenik #0" = -1
+	"Tatoul #0" = 1
+	"Tovmas #0" = 1
+	"Bagrat #0" = 1
+	"Hranoush #0" = -1
+	"Athom #0" = 1
+	"Meghranoush #0" = -1
+	"Abirad #0" = 1
+	"Hagop #0" = 1
+	"Ivane #0" = 1
+	"Anoush #0" = -1
+	"Hrolfr #1" = 0
+	"William #3" = 0
+	"Richard #3" = 0
+	"Robert #1" = 0
+	"Alice #1" = -1
+	"Bohemond #1" = 0
+	"Osmond #1" = 0
+	"Alexander #1" = 0
+	"Aubrey #1" = -1
+	"Agnes #1" = -1
+	"Benoît #1" = 0
+	"Arnault #1" = 0
+	"Eve #1" = -1
+	"Bernard #3" = 0
+	"Herbert #1" = 0
+	"Anselm #2" = 0
+	"Fressenda #1" = -1
+	"Raymond #2" = 0
+	"Anquetil #2" = 0
+	"Artau #2" = 0
+	"Humphrey #1" = 0
+	"Arnald #1" = 0
+	"Richwara #1" = -1
+	"Barthélémi #1" = 0
+	"Hubert #1" = 0
+	"Gerbèrga #1" = -1
+	"Édouard #0" = 0
+	"Érrard #0" = 0
+	"Étienne #0" = 0
+	"Adalbert #0" = 0
+	"Adémar #0" = 0
+	"Adrien #0" = 0
+	"Aimery #0" = 0
+	"Alain #0" = 0
+	"Aldebert #0" = 0
+	"Aldéric #0" = 0
+	"Alphonse #0" = 0
+	"Amaury #0" = 0
+	"Amédée #0" = 0
+	"Ancel #0" = 0
+	"André #0" = 0
+	"Angelbert #0" = 0
+	"Antoine #0" = 0
+	"Archambaud #0" = 0
+	"Arnaud #0" = 0
+	"Arnoul #0" = 0
+	"Aubry #0" = 0
+	"Aymar #0" = 0
+	"Baudouin #0" = 0
+	"Bérenger #0" = 0
+	"Bertrand #0" = 0
+	"Boson #0" = 0
+	"Bouchard #0" = 0
+	"Centule #0" = 0
+	"Charles #0" = 0
+	"Clotaire #0" = 0
+	"Ebbon #0" = 0
+	"Enguerrand #0" = 0
+	"Eudes #0" = 0
+	"Eustache #0" = 0
+	"Evrard #0" = 0
+	"Foulques #0" = 0
+	"François #0" = 0
+	"Frédéric #0" = 0
+	"Géraud #0" = 0
+	"Gargamel #0" = 0
+	"Gaucher #0" = 0
+	"Gaucelin #0" = 0
+	"Gauthier #0" = 0
+	"Geoffroy #0" = 0
+	"Gelduin #0" = 0
+	"Gilbert #0" = 0
+	"Gilles #0" = 0
+	"Godefroy #0" = 0
+	"Guichard #0" = 0
+	"Guiges #0" = 0
+	"Guilhem #0" = 0
+	"Guillaume #0" = 0
+	"Guy #0" = 0
+	"Hélie #0" = 0
+	"Hamelin #0" = 0
+	"Henri #0" = 0
+	"Hildebert #0" = 0
+	"Hugues #0" = 0
+	"Humbert #0" = 0
+	"Jacques #0" = 0
+	"Jaufré #0" = 0
+	"Jaspert #0" = 0
+	"Jean #0" = 0
+	"Josselin #0" = 0
+	"Jourdain #0" = 0
+	"Julien #0" = 0
+	"Léon #0" = 0
+	"Léonard #0" = 0
+	"Lothaire #0" = 0
+	"Louis #0" = 0
+	"Loup #0" = 0
+	"Manassès #0" = 0
+	"Mathieu #0" = 0
+	"Maurice #0" = 0
+	"Nicolas #0" = 0
+	"Ogier #0" = 0
+	"Onfroy #0" = 0
+	"Orson #0" = 0
+	"Othon #0" = 0
+	"Payen #0" = 0
+	"Philippe #0" = 0
+	"Pierre #0" = 0
+	"Raimbaut #0" = 0
+	"Raoul #0" = 0
+	"Raynaud #0" = 0
+	"Renaud #0" = 0
+	"Robin #0" = 0
+	"Roger #0" = 0
+	"Rorgon #0" = 0
+	"Rorgues #0" = 0
+	"Roubaud #0" = 0
+	"Savary #0" = 0
+	"Sigismond #0" = 0
+	"Simon #0" = 0
+	"Thibault #0" = 0
+	"Thiébaut #0" = 0
+	"Thierry #0" = 0
+	"Thomas #0" = 0
+	"Valeran #0" = 0
+	"Yves #0" = 0
+}
+

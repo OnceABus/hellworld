@@ -1,0 +1,28 @@
+# València
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = andalucian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 220
+1430.6.15 = {
+	monarch = {
+		name = "Çiltanesi"
+		birth_date = 1384.7.1
+		dynasty = "Areobindos"
+		female = yes
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 220
+	add_treasury = -3
+	add_prestige = 258
+}

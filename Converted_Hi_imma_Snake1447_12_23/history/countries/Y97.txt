@@ -1,0 +1,26 @@
+# Bage
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khitan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2117
+1439.4.29 = {
+	monarch = {
+		name = "Zhigu II"
+		birth_date = 1407.11.5
+		dynasty = "Bage"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 2117
+	add_treasury = 1
+	add_prestige = 39
+}

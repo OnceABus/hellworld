@@ -1,0 +1,6 @@
+altaic = {
+	khitan = {
+		primary = KHA
+		dynasty_names = { "Dilie" "Yaliguo" "Chalid" "Sougu" "Noujin" "Gaoqi" "Wogan" "Aguo" "Muyan" "Zhigu" "Salade" "Hougu" "Hanshe" "Wen" "Zhilugu" "Biegute" "Bage" "Sokhatai" "Juqu" "Alian" "Yudu" "Qidegui" "Balingid" "Yudu" "Chalid" "Shifangid" "Yudu" "Yanchege" "Nuosi" "Chantyid" "Zhilugu" "Jilujuan" "Deguangid" }
+	}
+}

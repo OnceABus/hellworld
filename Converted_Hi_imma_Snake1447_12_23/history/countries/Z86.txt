@@ -1,0 +1,27 @@
+# Abbasid
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2210
+1433.3.8 = {
+	monarch = {
+		name = "Vishtasb II"
+		birth_date = 1428.10.3
+		dynasty = "Abbasid"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+	add_ruler_personality = naive_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 2210
+	add_treasury = 192
+	add_prestige = 445
+}

@@ -1,0 +1,39 @@
+# Maghreb
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = catholic
+clear_scripted_personalities = yes
+capital = 366
+1442.1.16 = {
+	monarch = {
+		name = "Callisto"
+		birth_date = 1413.6.14
+		dynasty = "Boccadelli"
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+	add_ruler_personality = conqueror_personality
+}
+1447.6.16 = {
+	heir = {
+		name = "Callisto"
+		monarch_name = "Callisto II"
+		dynasty = "Boccadelli"
+		birth_date = 1447.6.16
+		death_date = 1527.6.16
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 366
+	add_treasury = -14
+	add_prestige = 169
+}

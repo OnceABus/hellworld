@@ -1,0 +1,38 @@
+# Nidaros
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 20
+1435.8.14 = {
+	monarch = {
+		name = "Sinucello"
+		birth_date = 1401.5.22
+		dynasty = "di Gucellone"
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = scholar_personality
+}
+1445.8.25 = {
+	heir = {
+		name = "Buonconte"
+		monarch_name = "Buonconte"
+		dynasty = "di Gucellone"
+		birth_date = 1445.8.25
+		death_date = 1525.8.25
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 20
+	add_treasury = 16
+	add_prestige = 39
+}

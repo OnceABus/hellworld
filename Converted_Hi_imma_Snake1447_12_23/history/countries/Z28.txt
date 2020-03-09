@@ -1,0 +1,27 @@
+# Anatolia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = jewish
+clear_scripted_personalities = yes
+capital = 323
+1395.11.27 = {
+	monarch = {
+		name = "Abelino"
+		birth_date = 1389.8.16
+		dynasty = "di Verissa"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = righteous_personality
+}
+1444.11.11 = {
+	capital = 323
+	add_treasury = 68
+	add_prestige = 109
+}

@@ -1,0 +1,346 @@
+# Nyitra
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 190 21 21 }
+
+
+
+
+leader_names = {
+
+	"Cecilizzo" "Sa'd" "Amalia" "Maddalena" "Shahanshah" "Ambrosia" "Alessandro" "Benedetto" "Rodolfo" "Adalberta" 
+	"Elisa" "Gian" "Antoniotto" "Camilla" "Naila" "Onorio" "Giuditta" "Basilio" "Leonardo" "Lodovico" 
+	"Sofia" "Lealdo" "Shoushanig" "Elisabetta" "Alitz" "Stefano" "Flandina" "Folkmar" "Laura" "Michelangelo" 
+	"Omero" "Guigliadore" "Riccardo" "Alfonso" "Lucinetta" "Agostina" "Luigi" "Õdön" "Avag" "Aghavni" 
+	"Keran" "Benilde" "Bona" "Galasso" "Sinibaldo" "Virginia" "Gellért" "Bruto" "Giorgio" "Isra" 
+	"Margherita" "Antonia" "Hasmig" "Carlo" "Alisia" "Leonor" "Cornelia" "Severo" "Libero" "Anastasia" 
+	"Innocenzo" "Cesare" "Bonifacio" "Elena" "Patrizia" "Nicola" "Jacopo" "Agalina" "Andrea" "Froizza" 
+	"Giolio" "Aloisia" "Pandolfo" "Nunzia" "Joscella" "Clara" "Adalgisa" "Abbondanzio" "Ausilia" "Berenice" 
+	"Hercule" "Fosca" "Cataldo" "Sinucello" "Leonide" "Biagio" "Loïs" "Galeotto" "Gaetano" "Antonella" 
+	"Eudossia" "Lavinia" "Benedetta" "Ermenegilda" "Gabriele" "Tiziana" "Giuseppe" "Abelardo" "Isabella" "Edda" 
+	"Rolando" "Galeazzo" "Adriana" "Cornelio" "Giacinta" "Bruno" "Gilberto" "Severino" "Lazzaro" "Constanza" 
+	"Giuseppa" "Dora" "Ginevra" "Agostino" "Micaela" "Ausilio" "Averado" "Stefania" "Berta" "Marco" 
+	"Lidia" "Rosso" "Letizia" "Niccolò" "Lucia" "Augusta" "Adelasia" "Agnese" "Martina" "Abelina" 
+	"Eleonora" "Lazzarino" "Adelia" "Candida" "Caterina" "Balashk" "Adriano" "Alberico" "Rossino" "Maha" 
+	"Giulia" "Torgodorio" "Secondotto" "Muyahid" "Huda" "Helene" "Eugenia" "Arcibaldo" "Sofie" "Symmachos" 
+	"Gianleone" "Adelmo" "Vittore" "Kaspar" "Silvana" "Oberto" "Obizzo" "Aurelia" "Albina" "Alessandra" 
+	"Ermenegildo" "Roupen" "Ibrahim" "Rainero" "Bertoldo" "Marsiglio" "Artemio" "Giacomo" "Leonello" "Fahriya" 
+	"Gaspare" "Nikita" "Leopoldo" "Rita" "Marcella" "Akutla" "Ashot" "Filippo" "Gamila" "Cassio" 
+	"Fahra" "Gaillard" "Dobroslava" "Augusto" "Zakare" "Sulayman" "Zvenislava" "Nitrabor" "Drahoslav" "Pribina" 
+	"Svetimír" "Svatopluk" "Mojmír" "Predslav" "Árpád" "Zolta" "Lehel" "Taksony" "Mihály" "László" 
+	"Vászoly" "Béla" "Géza" "Zsófia" "Terezia" "Domoszló" "Bretislav" "Ojír" "Guillaume" "Eudes" 
+	"Závis" "Chvalimír" "Boromír" "Bérengère" "Ebbon" "Dezsõ" "Krisztina" "Ábel" "Ádárn" "Ágoston" 
+	"Álmos" "Alajos" "Ambrus" "András" "Antal" "Attila" "Bálint" "Balázs" "Benedek" "Bernát" 
+	"Bertók" "Bertalan" "Boldizsár" "Bonuslo" "Borisz" "Csák" "Csaba" "Csongor" "Dénes" "Dömötör" 
+	"Donát" "Elek" "Elemér" "Endre" "Ernõ" "Fulöp" "Ferenc" "Frigyes" "Gábor" "Gábriel" 
+	"Gáspár" "Gazsi" "Gergely" "György" "Gyula" "Imre" "István" "Izsák" "Jákob" "János" 
+	"József" "Jenõ" "Kálmán" "Károly" "Konrád" "Kornél" "Kristóf" "Lázár" "Lõrinc" "Lajos" 
+	"Lampert" "Levente" "Lukács" "Márk" "Márton" "Máté" "Mátyás" "Móric" "Mózes" "Miklós" 
+	"Nándor" "Orbán" "Oszkár" "Pál" "Péter" "Sámuel" "Sándor" "Salamon" "Saul" "Soma" 
+	"Szilveszter" "Tádor" "Tacsony" "Tamás" "Tibor" "Tivadar" "Vazul" "Vencel" "Vilmos" "Zoltán" 
+	"Zsigmond" "Zsolt" }
+monarch_names = {
+	"Cecilizzo #0" = 1
+	"Sa'd #0" = 1
+	"Amalia #0" = -1
+	"Maddalena #0" = -1
+	"Shahanshah #0" = 1
+	"Ambrosia #0" = -1
+	"Alessandro #0" = 1
+	"Benedetto #0" = 1
+	"Rodolfo #0" = 1
+	"Adalberta #0" = -1
+	"Elisa #0" = -1
+	"Gian #0" = 1
+	"Antoniotto #0" = 1
+	"Camilla #0" = -1
+	"Naila #0" = -1
+	"Onorio #0" = 1
+	"Giuditta #0" = -1
+	"Basilio #0" = 1
+	"Leonardo #0" = 1
+	"Lodovico #0" = 1
+	"Sofia #0" = -1
+	"Lealdo #0" = 1
+	"Shoushanig #0" = -1
+	"Elisabetta #0" = -1
+	"Alitz #0" = -1
+	"Stefano #0" = 1
+	"Flandina #0" = -1
+	"Folkmar #0" = 1
+	"Laura #0" = -1
+	"Michelangelo #0" = 1
+	"Omero #0" = 1
+	"Guigliadore #0" = 1
+	"Riccardo #0" = 1
+	"Alfonso #0" = 1
+	"Lucinetta #0" = -1
+	"Agostina #0" = -1
+	"Luigi #0" = 1
+	"Õdön #0" = 1
+	"Avag #1" = 21
+	"Aghavni #0" = -1
+	"Keran #0" = -1
+	"Benilde #0" = -1
+	"Bona #0" = -1
+	"Galasso #0" = 1
+	"Sinibaldo #0" = 1
+	"Virginia #0" = -1
+	"Gellért #0" = 1
+	"Bruto #0" = 1
+	"Giorgio #0" = 1
+	"Isra #0" = -1
+	"Margherita #0" = -1
+	"Antonia #0" = -1
+	"Hasmig #0" = -1
+	"Carlo #0" = 1
+	"Alisia #0" = -1
+	"Leonor #0" = -1
+	"Cornelia #0" = -1
+	"Severo #0" = 1
+	"Libero #0" = 1
+	"Anastasia #0" = -1
+	"Innocenzo #0" = 1
+	"Cesare #0" = 1
+	"Bonifacio #0" = 1
+	"Elena #0" = -1
+	"Patrizia #0" = -1
+	"Nicola #0" = 1
+	"Jacopo #0" = 1
+	"Agalina #0" = -1
+	"Andrea #0" = 1
+	"Froizza #0" = -1
+	"Giolio #0" = 1
+	"Aloisia #0" = -1
+	"Pandolfo #0" = 1
+	"Nunzia #0" = -1
+	"Joscella #0" = -1
+	"Clara #0" = -1
+	"Adalgisa #0" = -1
+	"Abbondanzio #0" = 1
+	"Ausilia #0" = -1
+	"Berenice #0" = -1
+	"Hercule #0" = 1
+	"Fosca #0" = -1
+	"Cataldo #0" = 1
+	"Sinucello #0" = 1
+	"Leonide #0" = -1
+	"Biagio #0" = 1
+	"Loïs #0" = 1
+	"Galeotto #0" = 1
+	"Gaetano #0" = 1
+	"Antonella #0" = -1
+	"Eudossia #0" = -1
+	"Lavinia #0" = -1
+	"Benedetta #0" = -1
+	"Ermenegilda #0" = -1
+	"Gabriele #0" = 1
+	"Tiziana #0" = -1
+	"Giuseppe #0" = 1
+	"Abelardo #0" = 1
+	"Isabella #0" = -1
+	"Edda #0" = -1
+	"Rolando #0" = 1
+	"Galeazzo #0" = 1
+	"Adriana #0" = -1
+	"Cornelio #0" = 1
+	"Giacinta #0" = -1
+	"Bruno #0" = 1
+	"Gilberto #0" = 1
+	"Severino #0" = 1
+	"Lazzaro #0" = 1
+	"Constanza #0" = -1
+	"Giuseppa #0" = -1
+	"Dora #0" = -1
+	"Ginevra #0" = -1
+	"Agostino #0" = 1
+	"Micaela #0" = -1
+	"Ausilio #0" = 1
+	"Averado #0" = 1
+	"Stefania #0" = -1
+	"Berta #0" = -1
+	"Marco #0" = 1
+	"Lidia #0" = -1
+	"Rosso #0" = 1
+	"Letizia #0" = -1
+	"Niccolò #0" = 1
+	"Lucia #0" = -1
+	"Augusta #0" = -1
+	"Adelasia #0" = -1
+	"Agnese #0" = -1
+	"Martina #0" = -1
+	"Abelina #0" = -1
+	"Eleonora #0" = -1
+	"Lazzarino #0" = 1
+	"Adelia #0" = -1
+	"Candida #0" = -1
+	"Caterina #0" = -1
+	"Balashk #0" = 1
+	"Adriano #0" = 1
+	"Alberico #0" = 1
+	"Rossino #0" = 1
+	"Maha #0" = -1
+	"Giulia #0" = -1
+	"Torgodorio #0" = 1
+	"Secondotto #0" = 1
+	"Muyahid #0" = 1
+	"Huda #0" = -1
+	"Helene #0" = -1
+	"Eugenia #0" = -1
+	"Arcibaldo #0" = 1
+	"Sofie #0" = -1
+	"Symmachos #0" = 1
+	"Gianleone #0" = 1
+	"Adelmo #0" = 1
+	"Vittore #0" = 1
+	"Kaspar #0" = 1
+	"Silvana #0" = -1
+	"Oberto #0" = 1
+	"Obizzo #0" = 1
+	"Aurelia #0" = -1
+	"Albina #0" = -1
+	"Alessandra #0" = -1
+	"Ermenegildo #0" = 1
+	"Roupen #0" = 1
+	"Ibrahim #0" = 1
+	"Rainero #0" = 1
+	"Bertoldo #0" = 1
+	"Marsiglio #0" = 1
+	"Artemio #0" = 1
+	"Giacomo #0" = 1
+	"Leonello #1" = 18
+	"Fahriya #0" = -1
+	"Gaspare #0" = 1
+	"Nikita #0" = 1
+	"Leopoldo #0" = 1
+	"Rita #0" = -1
+	"Marcella #0" = -1
+	"Akutla #0" = 1
+	"Ashot #0" = 1
+	"Filippo #0" = 1
+	"Gamila #0" = -1
+	"Cassio #0" = 1
+	"Fahra #0" = -1
+	"Gaillard #0" = 1
+	"Dobroslava #0" = -1
+	"Augusto #0" = 1
+	"Zakare #1" = 18
+	"Sulayman #0" = 1
+	"Zvenislava #0" = -1
+	"Nitrabor #1" = 0
+	"Drahoslav #1" = 0
+	"Pribina #1" = 0
+	"Svetimír #1" = 0
+	"Svatopluk #1" = 0
+	"Mojmír #1" = 0
+	"Predslav #1" = 0
+	"Árpád #1" = 0
+	"Zolta #1" = 0
+	"Lehel #1" = 0
+	"Taksony #1" = 0
+	"Mihály #1" = 0
+	"László #1" = 0
+	"Vászoly #1" = 0
+	"Béla #1" = 0
+	"Géza #1" = 0
+	"Zsófia #1" = -1
+	"Terezia #1" = -1
+	"Domoszló #1" = 0
+	"Bretislav #2" = 0
+	"Ojír #1" = 0
+	"Guillaume #1" = 0
+	"Eudes #1" = 0
+	"Závis #1" = 0
+	"Chvalimír #4" = 0
+	"Boromír #1" = 0
+	"Bérengère #1" = -1
+	"Ebbon #1" = 0
+	"Dezsõ #1" = 0
+	"Krisztina #1" = -1
+	"Ábel #0" = 0
+	"Ádárn #0" = 0
+	"Ágoston #0" = 0
+	"Álmos #0" = 0
+	"Alajos #0" = 0
+	"Ambrus #0" = 0
+	"András #0" = 0
+	"Antal #0" = 0
+	"Attila #0" = 0
+	"Bálint #0" = 0
+	"Balázs #0" = 0
+	"Benedek #0" = 0
+	"Bernát #0" = 0
+	"Bertók #0" = 0
+	"Bertalan #0" = 0
+	"Boldizsár #0" = 0
+	"Bonuslo #0" = 0
+	"Borisz #0" = 0
+	"Csák #0" = 0
+	"Csaba #0" = 0
+	"Csongor #0" = 0
+	"Dénes #0" = 0
+	"Dömötör #0" = 0
+	"Donát #0" = 0
+	"Elek #0" = 0
+	"Elemér #0" = 0
+	"Endre #0" = 0
+	"Ernõ #0" = 0
+	"Fulöp #0" = 0
+	"Ferenc #0" = 0
+	"Frigyes #0" = 0
+	"Gábor #0" = 0
+	"Gábriel #0" = 0
+	"Gáspár #0" = 0
+	"Gazsi #0" = 0
+	"Gergely #0" = 0
+	"György #0" = 0
+	"Gyula #0" = 0
+	"Imre #0" = 0
+	"István #0" = 0
+	"Izsák #0" = 0
+	"Jákob #0" = 0
+	"János #0" = 0
+	"József #0" = 0
+	"Jenõ #0" = 0
+	"Kálmán #0" = 0
+	"Károly #0" = 0
+	"Konrád #0" = 0
+	"Kornél #0" = 0
+	"Kristóf #0" = 0
+	"Lázár #0" = 0
+	"Lõrinc #0" = 0
+	"Lajos #0" = 0
+	"Lampert #0" = 0
+	"Levente #0" = 0
+	"Lukács #0" = 0
+	"Márk #0" = 0
+	"Márton #0" = 0
+	"Máté #0" = 0
+	"Mátyás #0" = 0
+	"Móric #0" = 0
+	"Mózes #0" = 0
+	"Miklós #0" = 0
+	"Nándor #0" = 0
+	"Orbán #0" = 0
+	"Oszkár #0" = 0
+	"Pál #0" = 0
+	"Péter #0" = 0
+	"Sámuel #0" = 0
+	"Sándor #0" = 0
+	"Salamon #0" = 0
+	"Saul #0" = 0
+	"Soma #0" = 0
+	"Szilveszter #0" = 0
+	"Tádor #0" = 0
+	"Tacsony #0" = 0
+	"Tamás #0" = 0
+	"Tibor #0" = 0
+	"Tivadar #0" = 0
+	"Vazul #0" = 0
+	"Vencel #0" = 0
+	"Vilmos #0" = 0
+	"Zoltán #0" = 0
+	"Zsigmond #0" = 0
+	"Zsolt #0" = 0
+}
+

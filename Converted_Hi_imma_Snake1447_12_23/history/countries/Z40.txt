@@ -1,0 +1,38 @@
+# Albanigh
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = irish
+religion = catholic
+clear_scripted_personalities = yes
+capital = 251
+1435.9.18 = {
+	monarch = {
+		name = "Máel-Dúin"
+		birth_date = 1393.6.29
+		dynasty = "Uí Áeda Odba"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1443.11.9 = {
+	heir = {
+		name = "Muirecán"
+		monarch_name = "Muirecán"
+		dynasty = "Uí Áeda Odba"
+		birth_date = 1443.11.9
+		death_date = 1523.11.9
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 251
+	add_treasury = 27
+	add_prestige = 62
+}

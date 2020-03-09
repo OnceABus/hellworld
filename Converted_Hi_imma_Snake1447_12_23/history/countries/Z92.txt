@@ -1,0 +1,26 @@
+# Sulaymanid
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = kurdish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2206
+1441.4.7 = {
+	monarch = {
+		name = "Hassan II"
+		birth_date = 1405.3.10
+		dynasty = "Sulaymanid"
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 2206
+	add_treasury = 27
+	add_prestige = 173
+}

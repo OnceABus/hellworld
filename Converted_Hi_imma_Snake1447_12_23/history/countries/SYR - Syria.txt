@@ -1,0 +1,26 @@
+# Syria
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 382
+1442.1.28 = {
+	monarch = {
+		name = "Eriprando"
+		birth_date = 1417.4.19
+		dynasty = "di  Damascus"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 382
+	add_treasury = 145
+	add_prestige = 23
+}

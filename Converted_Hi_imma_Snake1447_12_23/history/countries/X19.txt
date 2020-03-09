@@ -1,0 +1,26 @@
+# Madhurid
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = kannada
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 4421
+1444.11.5 = {
+	monarch = {
+		name = "Thimma III"
+		birth_date = 1413.4.12
+		dynasty = "Madhurid"
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 4421
+	add_treasury = 131
+	add_prestige = 241
+}

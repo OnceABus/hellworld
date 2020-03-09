@@ -1,0 +1,26 @@
+# Asturias
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = castillian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 207
+1436.7.1 = {
+	monarch = {
+		name = "Benvenuto II"
+		birth_date = 1412.9.18
+		dynasty = "di Mértola"
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 207
+	add_treasury = 434
+	add_prestige = 30
+}

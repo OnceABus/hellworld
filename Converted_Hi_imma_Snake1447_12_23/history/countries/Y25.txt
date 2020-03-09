@@ -1,0 +1,26 @@
+# Monemvasia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = lollard
+clear_scripted_personalities = yes
+capital = 145
+1439.10.15 = {
+	monarch = {
+		name = "Theodosios"
+		birth_date = 1413.1.14
+		dynasty = "Chalkoutzes"
+		adm = 6
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 145
+	add_treasury = 58
+	add_prestige = -1
+}

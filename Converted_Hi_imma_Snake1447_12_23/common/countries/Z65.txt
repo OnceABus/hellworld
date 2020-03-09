@@ -1,0 +1,144 @@
+# Portucale
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 182 108 45 }
+historical_idea_groups = {
+	religious_ideas
+	naval_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Giano" "Mariano" "Rolando" "Gizella" "Benilde" "Stentore" "Caterina" "Camilla" "Antonella" "Virginia" 
+	"Cornelio" "Cassio" "Livio" "Berardo" "Ercole" "Lucrezia" "Costante" "Rizzardo" "Cosma" "Tomasina" 
+	"Felicia" "Augusta" "Ricciarda" "Dora" "Landone" "Wimarano" "Lucidio" "Diaco" "Menendo" "Gonçalo" 
+	"Mendo" "Alvito" "Nuno" "Yahya" "Isra" "Abdallah" "Fernando" "Pedro" "Lopo" "Gwriad" 
+	"Rodrigo" "Muno" "Soeiro" "Fruilhe" "Lamberto" "Ippolita" "Ambrus" "Mária" "Giolio" "Alessandra" 
+	"Patrizio" "Berta" "Afonso" "Aires" "Álvaro" "Bermudo" "Diogo" "Egas" "Estêvão" "Fernão" 
+	"Garcia" "Gil" "Gomes" "Guterre" "Henrique" "Hermígio" "João" "Lourenço" "Martim" "Mem" 
+	"Monio" "Paio" "Pero" "Pôncio" "Rui" "Sancho" "Raimundo" "Vasco" "Vicente" }
+monarch_names = {
+	"Giano #0" = 1
+	"Mariano #1" = 18
+	"Rolando #0" = 1
+	"Gizella #0" = -1
+	"Benilde #0" = -1
+	"Stentore #0" = 1
+	"Caterina #0" = -1
+	"Camilla #0" = -1
+	"Antonella #0" = -1
+	"Virginia #0" = -1
+	"Cornelio #0" = 1
+	"Cassio #0" = 1
+	"Livio #0" = 1
+	"Berardo #2" = 24
+	"Ercole #1" = 18
+	"Lucrezia #0" = -1
+	"Costante #0" = 1
+	"Rizzardo #0" = 1
+	"Cosma #0" = 1
+	"Tomasina #0" = -1
+	"Felicia #0" = -1
+	"Augusta #0" = -1
+	"Ricciarda #0" = -1
+	"Dora #0" = -1
+	"Landone #0" = 1
+	"Wimarano #1" = 0
+	"Lucidio #1" = 0
+	"Diaco #1" = 0
+	"Menendo #1" = 0
+	"Gonçalo #1" = 0
+	"Mendo #2" = 0
+	"Alvito #1" = 0
+	"Nuno #2" = 0
+	"Yahya #1" = 0
+	"Isra #3" = -1
+	"Abdallah #1" = 0
+	"Fernando #1" = 0
+	"Pedro #1" = 0
+	"Lopo #1" = 0
+	"Gwriad #1" = 0
+	"Rodrigo #2" = 0
+	"Muno #1" = 0
+	"Soeiro #1" = 0
+	"Fruilhe #1" = -1
+	"Lamberto #1" = 0
+	"Ippolita #1" = -1
+	"Ambrus #1" = 0
+	"Mária #1" = -1
+	"Giolio #1" = 0
+	"Alessandra #1" = -1
+	"Patrizio #2" = 0
+	"Berta #1" = -1
+	"Afonso #0" = 0
+	"Aires #0" = 0
+	"Álvaro #0" = 0
+	"Bermudo #0" = 0
+	"Diogo #0" = 0
+	"Egas #0" = 0
+	"Estêvão #0" = 0
+	"Fernão #0" = 0
+	"Garcia #0" = 0
+	"Gil #0" = 0
+	"Gomes #0" = 0
+	"Guterre #0" = 0
+	"Henrique #0" = 0
+	"Hermígio #0" = 0
+	"João #0" = 0
+	"Lourenço #0" = 0
+	"Martim #0" = 0
+	"Mem #0" = 0
+	"Monio #0" = 0
+	"Paio #0" = 0
+	"Pero #0" = 0
+	"Pôncio #0" = 0
+	"Rui #0" = 0
+	"Sancho #0" = 0
+	"Raimundo #0" = 0
+	"Vasco #0" = 0
+	"Vicente #0" = 0
+}
+ship_names = {
+	Galicia Argonauta Asturias Asunción Atrevido Azor
+	Cartagonova Castilla "Castillo Negro" Castor "Ciervo Volante"
+	Doncella Dragón 
+	"El Gran Grin" "El Retiro" Eneas Eolo Esperanza "Espíritu Santo" Extremadura
+	Furor Galicia "Gran Grifón" Halcón Hércules Isabela Júpiter
+	"La Concepción" "La Magdalena" "La Manuela" León Ligera "Lobo Marino"
+	Marte Mercurio Neptuno Niña Orión
+	"Paloma Blanca" Pegaso "Perro Marino" Pinta Plutón Pollux "Príncipe de Asturias"
+	Rayo "Real Alfonso" "Real Enrique" "Real Juan" "Rey Pelayo" "Rey Rodrigo"
+	"San Andrés" "San Antonio" "San Bartolomé" "San Bernabé" "San Cristobal" "San Enrique"
+	"San Esteban" "San Fernando" "San Francisco" "San Gabriel" "San Isidoro" "San Jerónimo"
+	"San José" "San Juan" "San Juan Bautista" "San Leandro" "San Miguel" "San Pedro"
+	"San Rafael" "San Salvador" "San Sebastian" "Santa Ana" "Santa Bárbara" "Santa Beatriz"
+	"Santa Catalina" "Santa Cruz" "Santa Fe" "Santa Isabel" "Santa Justa" "Santa María"
+	"Santa Marta" "Santa Rita" "Santa Teresa" Santiago "Santísima Trinidad" "Santo Domingo" Sirena
+	Terror Toledo Trinidad Tritón Unicornio
+	Vencedora Ventura Victoria Vigilante Vizcaya Vulcano Zúñiga
+}
+

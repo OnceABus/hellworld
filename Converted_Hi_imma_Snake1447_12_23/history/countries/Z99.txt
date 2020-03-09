@@ -1,0 +1,26 @@
+# Estonia
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4241
+1443.7.15 = {
+	monarch = {
+		name = "Alessandro"
+		birth_date = 1383.1.4
+		dynasty = "di Haapsalu"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 4241
+	add_treasury = 20
+	add_prestige = 19
+}

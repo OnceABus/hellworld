@@ -1,0 +1,27 @@
+# Atrakid
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = cuman
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 1972
+1431.4.6 = {
+	monarch = {
+		name = "Atrak"
+		birth_date = 1406.1.12
+		dynasty = "Atrakid"
+		adm = 1
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 1972
+	add_treasury = 11
+	add_prestige = 207
+}

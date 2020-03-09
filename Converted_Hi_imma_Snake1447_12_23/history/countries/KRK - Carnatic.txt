@@ -1,0 +1,26 @@
+# Karnata
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = chihan
+religion = confucianism
+clear_scripted_personalities = yes
+capital = 4428
+1443.12.11 = {
+	monarch = {
+		name = "Ranatitta"
+		birth_date = 1410.3.27
+		dynasty = "Vengi Chalukya"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 4428
+	add_treasury = 18
+	add_prestige = 327
+}

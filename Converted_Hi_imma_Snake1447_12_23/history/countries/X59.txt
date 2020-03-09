@@ -1,0 +1,28 @@
+# Biegute
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 565
+1422.8.27 = {
+	monarch = {
+		name = "Tabuyan"
+		birth_date = 1405.1.1
+		dynasty = "Biegute"
+		female = yes
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 565
+	add_treasury = 56
+	add_prestige = 277
+}

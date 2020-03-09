@@ -1,0 +1,38 @@
+# Thocomer
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = cuman
+religion = monothelite
+clear_scripted_personalities = yes
+capital = 443
+1430.8.17 = {
+	monarch = {
+		name = "Bonyak"
+		birth_date = 1393.7.24
+		dynasty = "Saricid"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = expansionist_personality
+	heir = {
+		name = "Kuntuvdi"
+		monarch_name = "Kuntuvdi"
+		dynasty = "Saricid"
+		birth_date = 1402.12.25
+		death_date = 1482.12.25
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+	add_heir_personality = calm_personality
+}
+1444.11.11 = {
+	capital = 443
+	add_treasury = 35
+	add_prestige = 617
+}

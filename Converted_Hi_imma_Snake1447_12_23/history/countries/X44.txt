@@ -1,0 +1,26 @@
+# Kanyakubja
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2063
+1441.6.20 = {
+	monarch = {
+		name = "Udayavarman"
+		birth_date = 1389.10.16
+		dynasty = " Kanyakubja"
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 2063
+	add_treasury = 20
+	add_prestige = 29
+}

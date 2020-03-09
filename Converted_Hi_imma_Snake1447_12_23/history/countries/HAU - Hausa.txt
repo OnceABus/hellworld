@@ -1,0 +1,27 @@
+# Hausaland
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = hausa
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2279
+1434.6.2 = {
+	monarch = {
+		name = "Adam"
+		birth_date = 1410.8.24
+		dynasty = "Habe"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = expansionist_personality
+}
+1444.11.11 = {
+	capital = 2279
+	add_treasury = 187
+	add_prestige = 76
+}

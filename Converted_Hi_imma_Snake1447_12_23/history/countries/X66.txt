@@ -1,0 +1,26 @@
+# Serpukhov
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = cuman
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 300
+1442.9.6 = {
+	monarch = {
+		name = "Begluk"
+		birth_date = 1392.10.19
+		dynasty = "Serpukhovid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 300
+	add_treasury = 26
+	add_prestige = 24
+}

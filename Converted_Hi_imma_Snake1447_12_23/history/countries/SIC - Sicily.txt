@@ -1,0 +1,26 @@
+# Sicily
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = berber
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 125
+1442.8.13 = {
+	monarch = {
+		name = "Gastone"
+		birth_date = 1400.2.13
+		dynasty = "mn  Palermo"
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+	add_ruler_personality = free_thinker_personality
+}
+1444.11.11 = {
+	capital = 125
+	add_treasury = 155
+	add_prestige = 53
+}

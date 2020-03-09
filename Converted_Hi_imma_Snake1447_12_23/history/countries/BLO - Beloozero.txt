@@ -1,0 +1,27 @@
+# Veps
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2749
+1430.2.15 = {
+	monarch = {
+		name = "Putiata III"
+		birth_date = 1411.10.24
+		dynasty = "Bryachislavich"
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 2749
+	add_treasury = 10
+	add_prestige = 93
+}

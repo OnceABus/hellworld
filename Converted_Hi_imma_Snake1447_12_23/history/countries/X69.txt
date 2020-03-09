@@ -1,0 +1,40 @@
+# Zavarot
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4257
+1423.5.16 = {
+	monarch = {
+		name = "Kharuchi"
+		birth_date = 1384.1.19
+		dynasty = "Kharuchi"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = strict_personality
+}
+1441.2.28 = {
+	heir = {
+		name = "Yurak"
+		monarch_name = "Yurak"
+		dynasty = "Kharuchi"
+		birth_date = 1441.2.28
+		death_date = 1521.2.28
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 4257
+	add_treasury = 1
+	add_prestige = 60
+}

@@ -1,0 +1,188 @@
+# Prussia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 200 100 100 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Baydzar" "Margos" "Brunhilde" "Thoros" "Anoush" "Æbba" "Tigran" "Bagour" "Tovmas" "Khorishah" 
+	"Aghavni" "Smbat" "Nane" "Mushegh" "Hasmig" "Yeva" "Berjouhi" "Khachik" "Eliz" "Khosrov" 
+	"Hethum" "Malkhas" "Vakhtank" "Margarid" "Kohar" "Sevag" "Manuel" "Beorhtgifu" "Ælfmær" "Meghranoush" 
+	"Pounig" "Cwenburg" "Beorhtmær" "Thurcytel" "Ælfthryth" "Latavri" "Ælfweard" "Nazani" "Gurgen" "Melek" 
+	"Bezprzym" "Przybyslaw" "Prusas" "Bajoras" "Galindas" "Milzas" "Alvydas" "Budo" "Betten" "Milyuns" 
+	"Helferich" "Adalbert" "Klementia" "Erich" "Isentrude" "Ute" "Hemma" "Abas" "Abirad" "Aboughamr" 
+	"Aboulgharib" "Aleksandr" "Artashes" "Artashir" "Artavazd" "Arsen" "Arshak" "Ashot" "Athom" "Atrnerseh" 
+	"Avag" "Avedis" "Bagrat" "Bedros" "Boghos" "Davit" "Eshkhan" "Gagik" "Gevorg" "Gosdantin" 
+	"Grigor" "Hagop" "Hamazasp" "Hovhannes" "Hovsep" "Ishkhan" "Ivane" "Kapriel" "Levon" "Mamigon" 
+	"Mihrdat" "Mikayel" "Mleh" "Mushel" "Mzhezh" "Nerseh" "Oshin" "Roupen" "Sahag" "Sarkis" 
+	"Shahanshah" "Stepanos" "Tachat" "Taniel" "Tatoul" "Tornik" "Trdat" "Vache" "Vachagan" "Vagharshak" 
+	"Vahag" "Vahan" "Vahram" "Varazdat" "Vartan" "Vassak" "Vesd" "Vrtanes" "Zakare" "Zarmihr" }
+monarch_names = {
+	"Baydzar #0" = -1
+	"Margos #0" = 1
+	"Brunhilde #0" = -1
+	"Thoros #0" = 1
+	"Anoush #0" = -1
+	"Æbba #0" = -1
+	"Tigran #0" = 1
+	"Bagour #0" = 1
+	"Tovmas #0" = 1
+	"Khorishah #0" = -1
+	"Aghavni #1" = -19
+	"Smbat #0" = 1
+	"Nane #0" = -1
+	"Mushegh #0" = 1
+	"Hasmig #0" = -1
+	"Yeva #0" = -1
+	"Berjouhi #0" = -1
+	"Khachik #0" = 1
+	"Eliz #0" = -1
+	"Khosrov #0" = 1
+	"Hethum #0" = 1
+	"Malkhas #0" = 1
+	"Vakhtank #0" = 1
+	"Margarid #0" = -1
+	"Kohar #0" = -1
+	"Sevag #0" = 1
+	"Manuel #0" = 1
+	"Beorhtgifu #0" = -1
+	"Ælfmær #0" = 1
+	"Meghranoush #1" = -19
+	"Pounig #0" = -1
+	"Cwenburg #0" = -1
+	"Beorhtmær #0" = 1
+	"Thurcytel #0" = 1
+	"Ælfthryth #0" = -1
+	"Latavri #0" = -1
+	"Ælfweard #0" = 1
+	"Nazani #0" = -1
+	"Gurgen #0" = 1
+	"Melek #0" = 1
+	"Bezprzym #1" = 0
+	"Przybyslaw #1" = 0
+	"Prusas #1" = 0
+	"Bajoras #2" = 0
+	"Galindas #1" = 0
+	"Milzas #1" = 0
+	"Alvydas #3" = 0
+	"Budo #2" = 0
+	"Betten #1" = -1
+	"Milyuns #1" = -1
+	"Helferich #1" = 0
+	"Adalbert #1" = 0
+	"Klementia #1" = -1
+	"Erich #1" = 0
+	"Isentrude #1" = -1
+	"Ute #1" = -1
+	"Hemma #1" = -1
+	"Abas #0" = 0
+	"Abirad #0" = 0
+	"Aboughamr #0" = 0
+	"Aboulgharib #0" = 0
+	"Aleksandr #0" = 0
+	"Artashes #0" = 0
+	"Artashir #0" = 0
+	"Artavazd #0" = 0
+	"Arsen #0" = 0
+	"Arshak #0" = 0
+	"Ashot #0" = 0
+	"Athom #0" = 0
+	"Atrnerseh #0" = 0
+	"Avag #0" = 0
+	"Avedis #0" = 0
+	"Bagrat #0" = 0
+	"Bedros #0" = 0
+	"Boghos #0" = 0
+	"Davit #0" = 0
+	"Eshkhan #0" = 0
+	"Gagik #0" = 0
+	"Gevorg #0" = 0
+	"Gosdantin #0" = 0
+	"Grigor #0" = 0
+	"Hagop #0" = 0
+	"Hamazasp #0" = 0
+	"Hovhannes #0" = 0
+	"Hovsep #0" = 0
+	"Ishkhan #0" = 0
+	"Ivane #0" = 0
+	"Kapriel #0" = 0
+	"Levon #0" = 0
+	"Mamigon #0" = 0
+	"Mihrdat #0" = 0
+	"Mikayel #0" = 0
+	"Mleh #0" = 0
+	"Mushel #0" = 0
+	"Mzhezh #0" = 0
+	"Nerseh #0" = 0
+	"Oshin #0" = 0
+	"Roupen #0" = 0
+	"Sahag #0" = 0
+	"Sarkis #0" = 0
+	"Shahanshah #0" = 0
+	"Stepanos #0" = 0
+	"Tachat #0" = 0
+	"Taniel #0" = 0
+	"Tatoul #0" = 0
+	"Tornik #0" = 0
+	"Trdat #0" = 0
+	"Vache #0" = 0
+	"Vachagan #0" = 0
+	"Vagharshak #0" = 0
+	"Vahag #0" = 0
+	"Vahan #0" = 0
+	"Vahram #0" = 0
+	"Varazdat #0" = 0
+	"Vartan #0" = 0
+	"Vassak #0" = 0
+	"Vesd #0" = 0
+	"Vrtanes #0" = 0
+	"Zakare #0" = 0
+	"Zarmihr #0" = 0
+}
+ship_names = {
+	Alytus
+	Birzai
+	Druskininkai
+	Gardinas
+	Jonava
+	Kaunas Kretinga Kreva
+	Lazdijai
+	Naugardukas
+	Palanga
+	Raseiniai
+	Siauliai Sventoji
+	Taurage Telsiai Trakai
+	Utena
+	Vilkmerge
+}
+

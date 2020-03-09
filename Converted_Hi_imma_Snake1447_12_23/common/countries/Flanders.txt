@@ -1,0 +1,131 @@
+# Flanders
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 255 120 0 }
+
+
+
+
+leader_names = {
+
+	"Vrtanes" "Roding" "Boudewijn" "Arnulf" "Robrecht" "Adele" "Hemma" "Audoïn" "Almodis" "Bonne" 
+	"Ulrich" "Emelrich" "Alberade" "Inga" "Albrecht" "Rodulf" "Claes" "Steyn" "Liedwin" "Balderik" 
+	"Payen" "Mushel" "Onna" "Avag" "Aboughamr" "Richwara" "Bagrat" "Mzhezh" "Hethum" "Trdat" 
+	"Tachat" "Adriaen" "Alwin" "Ambroos" "Antoon" "Arnold" "Barend" "Barnaerd" "Bavo" "Bertold" 
+	"Claeuwaert" "Daevit" "Damaes" "Diederick" "Dirk" "Douwe" "Eduard" "Egmund" "Ekbert" "Emmo" 
+	"Engelbrecht" "Filips" "Floris" "Folbert" "Frans" "Frederik" "Gerard" "Gerolt" "Gerulf" "Gerrit" 
+	"Gijsbrecht" "Giselbert" "Godfried" "Godschalk" "Gozewijn" "Guij" "Gwijde" "Hendrik" "Herman" "Hubert" 
+	"Hugo" "IJsbrand" "IJsbrecht" "Jacco" "Jan" "Karel" "Koenraad" "Kristof" "Lambert" "Lodewijk" 
+	"Ludewijn" "Lutbert" "Luthard" "Maertijn" "Marquart" "Niclaes" "Olivier" "Otto" "Otwin" "Onno" 
+	"Pieter" "Reinaerd" "Reinoud" "Reginar" "Robert" "Roelof" "Roland" "Rutger" "Sebastiaen" "Sicco" 
+	"Steven" "Theodolf" "Waelram" "Walter" "Wicher" "Willem" "Wolfard" }
+monarch_names = {
+	"Vrtanes #1" = 18
+	"Roding #1" = 0
+	"Boudewijn #5" = 0
+	"Arnulf #2" = 0
+	"Robrecht #1" = 0
+	"Adele #1" = -1
+	"Hemma #1" = -1
+	"Audoïn #1" = 0
+	"Almodis #1" = -1
+	"Bonne #1" = -1
+	"Ulrich #1" = 0
+	"Emelrich #1" = 0
+	"Alberade #1" = -1
+	"Inga #1" = -1
+	"Albrecht #1" = 0
+	"Rodulf #1" = 0
+	"Claes #1" = 0
+	"Steyn #1" = 0
+	"Liedwin #1" = -1
+	"Balderik #1" = 0
+	"Payen #1" = 0
+	"Mushel #1" = 0
+	"Onna #1" = -1
+	"Avag #1" = 0
+	"Aboughamr #1" = 0
+	"Richwara #1" = -1
+	"Bagrat #1" = 0
+	"Mzhezh #1" = 0
+	"Hethum #1" = 0
+	"Trdat #1" = 0
+	"Tachat #1" = 0
+	"Adriaen #0" = 0
+	"Alwin #0" = 0
+	"Ambroos #0" = 0
+	"Antoon #0" = 0
+	"Arnold #0" = 0
+	"Barend #0" = 0
+	"Barnaerd #0" = 0
+	"Bavo #0" = 0
+	"Bertold #0" = 0
+	"Claeuwaert #0" = 0
+	"Daevit #0" = 0
+	"Damaes #0" = 0
+	"Diederick #0" = 0
+	"Dirk #0" = 0
+	"Douwe #0" = 0
+	"Eduard #0" = 0
+	"Egmund #0" = 0
+	"Ekbert #0" = 0
+	"Emmo #0" = 0
+	"Engelbrecht #0" = 0
+	"Filips #0" = 0
+	"Floris #0" = 0
+	"Folbert #0" = 0
+	"Frans #0" = 0
+	"Frederik #0" = 0
+	"Gerard #0" = 0
+	"Gerolt #0" = 0
+	"Gerulf #0" = 0
+	"Gerrit #0" = 0
+	"Gijsbrecht #0" = 0
+	"Giselbert #0" = 0
+	"Godfried #0" = 0
+	"Godschalk #0" = 0
+	"Gozewijn #0" = 0
+	"Guij #0" = 0
+	"Gwijde #0" = 0
+	"Hendrik #0" = 0
+	"Herman #0" = 0
+	"Hubert #0" = 0
+	"Hugo #0" = 0
+	"IJsbrand #0" = 0
+	"IJsbrecht #0" = 0
+	"Jacco #0" = 0
+	"Jan #0" = 0
+	"Karel #0" = 0
+	"Koenraad #0" = 0
+	"Kristof #0" = 0
+	"Lambert #0" = 0
+	"Lodewijk #0" = 0
+	"Ludewijn #0" = 0
+	"Lutbert #0" = 0
+	"Luthard #0" = 0
+	"Maertijn #0" = 0
+	"Marquart #0" = 0
+	"Niclaes #0" = 0
+	"Olivier #0" = 0
+	"Otto #0" = 0
+	"Otwin #0" = 0
+	"Onno #0" = 0
+	"Pieter #0" = 0
+	"Reinaerd #0" = 0
+	"Reinoud #0" = 0
+	"Reginar #0" = 0
+	"Robert #0" = 0
+	"Roelof #0" = 0
+	"Roland #0" = 0
+	"Rutger #0" = 0
+	"Sebastiaen #0" = 0
+	"Sicco #0" = 0
+	"Steven #0" = 0
+	"Theodolf #0" = 0
+	"Waelram #0" = 0
+	"Walter #0" = 0
+	"Wicher #0" = 0
+	"Willem #0" = 0
+	"Wolfard #0" = 0
+}
+

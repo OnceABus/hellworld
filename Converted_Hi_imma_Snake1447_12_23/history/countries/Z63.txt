@@ -1,0 +1,37 @@
+# Ooohurangia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 108
+1442.6.20 = {
+	monarch = {
+		name = "Alda"
+		birth_date = 1440.9.20
+		dynasty = "von Ooohu"
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	heir = {
+		name = "Glu's Righteous Anger"
+		monarch_name = "Glu's Righteous Anger"
+		dynasty = "von Ooohu"
+		birth_date = 1420.9.23
+		death_date = 1500.9.23
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 108
+	add_treasury = 54
+	add_prestige = 549
+}

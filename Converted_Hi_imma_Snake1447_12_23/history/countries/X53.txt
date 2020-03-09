@@ -1,0 +1,37 @@
+# Sokhatai
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khitan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2429
+1438.4.20 = {
+	monarch = {
+		name = "Shifang II"
+		birth_date = 1391.4.1
+		dynasty = "Sokhatai"
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	heir = {
+		name = "Shifang"
+		monarch_name = "Shifang III"
+		dynasty = "Sokhatai"
+		birth_date = 1412.1.8
+		death_date = 1492.1.8
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+	add_heir_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 2429
+	add_treasury = 12
+	add_prestige = 142
+}

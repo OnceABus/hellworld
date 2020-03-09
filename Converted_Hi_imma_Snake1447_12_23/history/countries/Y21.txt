@@ -1,0 +1,26 @@
+# Cephalonia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 142
+1441.6.18 = {
+	monarch = {
+		name = "Lazzarino III"
+		birth_date = 1418.7.6
+		dynasty = "Szilágyi"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 142
+	add_treasury = -2
+	add_prestige = 238
+}

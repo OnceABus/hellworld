@@ -1,0 +1,27 @@
+# Salade
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khitan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2118
+1418.9.24 = {
+	monarch = {
+		name = "Wogan II"
+		birth_date = 1389.5.26
+		dynasty = "Salade"
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 2118
+	add_treasury = 30
+	add_prestige = 217
+}

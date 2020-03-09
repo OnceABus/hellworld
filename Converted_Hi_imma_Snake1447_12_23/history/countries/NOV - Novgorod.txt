@@ -1,0 +1,27 @@
+# Novgorod
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = bogomilist
+clear_scripted_personalities = yes
+capital = 310
+1432.4.29 = {
+	monarch = {
+		name = "Vladislav"
+		birth_date = 1410.7.3
+		dynasty = "of Pankovka"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = martial_educator_personality
+}
+1444.11.11 = {
+	capital = 310
+	add_treasury = 27
+	add_prestige = 138
+}

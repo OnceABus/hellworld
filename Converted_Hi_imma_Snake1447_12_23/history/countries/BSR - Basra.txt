@@ -1,0 +1,26 @@
+# Basra
+government = republic
+add_government_reform = republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = lollard
+clear_scripted_personalities = yes
+capital = 408
+1444.1.27 = {
+	monarch = {
+		name = "Enrico"
+		birth_date = 1395.4.12
+		dynasty = "di Basra"
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+	add_ruler_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 408
+	add_treasury = 36
+	add_prestige = 29
+}

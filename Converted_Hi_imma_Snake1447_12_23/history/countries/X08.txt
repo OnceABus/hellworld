@@ -1,0 +1,40 @@
+# Wagadu
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = bolghar
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2245
+1416.10.6 = {
+	monarch = {
+		name = "Khinialon"
+		birth_date = 1388.7.14
+		dynasty = "Khinialon"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = pious_personality
+}
+1427.2.10 = {
+	heir = {
+		name = "Timëreç"
+		monarch_name = "Timëreç"
+		dynasty = "Khinialon"
+		birth_date = 1427.2.10
+		death_date = 1507.2.10
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 2245
+	add_treasury = 15
+	add_prestige = 39
+}

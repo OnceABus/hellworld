@@ -1,0 +1,186 @@
+# Red Ruthenia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 224 70 70 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Sigtryg" "Heilwiva" "Arin" "Gorandoukht" "Ishkhan" "Gunnar" "Estrid" "Mihrdat" "Wilhelmina" "Runa" 
+	"Torgils" "Khachik" "Eufemia" "Luitgard" "Bo" "Karl" "Ture" "Sivard" "Johanne" "Cecilie" 
+	"Sanna" "Ludvig" "Rolf" "Ester" "Tord" "Jørn" "Magdalene" "Rikissa" "Olav" "Erika" 
+	"Valentin" "Bodil" "Åse" "Bjørn" "Steen" "Ingrid" "Svend" "Lykke" "Sigrid" "Asger" 
+	"Emilie" "Karin" "Sofie" "Martha" "Christoffer" "Harald" "Ingegerd" "Gudrun" "Houri" "Iziaslav" 
+	"Konstantin" "Gleb" "Yuriy" "Sotvaras" "Radoslav" "Yelizaveta" "Alexei" "Nikita" "Mitrofan" "Gavriil" 
+	"Boris" "Dorothea" "Afanasiy" "Alexandr" "Andrei" "Briachislav" "Daniil" "Davyd" "Demid" "Dmitriy" 
+	"Dobrynia" "Fedot" "Feodor" "Grigoriy" "Iakov" "Igor" "Iliya" "Ingvar" "Ivan" "Kirill" 
+	"Koz'ma" "Lev" "Matfei" "Mikhail" "Mstislav" "Oleg" "Pavel" "Putiata" "Rodislav" "Rogvolod" 
+	"Roman" "Rostislav" "Rurik" "Ruslan" "Stanislav" "Stepan" "Sudislav" "Svetozar" "Sviatopolk" "Sviatoslav" 
+	"Terentiy" "Trifon" "Vasiliy" "Vasilko" "Viacheslav" "Vladimir" "Vladislav" "Voislav" "Volodar" "Vseslav" 
+	"Vsevolod" "Vyshata" "Vysheslav" "Yaropolk" "Yaroslav" "Yefimiy" "Yelisey" "Yemelyan" "Yeremey" "Yevstafiy" }
+monarch_names = {
+	"Sigtryg #0" = 1
+	"Heilwiva #0" = -1
+	"Arin #0" = -1
+	"Gorandoukht #0" = -1
+	"Ishkhan #0" = 1
+	"Gunnar #1" = 30
+	"Estrid #0" = -1
+	"Mihrdat #0" = 1
+	"Wilhelmina #0" = -1
+	"Runa #0" = -1
+	"Torgils #2" = 24
+	"Khachik #0" = 1
+	"Eufemia #0" = -1
+	"Luitgard #0" = -1
+	"Bo #0" = 1
+	"Karl #0" = 1
+	"Ture #0" = 1
+	"Sivard #0" = 1
+	"Johanne #0" = -1
+	"Cecilie #0" = -1
+	"Sanna #0" = -1
+	"Ludvig #0" = 1
+	"Rolf #0" = 1
+	"Ester #0" = -1
+	"Tord #0" = 1
+	"Jørn #0" = 1
+	"Magdalene #0" = -1
+	"Rikissa #0" = -1
+	"Olav #0" = 1
+	"Erika #0" = -1
+	"Valentin #0" = 1
+	"Bodil #0" = -1
+	"Åse #0" = -1
+	"Bjørn #0" = 1
+	"Steen #0" = 1
+	"Ingrid #0" = -1
+	"Svend #0" = 1
+	"Lykke #0" = -1
+	"Sigrid #1" = -19
+	"Asger #1" = 18
+	"Emilie #0" = -1
+	"Karin #0" = -1
+	"Sofie #0" = -1
+	"Martha #0" = -1
+	"Christoffer #0" = 1
+	"Harald #0" = 1
+	"Ingegerd #0" = -1
+	"Gudrun #0" = -1
+	"Houri #0" = -1
+	"Iziaslav #1" = 0
+	"Konstantin #2" = 0
+	"Gleb #1" = 0
+	"Yuriy #2" = 0
+	"Sotvaras #1" = 0
+	"Radoslav #1" = 0
+	"Yelizaveta #1" = -1
+	"Alexei #1" = 0
+	"Nikita #1" = 0
+	"Mitrofan #1" = 0
+	"Gavriil #1" = 0
+	"Boris #1" = 0
+	"Dorothea #1" = -1
+	"Afanasiy #0" = 0
+	"Alexandr #0" = 0
+	"Andrei #0" = 0
+	"Briachislav #0" = 0
+	"Daniil #0" = 0
+	"Davyd #0" = 0
+	"Demid #0" = 0
+	"Dmitriy #0" = 0
+	"Dobrynia #0" = 0
+	"Fedot #0" = 0
+	"Feodor #0" = 0
+	"Grigoriy #0" = 0
+	"Iakov #0" = 0
+	"Igor #0" = 0
+	"Iliya #0" = 0
+	"Ingvar #0" = 0
+	"Ivan #0" = 0
+	"Kirill #0" = 0
+	"Koz'ma #0" = 0
+	"Lev #0" = 0
+	"Matfei #0" = 0
+	"Mikhail #0" = 0
+	"Mstislav #0" = 0
+	"Oleg #0" = 0
+	"Pavel #0" = 0
+	"Putiata #0" = 0
+	"Rodislav #0" = 0
+	"Rogvolod #0" = 0
+	"Roman #0" = 0
+	"Rostislav #0" = 0
+	"Rurik #0" = 0
+	"Ruslan #0" = 0
+	"Stanislav #0" = 0
+	"Stepan #0" = 0
+	"Sudislav #0" = 0
+	"Svetozar #0" = 0
+	"Sviatopolk #0" = 0
+	"Sviatoslav #0" = 0
+	"Terentiy #0" = 0
+	"Trifon #0" = 0
+	"Vasiliy #0" = 0
+	"Vasilko #0" = 0
+	"Viacheslav #0" = 0
+	"Vladimir #0" = 0
+	"Vladislav #0" = 0
+	"Voislav #0" = 0
+	"Volodar #0" = 0
+	"Vseslav #0" = 0
+	"Vsevolod #0" = 0
+	"Vyshata #0" = 0
+	"Vysheslav #0" = 0
+	"Yaropolk #0" = 0
+	"Yaroslav #0" = 0
+	"Yefimiy #0" = 0
+	"Yelisey #0" = 0
+	"Yemelyan #0" = 0
+	"Yeremey #0" = 0
+	"Yevstafiy #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

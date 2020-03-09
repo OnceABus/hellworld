@@ -1,0 +1,27 @@
+# Scholae Palatinae
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = italian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 151
+1431.7.8 = {
+	monarch = {
+		name = "Igino"
+		birth_date = 1398.8.4
+		dynasty = "di  Constantinople"
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 151
+	add_treasury = 1017
+	add_prestige = 73
+}

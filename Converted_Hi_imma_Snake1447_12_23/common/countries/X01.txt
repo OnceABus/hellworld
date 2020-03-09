@@ -1,0 +1,145 @@
+# Yaik
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 198 150 11 }
+
+
+
+
+leader_names = {
+
+	"Gou'er" "Sougu" "Zhigu" "Zhiligu" "Qulü" "Shuge" "Baling" "Yanmu" "Shuogu" "Tuyu" 
+	"Loguo" "Dianni" "Lübugu" "Jilujuan" "Cuiba" "Changshou" "Pogu" "Yexian" "Yanxi" "Yilie" 
+	"Taoge" "Xiduguan" "Tabuyan" "Noujin" "Abaoji" "Tanmozhe" "Wenshunu" "Sokhatai" "Bishe" "Gunai" 
+	"Gaoqi" "Aguo" "Heluwo" "Pidi" "Wolila" "Qizhen" "Tiebu" "Juqu" "Hudujin" "Helü" 
+	"Chaogui" "Hougu" "Tongguyu" "Bancai" "Mergan" "Dashi" "Jiuge" "Yueliduo" "Taige" "Shige" 
+	"Yudugu" "Jing" "Mohuba" "Guozhe" "Wuyu" "Shefuchen" "Shaogu" "Mohuai" "Shulü" "Xingge" 
+	"Kedun" "Salade" "Ping" "Yali" "Zhilugu" "Yalixin" "Mopei" "Saladi" "Julü" "Ketuyu" 
+	"Shifang" "Sirçan" "Sugr" "Dilek" "Yasar" "Kubasar" "Sarica" "Ayasun" "Kozel" "Begluk" 
+	"Girgen" "Sotan" "Törtogul" "Sokal" "Kotyan" "Zsófia" "Sevenç" "Rayda" "Zhebeg" "Chindyapa" 
+	"Zyryan" "Virtyava" "Çilbu" "Aepak" "Asalup" "Asep" "Atrak" "Bönek" "Bachman" "Blush" 
+	"Bonyak" "Borç" "Eldeçyuk" "Etrek" "Gzi" "Itlar" "Ituk" "Könçek" "Kobyak" "Kopti" 
+	"Koza" "Kuntuvdi" "Kutan" "Pulad" "Saru" "Togli" "Tolun" "Tugor" "Uzluk" "Uzur" }
+monarch_names = {
+	"Gou'er #0" = 1
+	"Sougu #0" = 1
+	"Zhigu #0" = 1
+	"Zhiligu #0" = 1
+	"Qulü #0" = 1
+	"Shuge #0" = -1
+	"Baling #0" = 1
+	"Yanmu #0" = -1
+	"Shuogu #0" = -1
+	"Tuyu #0" = 1
+	"Loguo #0" = 1
+	"Dianni #0" = -1
+	"Lübugu #0" = -1
+	"Jilujuan #0" = 1
+	"Cuiba #0" = -1
+	"Changshou #0" = -1
+	"Pogu #0" = 1
+	"Yexian #0" = 1
+	"Yanxi #0" = 1
+	"Yilie #1" = 21
+	"Taoge #0" = -1
+	"Xiduguan #0" = 1
+	"Tabuyan #0" = -1
+	"Noujin #0" = -1
+	"Abaoji #0" = 1
+	"Tanmozhe #0" = 1
+	"Wenshunu #0" = 1
+	"Sokhatai #0" = -1
+	"Bishe #0" = 1
+	"Gunai #0" = 1
+	"Gaoqi #0" = 1
+	"Aguo #0" = 1
+	"Heluwo #0" = 1
+	"Pidi #0" = 1
+	"Wolila #0" = 1
+	"Qizhen #0" = 1
+	"Tiebu #0" = 1
+	"Juqu #0" = 1
+	"Hudujin #0" = 1
+	"Helü #0" = 1
+	"Chaogui #0" = -1
+	"Hougu #0" = 1
+	"Tongguyu #0" = 1
+	"Bancai #0" = 1
+	"Mergan #0" = 1
+	"Dashi #0" = 1
+	"Jiuge #0" = -1
+	"Yueliduo #0" = -1
+	"Taige #0" = -1
+	"Shige #0" = -1
+	"Yudugu #0" = 1
+	"Jing #0" = 1
+	"Mohuba #0" = 1
+	"Guozhe #0" = 1
+	"Wuyu #0" = 1
+	"Shefuchen #0" = 1
+	"Shaogu #0" = 1
+	"Mohuai #0" = 1
+	"Shulü #0" = 1
+	"Xingge #0" = -1
+	"Kedun #0" = -1
+	"Salade #0" = 1
+	"Ping #0" = -1
+	"Yali #0" = 1
+	"Zhilugu #0" = 1
+	"Yalixin #0" = -1
+	"Mopei #0" = 1
+	"Saladi #0" = 1
+	"Julü #0" = 1
+	"Ketuyu #0" = 1
+	"Shifang #0" = 1
+	"Sirçan #2" = 0
+	"Sugr #2" = 0
+	"Dilek #2" = -1
+	"Yasar #1" = -1
+	"Kubasar #2" = 0
+	"Sarica #1" = 0
+	"Ayasun #1" = -1
+	"Kozel #1" = 0
+	"Begluk #1" = 0
+	"Girgen #2" = 0
+	"Sotan #2" = 0
+	"Törtogul #1" = 0
+	"Sokal #1" = 0
+	"Kotyan #1" = 0
+	"Zsófia #1" = -1
+	"Sevenç #1" = 0
+	"Rayda #1" = 0
+	"Zhebeg #1" = 0
+	"Chindyapa #1" = -1
+	"Zyryan #1" = 0
+	"Virtyava #1" = -1
+	"Çilbu #0" = 0
+	"Aepak #0" = 0
+	"Asalup #0" = 0
+	"Asep #0" = 0
+	"Atrak #0" = 0
+	"Bönek #0" = 0
+	"Bachman #0" = 0
+	"Blush #0" = 0
+	"Bonyak #0" = 0
+	"Borç #0" = 0
+	"Eldeçyuk #0" = 0
+	"Etrek #0" = 0
+	"Gzi #0" = 0
+	"Itlar #0" = 0
+	"Ituk #0" = 0
+	"Könçek #0" = 0
+	"Kobyak #0" = 0
+	"Kopti #0" = 0
+	"Koza #0" = 0
+	"Kuntuvdi #0" = 0
+	"Kutan #0" = 0
+	"Pulad #0" = 0
+	"Saru #0" = 0
+	"Togli #0" = 0
+	"Tolun #0" = 0
+	"Tugor #0" = 0
+	"Uzluk #0" = 0
+	"Uzur #0" = 0
+}
+

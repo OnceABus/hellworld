@@ -1,0 +1,26 @@
+# Gaoqi
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khitan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 1066
+1435.8.30 = {
+	monarch = {
+		name = "Gou'er"
+		birth_date = 1415.4.16
+		dynasty = "Gaoqi"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = expansionist_personality
+}
+1444.11.11 = {
+	capital = 1066
+	add_treasury = 9
+	add_prestige = 112
+}

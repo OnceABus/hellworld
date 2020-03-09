@@ -1,0 +1,37 @@
+# Ireland
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = armenian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 373
+1441.7.14 = {
+	monarch = {
+		name = "Khachik"
+		birth_date = 1431.8.7
+		dynasty = "Ren"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = free_thinker_personality
+	heir = {
+		name = "Guozhong"
+		monarch_name = "Guozhong II"
+		dynasty = "Ren"
+		birth_date = 1437.1.13
+		death_date = 1517.1.13
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 373
+	add_treasury = 22
+	add_prestige = 192
+}

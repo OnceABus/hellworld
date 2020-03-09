@@ -1,0 +1,26 @@
+# Lukoml
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = german
+religion = lollard
+clear_scripted_personalities = yes
+capital = 275
+1444.12.14 = {
+	monarch = {
+		name = "Jürgen"
+		birth_date = 1410.1.8
+		dynasty = "von Gustrow"
+		adm = 2
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 275
+	add_treasury = 39
+	add_prestige = 28
+}

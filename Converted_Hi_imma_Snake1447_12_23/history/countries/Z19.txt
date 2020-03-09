@@ -1,0 +1,28 @@
+# Dipwoodia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = armenian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 95
+1405.9.4 = {
+	monarch = {
+		name = "Razmouhi"
+		birth_date = 1382.3.4
+		dynasty = "von Limburg"
+		female = yes
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 95
+	add_treasury = 3
+	add_prestige = 773
+}

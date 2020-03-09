@@ -1,0 +1,26 @@
+# Oltenia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = romanian
+religion = fraticelli
+clear_scripted_personalities = yes
+capital = 160
+1444.5.23 = {
+	monarch = {
+		name = "Moise II"
+		birth_date = 1440.11.16
+		dynasty = "Tibai"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 160
+	add_treasury = 1
+	add_prestige = 3
+}

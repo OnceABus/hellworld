@@ -1,0 +1,39 @@
+# Tao
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = georgian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 2199
+1438.11.20 = {
+	monarch = {
+		name = "Gurgen"
+		birth_date = 1418.12.5
+		dynasty = "Etrekid"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = kind_hearted_personality
+}
+1439.3.12 = {
+	heir = {
+		name = "Ashot"
+		monarch_name = "Ashot"
+		dynasty = "Etrekid"
+		birth_date = 1439.3.12
+		death_date = 1519.3.12
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = just_personality
+}
+1444.11.11 = {
+	capital = 2199
+	add_treasury = 65
+	add_prestige = 57
+}

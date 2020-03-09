@@ -1,0 +1,26 @@
+# Bolghar
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = cuman
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 2421
+1435.6.12 = {
+	monarch = {
+		name = "Kopti"
+		birth_date = 1430.4.12
+		dynasty = "Rurikid"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 2421
+	add_treasury = 19
+	add_prestige = 349
+}

@@ -1,0 +1,27 @@
+# Shahro
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 426
+1416.9.23 = {
+	monarch = {
+		name = "Ehsan"
+		birth_date = 1406.2.14
+		dynasty = "Shahro"
+		adm = 5
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = righteous_personality
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 426
+	add_treasury = 85
+	add_prestige = 230
+}

@@ -1,0 +1,26 @@
+# York
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = english
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 4368
+1443.9.20 = {
+	monarch = {
+		name = "Sigehelm"
+		birth_date = 1412.9.3
+		dynasty = "You"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 4368
+	add_treasury = 403
+	add_prestige = 34
+}

@@ -1,0 +1,27 @@
+# Wen
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khitan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 718
+1417.5.18 = {
+	monarch = {
+		name = "Guozhe"
+		birth_date = 1386.4.21
+		dynasty = "Wen"
+		adm = 3
+		dip = 6
+		mil = 5
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = well_connected_personality
+}
+1444.11.11 = {
+	capital = 718
+	add_treasury = 15
+	add_prestige = 72
+}

@@ -1,0 +1,26 @@
+# Upper Brittany
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = breton
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 172
+1436.8.18 = {
+	monarch = {
+		name = "Bedros"
+		birth_date = 1408.7.1
+		dynasty = "Keshishian"
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 172
+	add_treasury = 81
+	add_prestige = 77
+}

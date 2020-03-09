@@ -1,0 +1,170 @@
+# Baygal
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 70 100 200 }
+
+
+
+
+leader_names = {
+
+	"Purysho" "Tylmache" "Ovtay" "Nulzyava" "Ravzhava" "Tyushtya" "Shukshtoroyka" "Valdava" "Nuyat" "Surt" 
+	"Kubrat" "Velmayka" "Moksha" "Ordava" "Syrka" "Azyren" "Varaka" "Uchva" "Tetyava" "Naruchad" 
+	"Kichay" "Sangasa" "Virdyan" "Malyy" "Nishkepaz" "Shkay" "Anava" "Chenksa" "Chinzhay" "Kirdyava" 
+	"Tikshayka" "Puresh" "Tundava" "Litava" "Noroava" "Tylze" "Sanal'ka" "Uzhara" "Deryab" "Chichayka" 
+	"Kanyava" "Dergun" "Sernyava" "Potekay" "Paksyut" "Kezhevat" "Kardaz" "Vidyava" "Sinyava" "Biur" 
+	"Zyryan" "Arvo" "Putyayka" "Setyamka" "Tundya" "Serzhay" "Onika" "Osh" "Rayda" "Shochynava" 
+	"Kezhedey" "Qinde" "Dinianzhuli" "Yudugu" "Lihu" "Ping" "Yange" "Zhongyuan" "Yalixin" "Sokhatai" 
+	"Rilujuan" "Gou'er" "Kedun" "Gou’er" "Chaogui" "Helü" "Azeg" "Slyugan'ka" "Alv" "Arne" 
+	"Arnfinn" "Arnkjell" "Arnmod" "Arnvid" "Bård" "Bjørn" "Eigil" "Eilif" "Einar" "Eirik" 
+	"Erlend" "Erling" "Eystein" "Finn" "Grim" "Gudbrand" "Gudleik" "Gudrød" "Gunnar" "Guttorm" 
+	"Haldor" "Halfdan" "Halkjell" "Harald" "Håkon" "Håvard" "Inge" "Ivar" "Jon" "Kåre" 
+	"Kolbein" "Lodin" "Magne" "Magnus" "Ogmund" "Olav" "Ossor" "Pål" "Ragnar" "Ragnvald" 
+	"Rolf" "Sigurd" "Skjalg" "Skofte" "Skule" "Svein" "Sverre" "Torbjørn" "Tord" "Tore" 
+	"Torgil" "Tormod" "Torolf" "Torstein" "Trond" "Tryggve" "Ulv" "Vigleik" "Åle" "Åmund" 
+	"Ølver" "Øystein" }
+monarch_names = {
+	"Purysho #0" = 1
+	"Tylmache #0" = 1
+	"Ovtay #0" = 1
+	"Nulzyava #0" = -1
+	"Ravzhava #0" = -1
+	"Tyushtya #2" = 30
+	"Shukshtoroyka #0" = -1
+	"Valdava #0" = -1
+	"Nuyat #0" = 1
+	"Surt #0" = 1
+	"Kubrat #0" = 1
+	"Velmayka #0" = 1
+	"Moksha #0" = 1
+	"Ordava #0" = -1
+	"Syrka #0" = 1
+	"Azyren #0" = 1
+	"Varaka #0" = 1
+	"Uchva #0" = 1
+	"Tetyava #0" = -1
+	"Naruchad #0" = 1
+	"Kichay #0" = 1
+	"Sangasa #0" = -1
+	"Virdyan #0" = 1
+	"Malyy #0" = 1
+	"Nishkepaz #0" = 1
+	"Shkay #0" = 1
+	"Anava #0" = -1
+	"Chenksa #0" = -1
+	"Chinzhay #0" = -1
+	"Kirdyava #0" = -1
+	"Tikshayka #0" = -1
+	"Puresh #0" = 1
+	"Tundava #0" = -1
+	"Litava #0" = -1
+	"Noroava #0" = -1
+	"Tylze #0" = 1
+	"Sanal'ka #0" = -1
+	"Uzhara #0" = 1
+	"Deryab #0" = 1
+	"Chichayka #0" = 1
+	"Kanyava #0" = -1
+	"Dergun #0" = 1
+	"Sernyava #0" = -1
+	"Potekay #0" = -1
+	"Paksyut #0" = 1
+	"Kezhevat #0" = 1
+	"Kardaz #0" = 1
+	"Vidyava #0" = -1
+	"Sinyava #0" = -1
+	"Biur #0" = 1
+	"Zyryan #0" = 1
+	"Arvo #1" = 18
+	"Putyayka #0" = -1
+	"Setyamka #0" = 1
+	"Tundya #0" = -1
+	"Serzhay #0" = -1
+	"Onika #0" = 1
+	"Osh #0" = 1
+	"Rayda #0" = -1
+	"Shochynava #0" = -1
+	"Kezhedey #0" = 1
+	"Qinde #1" = 0
+	"Dinianzhuli #1" = 0
+	"Yudugu #1" = 0
+	"Lihu #1" = 0
+	"Ping #2" = -1
+	"Yange #1" = -1
+	"Zhongyuan #1" = 0
+	"Yalixin #1" = -1
+	"Sokhatai #1" = -1
+	"Rilujuan #1" = 0
+	"Gou'er #1" = 0
+	"Kedun #1" = -1
+	"Gou’er #1" = 0
+	"Chaogui #1" = -1
+	"Helü #1" = 0
+	"Azeg #1" = 0
+	"Slyugan'ka #1" = -1
+	"Alv #0" = 0
+	"Arne #0" = 0
+	"Arnfinn #0" = 0
+	"Arnkjell #0" = 0
+	"Arnmod #0" = 0
+	"Arnvid #0" = 0
+	"Bård #0" = 0
+	"Bjørn #0" = 0
+	"Eigil #0" = 0
+	"Eilif #0" = 0
+	"Einar #0" = 0
+	"Eirik #0" = 0
+	"Erlend #0" = 0
+	"Erling #0" = 0
+	"Eystein #0" = 0
+	"Finn #0" = 0
+	"Grim #0" = 0
+	"Gudbrand #0" = 0
+	"Gudleik #0" = 0
+	"Gudrød #0" = 0
+	"Gunnar #0" = 0
+	"Guttorm #0" = 0
+	"Haldor #0" = 0
+	"Halfdan #0" = 0
+	"Halkjell #0" = 0
+	"Harald #0" = 0
+	"Håkon #0" = 0
+	"Håvard #0" = 0
+	"Inge #0" = 0
+	"Ivar #0" = 0
+	"Jon #0" = 0
+	"Kåre #0" = 0
+	"Kolbein #0" = 0
+	"Lodin #0" = 0
+	"Magne #0" = 0
+	"Magnus #0" = 0
+	"Ogmund #0" = 0
+	"Olav #0" = 0
+	"Ossor #0" = 0
+	"Pål #0" = 0
+	"Ragnar #0" = 0
+	"Ragnvald #0" = 0
+	"Rolf #0" = 0
+	"Sigurd #0" = 0
+	"Skjalg #0" = 0
+	"Skofte #0" = 0
+	"Skule #0" = 0
+	"Svein #0" = 0
+	"Sverre #0" = 0
+	"Torbjørn #0" = 0
+	"Tord #0" = 0
+	"Tore #0" = 0
+	"Torgil #0" = 0
+	"Tormod #0" = 0
+	"Torolf #0" = 0
+	"Torstein #0" = 0
+	"Trond #0" = 0
+	"Tryggve #0" = 0
+	"Ulv #0" = 0
+	"Vigleik #0" = 0
+	"Åle #0" = 0
+	"Åmund #0" = 0
+	"Ølver #0" = 0
+	"Øystein #0" = 0
+}
+

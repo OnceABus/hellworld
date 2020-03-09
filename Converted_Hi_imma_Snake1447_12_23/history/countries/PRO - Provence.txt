@@ -1,0 +1,40 @@
+# Provence
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = occitain
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 201
+1411.5.28 = {
+	monarch = {
+		name = "Carles III"
+		birth_date = 1410.2.1
+		dynasty = "Bosonid"
+		adm = 5
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = strict_personality
+}
+1441.10.4 = {
+	heir = {
+		name = "Eufèmia"
+		monarch_name = "Eufèmia"
+		dynasty = "Bosonid"
+		birth_date = 1441.10.4
+		death_date = 1521.10.4
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 201
+	add_treasury = 112
+	add_prestige = 198
+}

@@ -1,0 +1,26 @@
+# Hum
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = bosnian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 136
+1442.10.25 = {
+	monarch = {
+		name = "Andrija"
+		birth_date = 1408.12.29
+		dynasty = "Vlatkovic"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 136
+	add_treasury = 210
+	add_prestige = -4
+}

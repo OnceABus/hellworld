@@ -1,0 +1,26 @@
+# Armeniacon
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 328
+1442.11.28 = {
+	monarch = {
+		name = "Gabriel"
+		birth_date = 1403.8.28
+		dynasty = "Solomon"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 328
+	add_treasury = 38
+	add_prestige = 119
+}

@@ -1,0 +1,27 @@
+# Polotsk
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+clear_scripted_personalities = yes
+capital = 292
+1435.5.6 = {
+	monarch = {
+		name = "Antonella II"
+		birth_date = 1432.12.2
+		dynasty = "von Madman"
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = calm_personality
+}
+1444.11.11 = {
+	capital = 292
+	add_treasury = 153
+	add_prestige = 277
+}

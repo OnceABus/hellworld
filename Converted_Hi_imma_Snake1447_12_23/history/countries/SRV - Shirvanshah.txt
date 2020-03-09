@@ -1,0 +1,26 @@
+# Azerbaijan
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = armenian
+religion = lollard
+clear_scripted_personalities = yes
+capital = 2205
+1437.1.20 = {
+	monarch = {
+		name = "Vassak"
+		birth_date = 1403.4.15
+		dynasty = "Sarkis"
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 2205
+	add_treasury = 13
+	add_prestige = 46
+}

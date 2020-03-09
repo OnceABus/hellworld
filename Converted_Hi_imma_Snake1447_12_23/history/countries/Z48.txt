@@ -1,0 +1,26 @@
+# Imma Hotdog :)
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 71
+1435.6.16 = {
+	monarch = {
+		name = "Osmund"
+		birth_date = 1434.3.3
+		dynasty = "You"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 71
+	add_treasury = 59
+	add_prestige = 18
+}

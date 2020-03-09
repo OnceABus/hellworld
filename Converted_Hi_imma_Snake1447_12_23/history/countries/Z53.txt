@@ -1,0 +1,27 @@
+# Susa
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 2981
+1377.1.23 = {
+	monarch = {
+		name = "Alessandro"
+		birth_date = 1372.8.3
+		dynasty = "von Madman"
+		adm = 1
+		dip = 6
+		mil = 4
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 2981
+	add_treasury = 32
+	add_prestige = 459
+}

@@ -1,0 +1,26 @@
+# Bergslagen
+government = republic
+add_government_reform = republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 46
+1436.7.12 = {
+	monarch = {
+		name = "Angelo"
+		birth_date = 1389.8.1
+		dynasty = "di Västerås"
+		adm = 6
+		dip = 1
+		mil = 5
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 46
+	add_treasury = 139
+	add_prestige = 34
+}

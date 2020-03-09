@@ -1,0 +1,38 @@
+# Greater Armenia
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 3
+mercantilism = 0.1
+technology_group = western
+primary_culture = armenian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 53
+1443.7.5 = {
+	monarch = {
+		name = "Tachat"
+		birth_date = 1390.4.26
+		dynasty = "StepOnTaxes"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = midas_touched_personality
+	heir = {
+		name = "Almasd"
+		monarch_name = "Almasd"
+		dynasty = "StepOnTaxes"
+		birth_date = 1395.1.4
+		death_date = 1475.1.4
+		female = yes
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 53
+	add_treasury = 417
+	add_prestige = 658
+}

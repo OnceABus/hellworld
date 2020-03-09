@@ -1,0 +1,26 @@
+# Tlemcen
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 336
+1442.1.31 = {
+	monarch = {
+		name = "Francesco"
+		birth_date = 1425.6.20
+		dynasty = "Montresor"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 336
+	add_treasury = 17
+	add_prestige = 420
+}

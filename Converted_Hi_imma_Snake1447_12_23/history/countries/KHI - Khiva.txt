@@ -1,0 +1,41 @@
+# Khiva
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = turkish
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 441
+1424.8.21 = {
+	monarch = {
+		name = "Alptigin"
+		birth_date = 1404.4.2
+		dynasty = "Darvazid"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = craven_personality
+}
+1425.7.22 = {
+	heir = {
+		name = "Umay"
+		monarch_name = "Umay"
+		dynasty = "Darvazid"
+		birth_date = 1425.7.22
+		death_date = 1505.7.22
+		female = yes
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+	add_heir_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 441
+	add_treasury = 14
+	add_prestige = 43
+}

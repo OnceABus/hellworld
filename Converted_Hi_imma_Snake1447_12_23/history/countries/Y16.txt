@@ -1,0 +1,27 @@
+# Balaton
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = hungarian
+religion = fraticelli
+clear_scripted_personalities = yes
+capital = 1864
+1432.1.17 = {
+	monarch = {
+		name = "Antal"
+		birth_date = 1398.7.23
+		dynasty = "Kanizsai"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 1864
+	add_treasury = 16
+	add_prestige = 60
+}

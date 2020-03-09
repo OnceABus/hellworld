@@ -1,0 +1,40 @@
+# Hedmark
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = danish
+religion = lollard
+clear_scripted_personalities = yes
+capital = 22
+1434.4.15 = {
+	monarch = {
+		name = "Ernst"
+		birth_date = 1412.2.22
+		dynasty = "af Uvdal"
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = just_personality
+}
+1447.4.8 = {
+	heir = {
+		name = "Leif"
+		monarch_name = "Leif"
+		dynasty = "af Uvdal"
+		birth_date = 1447.4.8
+		death_date = 1527.4.8
+		adm = 5
+		dip = 5
+		mil = 5
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 22
+	add_treasury = 8
+	add_prestige = 51
+}

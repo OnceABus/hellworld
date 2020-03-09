@@ -1,0 +1,122 @@
+# Hum
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 184 137 137 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	religious_ideas
+	quality_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+
+
+leader_names = {
+
+	"Andrija" "Neda" "Stjepan" "Mihaela" "Jelena" "Nataša" "Tihana" "Katalin" "Thorborg" "Svjetlana" 
+	"Boris" "Elizabeta" "Esin" "Ildey" "Bator" "Dmitar" "Ninoslav" "Boric" "Kulin" "Matej" 
+	"Matej Ninoslav" "Prijezda" "Tvrtko" "Vuk" "Vladislav" "Dabisa" "Sanko" "Vlatko" "Hrana" "Hran" 
+	"Sandalj" "Mihajlo" "Juraj" "Ostoja" "Hrvoje" "Pavle" "Petar" "Radislav" "Ivanis" "Nikola" 
+	"Tomas" "Vukac" "Radivoj" "Vukmir" "Vukasin" "Grgur" "Bogisa" "Sibislav" "Bogut" "Batalo" 
+	"Miroslav" "Brailo" "Hval" "Brajko" "Radic" "Priboje" "Batic" "Radogost" "Milovan" "Dragonja" 
+	"Danis" "Krsmir" "Tisemir" }
+monarch_names = {
+	"Andrija #1" = 18
+	"Neda #1" = -1
+	"Stjepan #1" = 0
+	"Mihaela #1" = -1
+	"Jelena #1" = -1
+	"Nataša #1" = -1
+	"Tihana #1" = -1
+	"Katalin #1" = -1
+	"Thorborg #1" = -1
+	"Svjetlana #1" = -1
+	"Boris #1" = 0
+	"Elizabeta #1" = -1
+	"Esin #1" = -1
+	"Ildey #1" = 0
+	"Bator #1" = 0
+	"Dmitar #1" = 0
+	"Ninoslav #1" = 0
+	"Boric #0" = 0
+	"Kulin #0" = 0
+	"Matej #0" = 0
+	"Matej Ninoslav #0" = 0
+	"Prijezda #0" = 0
+	"Tvrtko #0" = 0
+	"Vuk #0" = 0
+	"Vladislav #0" = 0
+	"Dabisa #0" = 0
+	"Sanko #0" = 0
+	"Vlatko #0" = 0
+	"Hrana #0" = 0
+	"Hran #0" = 0
+	"Sandalj #0" = 0
+	"Mihajlo #0" = 0
+	"Juraj #0" = 0
+	"Ostoja #0" = 0
+	"Hrvoje #0" = 0
+	"Pavle #0" = 0
+	"Petar #0" = 0
+	"Radislav #0" = 0
+	"Ivanis #0" = 0
+	"Nikola #0" = 0
+	"Tomas #0" = 0
+	"Vukac #0" = 0
+	"Radivoj #0" = 0
+	"Vukmir #0" = 0
+	"Vukasin #0" = 0
+	"Grgur #0" = 0
+	"Bogisa #0" = 0
+	"Sibislav #0" = 0
+	"Bogut #0" = 0
+	"Batalo #0" = 0
+	"Miroslav #0" = 0
+	"Brailo #0" = 0
+	"Hval #0" = 0
+	"Brajko #0" = 0
+	"Radic #0" = 0
+	"Priboje #0" = 0
+	"Batic #0" = 0
+	"Radogost #0" = 0
+	"Milovan #0" = 0
+	"Dragonja #0" = 0
+	"Danis #0" = 0
+	"Krsmir #0" = 0
+	"Tisemir #0" = 0
+}
+ship_names = {
+	Cres
+	"Dugi Otok"
+	Goli
+	Krl
+	Pag Plavnik
+	Susak "Sveti Grgur"
+	Tijat
+	Unije
+	"Vele Srankane"
+	Zlarin Zmajan
+}
+

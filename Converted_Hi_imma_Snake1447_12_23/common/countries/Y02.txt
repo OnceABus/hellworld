@@ -1,0 +1,140 @@
+# Bjarmia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 95 50 20 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Ottone" "Albina" "Giacinta" "Bernardo" "Lucia" "Gian" "Elena" "Laptsui" "Valentina" "Teodoro" 
+	"Lucinetta" "Marietta" "Claudia" "Guarnito" "Gianleone" "Joscella" "Atenolfo" "Brunilde" "Cecco" "Eudossia" 
+	"Pericle" "Galasso" "Francesca" "Eleonora" "Flavia" "Giuditta" "Kako" "Samatu" "Sarak" "Hasaba" 
+	"Mandak" "Yurak" "Sirtya" "Xëryuchi" "Ngënoh" "Yar" "Kharuchi" "Tada" "Juoksáhkká" "Náhkol" 
+	"Ruigi" "Duttá" "Áigesárri" "Pudak" "Vesei" "Njáves" "Auli" "Könçek" "Eldeçyuk" "Asli" 
+	"Nishkepaz" "Rieti" "Pentti" "Lauri" "Tunya" "Lalli" "Uoti" "Baldovino" "Alik" "Kolik" 
+	"Nabtiko" "Nenyts" "Nga" "Noumea" "Num" "Nyalku" "Panay" "Salinder" "Somatu" "Syudbya" 
+	"Tatva" "Tolik" "Wayngachi" "Yadne" "Yapti" "Yavlad" }
+monarch_names = {
+	"Ottone #0" = 1
+	"Albina #0" = -1
+	"Giacinta #0" = -1
+	"Bernardo #1" = 21
+	"Lucia #0" = -1
+	"Gian #0" = 1
+	"Elena #0" = -1
+	"Laptsui #0" = -1
+	"Valentina #0" = -1
+	"Teodoro #0" = 1
+	"Lucinetta #0" = -1
+	"Marietta #0" = -1
+	"Claudia #0" = -1
+	"Guarnito #0" = 1
+	"Gianleone #0" = 1
+	"Joscella #0" = -1
+	"Atenolfo #0" = 1
+	"Brunilde #0" = -1
+	"Cecco #0" = 1
+	"Eudossia #0" = -1
+	"Pericle #0" = 1
+	"Galasso #0" = 1
+	"Francesca #0" = -1
+	"Eleonora #0" = -1
+	"Flavia #0" = -1
+	"Giuditta #0" = -1
+	"Kako #1" = 0
+	"Samatu #1" = 0
+	"Sarak #1" = 0
+	"Hasaba #1" = 0
+	"Mandak #1" = 0
+	"Yurak #1" = 0
+	"Sirtya #2" = 0
+	"Xëryuchi #1" = 0
+	"Ngënoh #1" = 0
+	"Yar #1" = -1
+	"Kharuchi #1" = 0
+	"Tada #2" = -1
+	"Juoksáhkká #1" = -1
+	"Náhkol #1" = 0
+	"Ruigi #1" = 0
+	"Duttá #1" = 0
+	"Áigesárri #1" = 0
+	"Pudak #1" = 0
+	"Vesei #1" = 0
+	"Njáves #1" = -1
+	"Auli #1" = -1
+	"Könçek #1" = 0
+	"Eldeçyuk #1" = 0
+	"Asli #1" = -1
+	"Nishkepaz #1" = 0
+	"Rieti #1" = 0
+	"Pentti #1" = 0
+	"Lauri #1" = 0
+	"Tunya #1" = 0
+	"Lalli #1" = 0
+	"Uoti #1" = 0
+	"Baldovino #1" = 0
+	"Alik #0" = 0
+	"Kolik #0" = 0
+	"Nabtiko #0" = 0
+	"Nenyts #0" = 0
+	"Nga #0" = 0
+	"Noumea #0" = 0
+	"Num #0" = 0
+	"Nyalku #0" = 0
+	"Panay #0" = 0
+	"Salinder #0" = 0
+	"Somatu #0" = 0
+	"Syudbya #0" = 0
+	"Tatva #0" = 0
+	"Tolik #0" = 0
+	"Wayngachi #0" = 0
+	"Yadne #0" = 0
+	"Yapti #0" = 0
+	"Yavlad #0" = 0
+}
+ship_names = {
+	Agricola Aura
+	Borgå "Birger Jarl"
+	Helsingfors Hakkapeliitta
+	Ilmarinen
+	Kullervo Karelen Kymi
+	Lemminkäinen Lapland
+	Nyland
+	Oulu
+	"Per Brahe"
+	Sampo "St. Henrik" Savolax
+	Tavastehus Tavastland
+	Väinämöinen Vasa Viborg Vanda Vuoksi
+	Åbo
+	Österbotten
+}
+

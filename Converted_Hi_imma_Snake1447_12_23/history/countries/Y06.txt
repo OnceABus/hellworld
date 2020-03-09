@@ -1,0 +1,26 @@
+# Vladimir
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 4253
+1442.10.8 = {
+	monarch = {
+		name = "Voislav"
+		birth_date = 1437.10.7
+		dynasty = "Zubivic"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 4253
+	add_treasury = 18
+	add_prestige = 11
+}

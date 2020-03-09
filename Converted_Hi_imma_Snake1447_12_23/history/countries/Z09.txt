@@ -1,0 +1,27 @@
+# Lothian
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = lollard
+clear_scripted_personalities = yes
+capital = 248
+1432.5.2 = {
+	monarch = {
+		name = "Edwin"
+		birth_date = 1399.10.7
+		dynasty = "von Limburg"
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = babbling_buffoon_personality
+}
+1444.11.11 = {
+	capital = 248
+	add_treasury = 412
+	add_prestige = 384
+}

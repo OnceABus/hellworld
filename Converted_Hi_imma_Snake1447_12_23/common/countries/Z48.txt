@@ -1,0 +1,280 @@
+# Imma Hotdog :)
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 100 108 100 }
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Deyi" "Cwenburg" "Jinnu" "Nenniang" "Ecgwyn" "Mahaut" "Sili" "Eadgifu" "Cyneswith" "Zhonghua" 
+	"Fengniang" "Guthfrith" "Osmund" "Eadweald" "Yan" "Aiqin" "Houri" "Ælfwine" "Ruolun" "Eadhburh" 
+	"Hereswith" "Mingda" "Ealdgyth" "Sigehelm" "Ælfgyth" "Eardwulf" "Heahberht" "Burgheard" "Xian" "Jinzhu" 
+	"Jiongxiu" "Xuanwei" "Yuniang" "Jianzhi" "Huang" "Qiaoyun" "Guangqi" "Yuzhu" "Chen" "Huai" 
+	"Jingquan" "Shang" "Su" "Caichun" "Daoyi" "Chuan" "Beorhtwaru" "Ecgfrida" "Gongren" "Lanying" 
+	"Jingzong" "Chaochao" "Sigrid" "Leofrun" "Gunhilda" "Waltheof" "Daoan" "Eadburg" "Ælfric" "Xiangjun" 
+	"Huaishen" "Æthelburh" "Agatha" "Zhaodu" "Cynethryth" "Burgflæd" "Suaibsech" "Lübing" "Ælflæda" "Shanli" 
+	"Aíbinn" "Cytelbearn" "Hruodis" "Hetan" "Gozbert" "Thuringus" "Ado" "Ludwig" "Konrad" "Eberhard" 
+	"Otto" "Heinrich" "Reinhold" "Drahoslava" "Kojata" "Ehrenfried" "Dorothea" "Augustin" "Nerseh" "Khorishah" 
+	"Adalbero" "Adalbert" "Adalhard" "Adam" "Ademar" "Adolf" "Alarich" "Alberich" "Albrecht" "Aldrich" 
+	"Alois" "Amadeus" "Amalrich" "Andreas" "Anselm" "Arnold" "Arnulf" "Baldarich" "Baldewin" "Baldomar" 
+	"Baldur" "Berengar" "Bernhard" "Berthold" "Burchard" "Dieter" "Dietmar" "Dietpold" "Dietrich" "Dietwin" 
+	"Eginolf" "Ekbert" "Ekkehard" "Emelrich" "Emich" "Emmerich" "Emund" "Engelbert" "Erich" "Ernst" 
+	"Ferdinand" "Filibert" "Folkhard" "Folkmar" "Franz" "Friedrich" "Gautselin" "Gebhard" "Georg" "Gerhard" 
+	"Gerlach" "Giselbert" "Gottfried" "Gotthard" "Gottschalk" "Gotzelo" "Guntram" "Gunzelin" "Günther" "Hartmann" 
+	"Hartwig" "Helferich" "Heribert" "Hermann" "Hesso" "Hugo" "Humbert" "Hupold" "Jakob" "Johann" 
+	"Jürgen" "Karl" "Karlmann" "Kaspar" "Kuno" "Lambert" "Landolf" "Leopold" "Liudolf" "Liutbert" 
+	"Liutbrand" "Liutpold" "Lothar" "Ludolf" "Lutbert" "Manegold" "Manfred" "Markward" "Matthias" "Meinhard" 
+	"Nikolaus" "Norbert" "Philipp" "Poppo" "Radbot" "Reinhard" "Rudolf" "Ruprecht" "Rutger" "Siegfried" 
+	"Sieghard" "Siegmund" "Sigismund" "Stefan" "Theodorich" "Thietmar" "Udalrich" "Ulrich" "Viktor" "Waldemar" 
+	"Walram" "Walther" "Welf" "Wenzel" "Werner" "Wido" "Wigerich" "Wilhelm" "Wolfgang" "Wolfram" }
+monarch_names = {
+	"Deyi #0" = 1
+	"Cwenburg #0" = -1
+	"Jinnu #0" = -1
+	"Nenniang #0" = -1
+	"Ecgwyn #0" = -1
+	"Mahaut #0" = -1
+	"Sili #0" = 1
+	"Eadgifu #0" = -1
+	"Cyneswith #0" = -1
+	"Zhonghua #0" = -1
+	"Fengniang #0" = -1
+	"Guthfrith #0" = 1
+	"Osmund #1" = 18
+	"Eadweald #0" = 1
+	"Yan #0" = 1
+	"Aiqin #0" = -1
+	"Houri #0" = -1
+	"Ælfwine #0" = 1
+	"Ruolun #0" = -1
+	"Eadhburh #0" = -1
+	"Hereswith #0" = -1
+	"Mingda #0" = -1
+	"Ealdgyth #0" = -1
+	"Sigehelm #0" = 1
+	"Ælfgyth #0" = -1
+	"Eardwulf #0" = 1
+	"Heahberht #0" = 1
+	"Burgheard #0" = 1
+	"Xian #0" = 1
+	"Jinzhu #0" = -1
+	"Jiongxiu #0" = 1
+	"Xuanwei #0" = 1
+	"Yuniang #0" = -1
+	"Jianzhi #0" = 1
+	"Huang #0" = 1
+	"Qiaoyun #0" = -1
+	"Guangqi #0" = 1
+	"Yuzhu #0" = -1
+	"Chen #0" = 1
+	"Huai #0" = 1
+	"Jingquan #0" = 1
+	"Shang #0" = 1
+	"Su #0" = 1
+	"Caichun #0" = -1
+	"Daoyi #0" = -1
+	"Chuan #0" = 1
+	"Beorhtwaru #0" = -1
+	"Ecgfrida #0" = -1
+	"Gongren #0" = 1
+	"Lanying #0" = -1
+	"Jingzong #0" = 1
+	"Chaochao #0" = -1
+	"Sigrid #0" = -1
+	"Leofrun #0" = -1
+	"Gunhilda #0" = -1
+	"Waltheof #0" = 1
+	"Daoan #0" = -1
+	"Eadburg #0" = -1
+	"Ælfric #0" = 1
+	"Xiangjun #0" = -1
+	"Huaishen #0" = 1
+	"Æthelburh #0" = -1
+	"Agatha #0" = -1
+	"Zhaodu #0" = 1
+	"Cynethryth #0" = -1
+	"Burgflæd #0" = -1
+	"Suaibsech #0" = -1
+	"Lübing #0" = 1
+	"Ælflæda #0" = -1
+	"Shanli #0" = -1
+	"Aíbinn #0" = -1
+	"Cytelbearn #1" = 18
+	"Hruodis #1" = 0
+	"Hetan #2" = 0
+	"Gozbert #1" = 0
+	"Thuringus #1" = 0
+	"Ado #1" = 0
+	"Ludwig #1" = 0
+	"Konrad #4" = 0
+	"Eberhard #1" = 0
+	"Otto #1" = 0
+	"Heinrich #2" = 0
+	"Reinhold #1" = 0
+	"Drahoslava #1" = -1
+	"Kojata #2" = 0
+	"Ehrenfried #2" = 0
+	"Dorothea #2" = -1
+	"Augustin #1" = 0
+	"Nerseh #1" = 0
+	"Khorishah #1" = -1
+	"Adalbero #0" = 0
+	"Adalbert #0" = 0
+	"Adalhard #0" = 0
+	"Adam #0" = 0
+	"Ademar #0" = 0
+	"Adolf #0" = 0
+	"Alarich #0" = 0
+	"Alberich #0" = 0
+	"Albrecht #0" = 0
+	"Aldrich #0" = 0
+	"Alois #0" = 0
+	"Amadeus #0" = 0
+	"Amalrich #0" = 0
+	"Andreas #0" = 0
+	"Anselm #0" = 0
+	"Arnold #0" = 0
+	"Arnulf #0" = 0
+	"Baldarich #0" = 0
+	"Baldewin #0" = 0
+	"Baldomar #0" = 0
+	"Baldur #0" = 0
+	"Berengar #0" = 0
+	"Bernhard #0" = 0
+	"Berthold #0" = 0
+	"Burchard #0" = 0
+	"Dieter #0" = 0
+	"Dietmar #0" = 0
+	"Dietpold #0" = 0
+	"Dietrich #0" = 0
+	"Dietwin #0" = 0
+	"Eginolf #0" = 0
+	"Ekbert #0" = 0
+	"Ekkehard #0" = 0
+	"Emelrich #0" = 0
+	"Emich #0" = 0
+	"Emmerich #0" = 0
+	"Emund #0" = 0
+	"Engelbert #0" = 0
+	"Erich #0" = 0
+	"Ernst #0" = 0
+	"Ferdinand #0" = 0
+	"Filibert #0" = 0
+	"Folkhard #0" = 0
+	"Folkmar #0" = 0
+	"Franz #0" = 0
+	"Friedrich #0" = 0
+	"Gautselin #0" = 0
+	"Gebhard #0" = 0
+	"Georg #0" = 0
+	"Gerhard #0" = 0
+	"Gerlach #0" = 0
+	"Giselbert #0" = 0
+	"Gottfried #0" = 0
+	"Gotthard #0" = 0
+	"Gottschalk #0" = 0
+	"Gotzelo #0" = 0
+	"Guntram #0" = 0
+	"Gunzelin #0" = 0
+	"Günther #0" = 0
+	"Hartmann #0" = 0
+	"Hartwig #0" = 0
+	"Helferich #0" = 0
+	"Heribert #0" = 0
+	"Hermann #0" = 0
+	"Hesso #0" = 0
+	"Hugo #0" = 0
+	"Humbert #0" = 0
+	"Hupold #0" = 0
+	"Jakob #0" = 0
+	"Johann #0" = 0
+	"Jürgen #0" = 0
+	"Karl #0" = 0
+	"Karlmann #0" = 0
+	"Kaspar #0" = 0
+	"Kuno #0" = 0
+	"Lambert #0" = 0
+	"Landolf #0" = 0
+	"Leopold #0" = 0
+	"Liudolf #0" = 0
+	"Liutbert #0" = 0
+	"Liutbrand #0" = 0
+	"Liutpold #0" = 0
+	"Lothar #0" = 0
+	"Ludolf #0" = 0
+	"Lutbert #0" = 0
+	"Manegold #0" = 0
+	"Manfred #0" = 0
+	"Markward #0" = 0
+	"Matthias #0" = 0
+	"Meinhard #0" = 0
+	"Nikolaus #0" = 0
+	"Norbert #0" = 0
+	"Philipp #0" = 0
+	"Poppo #0" = 0
+	"Radbot #0" = 0
+	"Reinhard #0" = 0
+	"Rudolf #0" = 0
+	"Ruprecht #0" = 0
+	"Rutger #0" = 0
+	"Siegfried #0" = 0
+	"Sieghard #0" = 0
+	"Siegmund #0" = 0
+	"Sigismund #0" = 0
+	"Stefan #0" = 0
+	"Theodorich #0" = 0
+	"Thietmar #0" = 0
+	"Udalrich #0" = 0
+	"Ulrich #0" = 0
+	"Viktor #0" = 0
+	"Waldemar #0" = 0
+	"Walram #0" = 0
+	"Walther #0" = 0
+	"Welf #0" = 0
+	"Wenzel #0" = 0
+	"Werner #0" = 0
+	"Wido #0" = 0
+	"Wigerich #0" = 0
+	"Wilhelm #0" = 0
+	"Wolfgang #0" = 0
+	"Wolfram #0" = 0
+}
+ship_names = {
+	Ariadne Habicht Adler Albatross Amazone
+	Arcona Basilisk Beowulf Biene Wespe Wolf
+	Nautilus Natter Otter Pelikan Pfeil Meteor
+	Möwe Mücke Luchs König Kaiser Eber Drache
+	Falke Frauenlob Freya Fuchs Gazelle Geier
+	Greif Condor Cormoran Comet Wacht Tiger
+	Seeadler Jaguar Hyäne Blitz Bremse Brummer
+	Bussard Vulkan
+}
+

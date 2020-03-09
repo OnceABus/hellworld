@@ -1,0 +1,78 @@
+# Caspian Steppe
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 155 130 78 }
+
+
+
+
+leader_names = {
+
+	"Bonifacio" "Irene" "Nikephoros" "Pulcheria" "Zenon" "Tamari" "Gulchara" "Basarab" "Theophano" "Sergios" 
+	"Leontia" "Antonios" "Itlar" "Asep" "Blush" "Asalup" "Bönek" "Usunbike" "Dilek" "Begluk" 
+	"Ilkay" "Esin" "Sumbat" "Iveri" "Sanatha" "Sotan" "Cosma" "Çilbu" "Aepak" "Atrak" 
+	"Bachman" "Bonyak" "Borç" "Eldeçyuk" "Etrek" "Girgen" "Gzi" "Ituk" "Könçek" "Kobyak" 
+	"Kopti" "Kotyan" "Koza" "Kozel" "Kubasar" "Kuntuvdi" "Kutan" "Pulad" "Saru" "Sevenç" 
+	"Sirçan" "Sokal" "Sugr" "Törtogul" "Togli" "Tolun" "Tugor" "Uzluk" "Uzur" }
+monarch_names = {
+	"Bonifacio #1" = 18
+	"Irene #1" = -1
+	"Nikephoros #1" = 0
+	"Pulcheria #1" = -1
+	"Zenon #1" = 0
+	"Tamari #1" = -1
+	"Gulchara #1" = -1
+	"Basarab #1" = 0
+	"Theophano #1" = -1
+	"Sergios #1" = 0
+	"Leontia #2" = -1
+	"Antonios #1" = 0
+	"Itlar #1" = 0
+	"Asep #1" = 0
+	"Blush #1" = 0
+	"Asalup #2" = 0
+	"Bönek #1" = 0
+	"Usunbike #1" = -1
+	"Dilek #1" = -1
+	"Begluk #1" = 0
+	"Ilkay #1" = -1
+	"Esin #1" = -1
+	"Sumbat #1" = 0
+	"Iveri #1" = 0
+	"Sanatha #1" = -1
+	"Sotan #1" = 0
+	"Cosma #1" = 0
+	"Çilbu #0" = 0
+	"Aepak #0" = 0
+	"Atrak #0" = 0
+	"Bachman #0" = 0
+	"Bonyak #0" = 0
+	"Borç #0" = 0
+	"Eldeçyuk #0" = 0
+	"Etrek #0" = 0
+	"Girgen #0" = 0
+	"Gzi #0" = 0
+	"Ituk #0" = 0
+	"Könçek #0" = 0
+	"Kobyak #0" = 0
+	"Kopti #0" = 0
+	"Kotyan #0" = 0
+	"Koza #0" = 0
+	"Kozel #0" = 0
+	"Kubasar #0" = 0
+	"Kuntuvdi #0" = 0
+	"Kutan #0" = 0
+	"Pulad #0" = 0
+	"Saru #0" = 0
+	"Sevenç #0" = 0
+	"Sirçan #0" = 0
+	"Sokal #0" = 0
+	"Sugr #0" = 0
+	"Törtogul #0" = 0
+	"Togli #0" = 0
+	"Tolun #0" = 0
+	"Tugor #0" = 0
+	"Uzluk #0" = 0
+	"Uzur #0" = 0
+}
+

@@ -1,0 +1,26 @@
+# Bambuk
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = soninke
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1115
+1437.7.13 = {
+	monarch = {
+		name = "Bathily"
+		birth_date = 1429.12.12
+		dynasty = "von El Anakir"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 1115
+	add_treasury = 14
+	add_prestige = 44
+}

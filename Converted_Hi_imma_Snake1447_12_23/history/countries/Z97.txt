@@ -1,0 +1,40 @@
+# Wendish Empire
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 3
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+clear_scripted_personalities = yes
+capital = 132
+1422.6.27 = {
+	monarch = {
+		name = "Eginolf"
+		birth_date = 1410.10.25
+		dynasty = "Udonen"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = conqueror_personality
+}
+1439.7.28 = {
+	heir = {
+		name = "Amalrich"
+		monarch_name = "Amalrich II"
+		dynasty = "Udonen"
+		birth_date = 1439.7.28
+		death_date = 1519.7.28
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 132
+	add_treasury = -2
+	add_prestige = 505
+}

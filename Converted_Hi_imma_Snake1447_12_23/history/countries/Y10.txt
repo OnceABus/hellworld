@@ -1,0 +1,38 @@
+# Veliky Ustug
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = mordvin
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1755
+1432.12.6 = {
+	monarch = {
+		name = "Kezhapa II"
+		birth_date = 1408.7.16
+		dynasty = "Kálnoky"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	heir = {
+		name = "Puresh"
+		monarch_name = "Puresh"
+		dynasty = "Kálnoky"
+		birth_date = 1431.10.13
+		death_date = 1511.10.13
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 1755
+	add_treasury = 18
+	add_prestige = 152
+}

@@ -1,0 +1,26 @@
+# Kupaid
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = khitan
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2128
+1435.2.11 = {
+	monarch = {
+		name = "Kamalnarayan"
+		birth_date = 1412.8.18
+		dynasty = "Kupaid"
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 2128
+	add_treasury = 38
+	add_prestige = 78
+}

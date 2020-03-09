@@ -1,0 +1,145 @@
+# Abyssinia
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 120 62 20 }
+
+
+
+
+leader_names = {
+
+	"Lebna" "Sheba" "Selassie" "Habesha" "Seble" "Totit" "Desse" "Falasha" "Berihun" "Makeda" 
+	"Fannah" "Amhara" "Negasi" "Selamawit" "Atoberhan" "Alitash" "Hakim" "Wagaye" "China" "Shinasha" 
+	"Zeina" "Degna Mikael" "Bahr Ikela" "Gum" "Asgwomgum" "Letem" "Talatem" "Oda Gosh" "Ayzur" "Dedem" 
+	"Wededem" "Wedem Asfare" "Rema Armah" "Degna Djan" "Anbasa Wedem" "Dil Na'od" "Mara Takla Haymanot" "Tatadim" "Jan Seyum" "German Seyum" 
+	"Yemrehana Krestos" "Kedus Harbe" "Tirsakouni" "Hakiem" "Kelile" "Dahnay" "Tamirat" "Negus" "Amare" "Desta" 
+	"Getachew" "Geteye" "Girma" "Abai" "Abebe" "Afework" "Aman" "Assefa" "Azmera" "Bekele" 
+	"Benaim" "Berhanu" "Berhanua" "Berta" "Bworo" "Daniachew" "Dawit" "Demissie" "Eremias" "Ezana" 
+	"Fasilidas" "Fethee" "Gabra" "Gebereal" "Gebre" "Gondar" "Hackeem" "Haeran" "Hagos" "Hakeem" 
+	"Hakym" "Iskander" "Iskinder" "Iyasu" "Jima" "Kafa" "Kaleb" "Kelyle" "Kifle" "Lema" 
+	"Loua" "Mamo" "Mekonnen" "Melaku" "Mengesha" "Merille" "Miruts" "Negash" "Ogbae" "Ogbai" 
+	"Oromo" "Rahad" "Semer" "Semere" "Sisay" "Tariku" "Taye" "Tefere" "Teferi" "Teka" 
+	"Tekle" "Tengene" "Teruworq" "Tesfaye" "Tessema" "Tewodros" "Yacob" "Yohannas" "Yonas" "Zula" }
+monarch_names = {
+	"Lebna #0" = 1
+	"Sheba #1" = -19
+	"Selassie #0" = -1
+	"Habesha #0" = -1
+	"Seble #0" = -1
+	"Totit #0" = -1
+	"Desse #0" = -1
+	"Falasha #0" = -1
+	"Berihun #1" = 18
+	"Makeda #0" = -1
+	"Fannah #0" = -1
+	"Amhara #0" = -1
+	"Negasi #0" = 1
+	"Selamawit #0" = -1
+	"Atoberhan #0" = 1
+	"Alitash #0" = -1
+	"Hakim #2" = 21
+	"Wagaye #0" = -1
+	"China #0" = -1
+	"Shinasha #0" = -1
+	"Zeina #0" = -1
+	"Degna Mikael #1" = 0
+	"Bahr Ikela #1" = 0
+	"Gum #1" = 0
+	"Asgwomgum #1" = 0
+	"Letem #1" = 0
+	"Talatem #1" = 0
+	"Oda Gosh #1" = 0
+	"Ayzur #1" = 0
+	"Dedem #1" = 0
+	"Wededem #1" = 0
+	"Wedem Asfare #1" = 0
+	"Rema Armah #1" = 0
+	"Degna Djan #1" = 0
+	"Anbasa Wedem #1" = 0
+	"Dil Na'od #1" = 0
+	"Mara Takla Haymanot #1" = 0
+	"Tatadim #1" = 0
+	"Jan Seyum #1" = 0
+	"German Seyum #1" = 0
+	"Yemrehana Krestos #1" = 0
+	"Kedus Harbe #1" = 0
+	"Tirsakouni #1" = 0
+	"Hakiem #1" = 0
+	"Kelile #1" = 0
+	"Dahnay #1" = 0
+	"Tamirat #2" = 0
+	"Negus #1" = 0
+	"Amare #0" = 0
+	"Desta #0" = 0
+	"Getachew #0" = 0
+	"Geteye #0" = 0
+	"Girma #0" = 0
+	"Abai #0" = 0
+	"Abebe #0" = 0
+	"Afework #0" = 0
+	"Aman #0" = 0
+	"Assefa #0" = 0
+	"Azmera #0" = 0
+	"Bekele #0" = 0
+	"Benaim #0" = 0
+	"Berhanu #0" = 0
+	"Berhanua #0" = 0
+	"Berta #0" = 0
+	"Bworo #0" = 0
+	"Daniachew #0" = 0
+	"Dawit #0" = 0
+	"Demissie #0" = 0
+	"Eremias #0" = 0
+	"Ezana #0" = 0
+	"Fasilidas #0" = 0
+	"Fethee #0" = 0
+	"Gabra #0" = 0
+	"Gebereal #0" = 0
+	"Gebre #0" = 0
+	"Gondar #0" = 0
+	"Hackeem #0" = 0
+	"Haeran #0" = 0
+	"Hagos #0" = 0
+	"Hakeem #0" = 0
+	"Hakym #0" = 0
+	"Iskander #0" = 0
+	"Iskinder #0" = 0
+	"Iyasu #0" = 0
+	"Jima #0" = 0
+	"Kafa #0" = 0
+	"Kaleb #0" = 0
+	"Kelyle #0" = 0
+	"Kifle #0" = 0
+	"Lema #0" = 0
+	"Loua #0" = 0
+	"Mamo #0" = 0
+	"Mekonnen #0" = 0
+	"Melaku #0" = 0
+	"Mengesha #0" = 0
+	"Merille #0" = 0
+	"Miruts #0" = 0
+	"Negash #0" = 0
+	"Ogbae #0" = 0
+	"Ogbai #0" = 0
+	"Oromo #0" = 0
+	"Rahad #0" = 0
+	"Semer #0" = 0
+	"Semere #0" = 0
+	"Sisay #0" = 0
+	"Tariku #0" = 0
+	"Taye #0" = 0
+	"Tefere #0" = 0
+	"Teferi #0" = 0
+	"Teka #0" = 0
+	"Tekle #0" = 0
+	"Tengene #0" = 0
+	"Teruworq #0" = 0
+	"Tesfaye #0" = 0
+	"Tessema #0" = 0
+	"Tewodros #0" = 0
+	"Yacob #0" = 0
+	"Yohannas #0" = 0
+	"Yonas #0" = 0
+	"Zula #0" = 0
+}
+

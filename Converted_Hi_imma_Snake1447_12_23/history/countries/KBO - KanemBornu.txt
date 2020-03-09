@@ -1,0 +1,26 @@
+# Kanem
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = daju
+religion = fraticelli
+clear_scripted_personalities = yes
+capital = 1158
+1440.1.8 = {
+	monarch = {
+		name = "Bogirg"
+		birth_date = 1403.1.30
+		dynasty = "Bogirgid"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = fertile_personality
+}
+1444.11.11 = {
+	capital = 1158
+	add_treasury = 27
+	add_prestige = 135
+}

@@ -1,0 +1,55 @@
+# Ugra
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 119 134 74 }
+
+
+
+
+leader_names = {
+
+	"Mandak" "Alik" "Hasaba" "Kako" "Kharuchi" "Kolik" "Nabtiko" "Nenyts" "Nga" "Ngënoh" 
+	"Noumea" "Num" "Nyalku" "Panay" "Pudak" "Salinder" "Samatu" "Sarak" "Sirtya" "Somatu" 
+	"Syudbya" "Tatva" "Tolik" "Vesei" "Wayngachi" "Xëryuchi" "Yadne" "Yapti" "Yar" "Yavlad" 
+	"Yurak" }
+monarch_names = {
+	"Mandak #0" = 1
+	"Alik #0" = 0
+	"Hasaba #0" = 0
+	"Kako #0" = 0
+	"Kharuchi #0" = 0
+	"Kolik #0" = 0
+	"Nabtiko #0" = 0
+	"Nenyts #0" = 0
+	"Nga #0" = 0
+	"Ngënoh #0" = 0
+	"Noumea #0" = 0
+	"Num #0" = 0
+	"Nyalku #0" = 0
+	"Panay #0" = 0
+	"Pudak #0" = 0
+	"Salinder #0" = 0
+	"Samatu #0" = 0
+	"Sarak #0" = 0
+	"Sirtya #0" = 0
+	"Somatu #0" = 0
+	"Syudbya #0" = 0
+	"Tatva #0" = 0
+	"Tolik #0" = 0
+	"Vesei #0" = 0
+	"Wayngachi #0" = 0
+	"Xëryuchi #0" = 0
+	"Yadne #0" = 0
+	"Yapti #0" = 0
+	"Yar #0" = 0
+	"Yavlad #0" = 0
+	"Yurak #0" = 0
+
+
+	"Atpälha #0" = -1
+	"Tada #0" = -1
+	"Kat #0" = -1
+	"Yar #0" = -1
+	"Galya #0" = -1
+}
+

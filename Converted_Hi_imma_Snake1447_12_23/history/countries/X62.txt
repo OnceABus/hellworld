@@ -1,0 +1,37 @@
+# Ge'ermu
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = chihan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2134
+1444.7.13 = {
+	monarch = {
+		name = "Zhihong II"
+		birth_date = 1405.6.15
+		dynasty = "Yaliguo"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = greedy_personality
+	heir = {
+		name = "Suzhen"
+		monarch_name = "Suzhen"
+		dynasty = "Yaliguo"
+		birth_date = 1439.7.21
+		death_date = 1519.7.21
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2134
+	add_treasury = 2
+	add_prestige = 95
+}

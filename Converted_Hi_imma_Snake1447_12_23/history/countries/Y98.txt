@@ -1,0 +1,38 @@
+# Sougu
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khitan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2360
+1426.3.23 = {
+	monarch = {
+		name = "Yexian"
+		birth_date = 1392.7.5
+		dynasty = "Sougu"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = fierce_negotiator_personality
+	heir = {
+		name = "Yanxi"
+		monarch_name = "Yanxi"
+		dynasty = "Sougu"
+		birth_date = 1406.12.5
+		death_date = 1486.12.5
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+	add_heir_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 2360
+	add_treasury = 4
+	add_prestige = 69
+}

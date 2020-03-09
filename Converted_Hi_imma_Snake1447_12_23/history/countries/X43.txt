@@ -1,0 +1,28 @@
+# Kosala
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = gujarati
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 4459
+1425.8.24 = {
+	monarch = {
+		name = "Akkadevi"
+		birth_date = 1399.1.18
+		dynasty = "Talakadid"
+		female = yes
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 4459
+	add_treasury = 24
+	add_prestige = 375
+}

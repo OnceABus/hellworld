@@ -1,0 +1,37 @@
+# Scotland
+government = republic
+add_government_reform = merchants_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 4163
+1440.2.22 = {
+	monarch = {
+		name = "Corradino"
+		birth_date = 1383.9.1
+		dynasty = "di Skalunda"
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+	heir = {
+		name = "Fosco"
+		monarch_name = "Fosco"
+		dynasty = "di Skalunda"
+		birth_date = 1429.4.25
+		death_date = 1509.4.25
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 4163
+	add_treasury = 44
+	add_prestige = 67
+}

@@ -1,0 +1,27 @@
+# Mosul
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1849
+1433.7.17 = {
+	monarch = {
+		name = "Eugenio"
+		birth_date = 1406.1.4
+		dynasty = "di  Asas"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 1849
+	add_treasury = 66
+	add_prestige = 53
+}

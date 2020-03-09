@@ -1,0 +1,38 @@
+# Çilbu
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = cuman
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 473
+1433.2.5 = {
+	monarch = {
+		name = "Saru"
+		birth_date = 1400.7.22
+		dynasty = "Çilbu"
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = strict_personality
+	heir = {
+		name = "Kuntuvdi"
+		monarch_name = "Kuntuvdi"
+		dynasty = "Çilbu"
+		birth_date = 1400.8.22
+		death_date = 1480.8.22
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 473
+	add_treasury = 144
+	add_prestige = 138
+}

@@ -1,0 +1,26 @@
+# Gauda
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = bengali
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 563
+1436.2.8 = {
+	monarch = {
+		name = "Kalkurna"
+		birth_date = 1419.4.2
+		dynasty = "Vapyatid"
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = expansionist_personality
+}
+1444.11.11 = {
+	capital = 563
+	add_treasury = 24
+	add_prestige = 205
+}

@@ -1,0 +1,27 @@
+# Anahilapatakid
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 453
+1418.11.14 = {
+	monarch = {
+		name = "Dhruvasena III"
+		birth_date = 1412.7.26
+		dynasty = "Anahilapatakid"
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = architectural_visionary_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 453
+	add_treasury = 47
+	add_prestige = 298
+}

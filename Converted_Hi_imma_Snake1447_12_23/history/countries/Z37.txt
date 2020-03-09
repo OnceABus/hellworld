@@ -1,0 +1,27 @@
+# Abydos
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 317
+1432.3.9 = {
+	monarch = {
+		name = "Chanoch"
+		birth_date = 1396.1.21
+		dynasty = "of Toron"
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 317
+	add_treasury = 33
+	add_prestige = 18
+}

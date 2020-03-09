@@ -1,0 +1,28 @@
+# Virsinghadevid
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = panjabi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2073
+1408.10.12 = {
+	monarch = {
+		name = "Prabhavati II"
+		birth_date = 1391.10.26
+		dynasty = "Virsinghadevid"
+		female = yes
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 2073
+	add_treasury = 72
+	add_prestige = 354
+}

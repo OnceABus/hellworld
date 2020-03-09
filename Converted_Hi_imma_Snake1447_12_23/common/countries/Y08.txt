@@ -1,0 +1,232 @@
+# Bolghar
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 110 90 67 }
+
+
+
+
+leader_names = {
+
+	"Uzur" "Ituk" "Sirçan" "Sotan" "Tekçe" "Gunduz" "Peksen" "Yeldem" "Ipek" "Yemelyan" 
+	"Kopti" "Özgul" "Bonyak" "Konstantin" "Kuntuvdi" "Samur" "Ilkay" "Esin" "Mala" "Helgi" 
+	"Yngvar" "Sviatoslav" "Oleg" "Yaropolk" "Iziaslav" "Vseslav" "Vsevolod" "Vysheslav" "Stanislav" "Vladimir" 
+	"Boris" "Gleb" "Sviatopolk" "Yevstafiy" "Mstislav" "Briachislav" "Sofia" "Yaroslav" "Viacheslav" "Igor" 
+	"Sudislav" "Roman" "Anna" "Rostislav" "Yelizaveta" "Wyszeslawa" "Agatha" "Lemetti" "Dobronega Maria" "Vasilko" 
+	"Anastasia" "Sviatoslava" "Iliya" "Feodosia" "Volodar" "Rogvolod" "Davyd" "Ivan" "Fedot" "Dobrava" 
+	"Yevpraxia" "Lev" "Pereyaslava" "Predslava" "Dmitriy" "Agafya" "Viacheslava" "Olga" "Xenia" "Grigoriy" 
+	"Agrafena" "Daniil" "Vasilisa" "Andrei" "Pavel" "Ruslan" "Stepan" "Vseslava" "Dobroslava" "Gorislava" 
+	"Rogneda" "Iakov" "Fevronia" "Irina" "Gradislava" "Vasiliy" "Prebrana" "Yeremey" "Trifon" "Malusha" 
+	"Premyslava" "Liudmila" "Afanasiy" "Zvenislava" "Ulyana" "Alexandr" "Sbyslava" "Putiata" "Malfrida" "Kirill" 
+	"Boleslava" "Verkhoslava" "Maria" "Praxida" "Gremislava" "Marina" "Vladislav" "Terentiy" "Tatyana" "Darya" 
+	"Serzhay" "Azra-Va" "Dobronega" "Liubava" "Meltsayka" "Feodor" "Mikhail" "Feodora" "Yuriy" "Svetozar" 
+	"Alexandra" "Yefrosinia" "Mitrofan" "Uzluk" "Koz'ma" "Könçek" "Saru" "Çiltanesi" "Mutlu" "Kubrat" 
+	"Batbayan" "Kotrag" "Kuber" "Sevar" "Toktu" "Irkhan" "Tukiy" "Aydar" "Shilki Abdullah" "Batir-Mu'min" 
+	"Almis Jafar" "Mikail Yalkau" "Talib Mumin" "Timar Mumin Badjanak" "Masgut" "Ibrahim" "Ashraf Baluq" "Azgar" "Akhad Moskha" "Selim Kolyn" 
+	"Okors" "Sarä" "Usunbike" "Uturgur" "Rassate" "Vakrim" "Blush" "Ayasun" "Aepak" "Törtogul" 
+	"Togli" "Begluk" "Kobyak" "Ipekel" "Biyar" "Wayngachi" "Kontäw" "Yurak" "Zsófia" "Kichay" 
+	"Sarin" "Ozhmeg" "Azeg" "Cherava" "Chichayka" "Tura" "Çilbu" "Asalup" "Asep" "Atrak" 
+	"Bönek" "Bachman" "Borç" "Eldeçyuk" "Etrek" "Girgen" "Gzi" "Itlar" "Kotyan" "Koza" 
+	"Kozel" "Kubasar" "Kutan" "Pulad" "Sevenç" "Sokal" "Sugr" "Tolun" "Tugor" }
+monarch_names = {
+	"Uzur #0" = 1
+	"Ituk #0" = 1
+	"Sirçan #0" = 1
+	"Sotan #0" = 1
+	"Tekçe #0" = -1
+	"Gunduz #0" = -1
+	"Peksen #0" = -1
+	"Yeldem #0" = -1
+	"Ipek #0" = -1
+	"Yemelyan #0" = 1
+	"Kopti #1" = 21
+	"Özgul #0" = -1
+	"Bonyak #0" = 1
+	"Konstantin #0" = 1
+	"Kuntuvdi #0" = 1
+	"Samur #0" = -1
+	"Ilkay #0" = -1
+	"Esin #0" = -1
+	"Mala #0" = -1
+	"Helgi #0" = 1
+	"Yngvar #0" = 1
+	"Sviatoslav #0" = 1
+	"Oleg #0" = 1
+	"Yaropolk #0" = 1
+	"Iziaslav #0" = 1
+	"Vseslav #0" = 1
+	"Vsevolod #0" = 1
+	"Vysheslav #0" = 1
+	"Stanislav #0" = 1
+	"Vladimir #0" = 1
+	"Boris #0" = 1
+	"Gleb #0" = 1
+	"Sviatopolk #0" = 1
+	"Yevstafiy #0" = 1
+	"Mstislav #0" = 1
+	"Briachislav #0" = 1
+	"Sofia #0" = -1
+	"Yaroslav #0" = 1
+	"Viacheslav #0" = 1
+	"Igor #0" = 1
+	"Sudislav #0" = 1
+	"Roman #0" = 1
+	"Anna #0" = -1
+	"Rostislav #0" = 1
+	"Yelizaveta #0" = -1
+	"Wyszeslawa #0" = -1
+	"Agatha #0" = -1
+	"Lemetti #0" = 1
+	"Dobronega Maria #0" = -1
+	"Vasilko #0" = 1
+	"Anastasia #0" = -1
+	"Sviatoslava #0" = -1
+	"Iliya #0" = 1
+	"Feodosia #0" = -1
+	"Volodar #0" = 1
+	"Rogvolod #0" = 1
+	"Davyd #0" = 1
+	"Ivan #0" = 1
+	"Fedot #0" = 1
+	"Dobrava #0" = -1
+	"Yevpraxia #0" = -1
+	"Lev #0" = 1
+	"Pereyaslava #0" = -1
+	"Predslava #0" = -1
+	"Dmitriy #0" = 1
+	"Agafya #0" = -1
+	"Viacheslava #1" = -22
+	"Olga #0" = -1
+	"Xenia #0" = -1
+	"Grigoriy #0" = 1
+	"Agrafena #0" = -1
+	"Daniil #0" = 1
+	"Vasilisa #0" = -1
+	"Andrei #0" = 1
+	"Pavel #0" = 1
+	"Ruslan #0" = 1
+	"Stepan #0" = 1
+	"Vseslava #0" = -1
+	"Dobroslava #0" = -1
+	"Gorislava #0" = -1
+	"Rogneda #0" = -1
+	"Iakov #0" = 1
+	"Fevronia #0" = -1
+	"Irina #0" = -1
+	"Gradislava #0" = -1
+	"Vasiliy #0" = 1
+	"Prebrana #0" = -1
+	"Yeremey #0" = 1
+	"Trifon #0" = 1
+	"Malusha #0" = -1
+	"Premyslava #0" = -1
+	"Liudmila #0" = -1
+	"Afanasiy #0" = 1
+	"Zvenislava #0" = -1
+	"Ulyana #0" = -1
+	"Alexandr #0" = 1
+	"Sbyslava #0" = -1
+	"Putiata #0" = 1
+	"Malfrida #0" = -1
+	"Kirill #0" = 1
+	"Boleslava #0" = -1
+	"Verkhoslava #0" = -1
+	"Maria #0" = -1
+	"Praxida #0" = -1
+	"Gremislava #0" = -1
+	"Marina #0" = -1
+	"Vladislav #0" = 1
+	"Terentiy #0" = 1
+	"Tatyana #0" = -1
+	"Darya #0" = -1
+	"Serzhay #0" = -1
+	"Azra-Va #0" = -1
+	"Dobronega #0" = -1
+	"Liubava #0" = -1
+	"Meltsayka #0" = 1
+	"Feodor #0" = 1
+	"Mikhail #0" = 1
+	"Feodora #0" = -1
+	"Yuriy #0" = 1
+	"Svetozar #0" = 1
+	"Alexandra #0" = -1
+	"Yefrosinia #0" = -1
+	"Mitrofan #0" = 1
+	"Uzluk #0" = 1
+	"Koz'ma #0" = 1
+	"Könçek #1" = 18
+	"Saru #0" = 1
+	"Çiltanesi #0" = -1
+	"Mutlu #0" = -1
+	"Kubrat #1" = 0
+	"Batbayan #1" = 0
+	"Kotrag #1" = 0
+	"Kuber #1" = 0
+	"Sevar #1" = 0
+	"Toktu #1" = 0
+	"Irkhan #1" = 0
+	"Tukiy #1" = 0
+	"Aydar #1" = 0
+	"Shilki Abdullah #1" = 0
+	"Batir-Mu'min #1" = 0
+	"Almis Jafar #1" = 0
+	"Mikail Yalkau #1" = 0
+	"Talib Mumin #1" = 0
+	"Timar Mumin Badjanak #1" = 0
+	"Masgut #1" = 0
+	"Ibrahim #1" = 0
+	"Ashraf Baluq #1" = 0
+	"Azgar #1" = 0
+	"Akhad Moskha #1" = 0
+	"Selim Kolyn #1" = 0
+	"Okors #1" = 0
+	"Sarä #1" = -1
+	"Usunbike #2" = -1
+	"Uturgur #1" = 0
+	"Rassate #1" = 0
+	"Vakrim #1" = 0
+	"Blush #1" = 0
+	"Ayasun #1" = -1
+	"Aepak #1" = 0
+	"Törtogul #1" = 0
+	"Togli #1" = 0
+	"Begluk #1" = 0
+	"Kobyak #1" = 0
+	"Ipekel #1" = -1
+	"Biyar #1" = 0
+	"Wayngachi #1" = 0
+	"Kontäw #1" = -1
+	"Yurak #1" = 0
+	"Zsófia #1" = -1
+	"Kichay #1" = 0
+	"Sarin #1" = 0
+	"Ozhmeg #1" = 0
+	"Azeg #1" = 0
+	"Cherava #1" = -1
+	"Chichayka #1" = -1
+	"Tura #1" = -1
+	"Çilbu #0" = 0
+	"Asalup #0" = 0
+	"Asep #0" = 0
+	"Atrak #0" = 0
+	"Bönek #0" = 0
+	"Bachman #0" = 0
+	"Borç #0" = 0
+	"Eldeçyuk #0" = 0
+	"Etrek #0" = 0
+	"Girgen #0" = 0
+	"Gzi #0" = 0
+	"Itlar #0" = 0
+	"Kotyan #0" = 0
+	"Koza #0" = 0
+	"Kozel #0" = 0
+	"Kubasar #0" = 0
+	"Kutan #0" = 0
+	"Pulad #0" = 0
+	"Sevenç #0" = 0
+	"Sokal #0" = 0
+	"Sugr #0" = 0
+	"Tolun #0" = 0
+	"Tugor #0" = 0
+}
+

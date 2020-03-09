@@ -1,0 +1,27 @@
+# Shigatse
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 4518
+1388.11.4 = {
+	monarch = {
+		name = "Thrikhyiding"
+		birth_date = 1366.9.22
+		dynasty = "Sharpa"
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = inspiring_leader_personality
+}
+1444.11.11 = {
+	capital = 4518
+	add_treasury = 85
+	add_prestige = 788
+}

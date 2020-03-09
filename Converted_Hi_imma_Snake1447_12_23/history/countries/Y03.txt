@@ -1,0 +1,38 @@
+# Sakala
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = italian
+religion = cathar
+clear_scripted_personalities = yes
+capital = 37
+1440.5.11 = {
+	monarch = {
+		name = "Basso"
+		birth_date = 1406.7.13
+		dynasty = "Borri"
+		adm = 5
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = strict_personality
+}
+1446.12.14 = {
+	heir = {
+		name = "Basso"
+		monarch_name = "Basso II"
+		dynasty = "Borri"
+		birth_date = 1446.12.14
+		death_date = 1526.12.14
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+1444.11.11 = {
+	capital = 37
+	add_treasury = 94
+	add_prestige = 16
+}

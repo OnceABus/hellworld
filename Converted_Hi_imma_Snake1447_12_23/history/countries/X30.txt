@@ -1,0 +1,26 @@
+# Akara-Dasarna
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 740
+1443.2.9 = {
+	monarch = {
+		name = "Parakesaripanmar"
+		birth_date = 1405.7.8
+		dynasty = "Sangama"
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 740
+	add_treasury = 279
+	add_prestige = 92
+}

@@ -1,0 +1,26 @@
+# Djado
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = italian
+religion = lollard
+clear_scripted_personalities = yes
+capital = 2475
+1438.11.9 = {
+	monarch = {
+		name = "Pellegrino"
+		birth_date = 1405.2.21
+		dynasty = "Soranzo"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 2475
+	add_treasury = 17
+	add_prestige = 26
+}

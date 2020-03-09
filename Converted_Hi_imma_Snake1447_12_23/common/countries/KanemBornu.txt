@@ -1,0 +1,93 @@
+# Kanem
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 10 215 225 }
+
+
+
+
+leader_names = {
+
+	"Bogirg" "Musin" "Liutpold" "Emelrich" "Katharina" "Sigismund" "Viktor" "Ignatios" "Pelagia" "Phyllis" 
+	"Adam" "Ahmed" "Anqarib" "Asil" "Bakhit" "Ber" "Bokdoru" "Bolad" "Born" "Bug" 
+	"Chang" "Chaski" "Dahab" "Dong" "Ede" "Ett" "Ferne" "Gaguwe" "Galan" "Gelgel" 
+	"Gon" "Habib" "Hajar" "Hassaballah" "Ibedou" "Ibrahim" "Ishaq" "Issa" "Izzo" "Jal" 
+	"Jamne" "Kalge" "Kamalgi" "Karim" "Kasefroge" "Kosom" "Koydin" "Kukne" "Kur" "Lanhjin" 
+	"Magjin" "Maland" "Malaz" "Mbakin" "Meayge" "Meewge" "Moussa" "Moustafa" "Murtin" "Omar" 
+	"Pen" "Pid" "Risha" "Rong" "Salih" "Shendi" "Shuaeib" "Wadanh" "Youssouf" "Yug" }
+monarch_names = {
+	"Bogirg #1" = 18
+	"Musin #0" = -1
+	"Liutpold #1" = 0
+	"Emelrich #1" = 0
+	"Katharina #1" = -1
+	"Sigismund #2" = 0
+	"Viktor #1" = 0
+	"Ignatios #1" = 0
+	"Pelagia #1" = -1
+	"Phyllis #1" = -1
+	"Adam #0" = 0
+	"Ahmed #0" = 0
+	"Anqarib #0" = 0
+	"Asil #0" = 0
+	"Bakhit #0" = 0
+	"Ber #0" = 0
+	"Bokdoru #0" = 0
+	"Bolad #0" = 0
+	"Born #0" = 0
+	"Bug #0" = 0
+	"Chang #0" = 0
+	"Chaski #0" = 0
+	"Dahab #0" = 0
+	"Dong #0" = 0
+	"Ede #0" = 0
+	"Ett #0" = 0
+	"Ferne #0" = 0
+	"Gaguwe #0" = 0
+	"Galan #0" = 0
+	"Gelgel #0" = 0
+	"Gon #0" = 0
+	"Habib #0" = 0
+	"Hajar #0" = 0
+	"Hassaballah #0" = 0
+	"Ibedou #0" = 0
+	"Ibrahim #0" = 0
+	"Ishaq #0" = 0
+	"Issa #0" = 0
+	"Izzo #0" = 0
+	"Jal #0" = 0
+	"Jamne #0" = 0
+	"Kalge #0" = 0
+	"Kamalgi #0" = 0
+	"Karim #0" = 0
+	"Kasefroge #0" = 0
+	"Kosom #0" = 0
+	"Koydin #0" = 0
+	"Kukne #0" = 0
+	"Kur #0" = 0
+	"Lanhjin #0" = 0
+	"Magjin #0" = 0
+	"Maland #0" = 0
+	"Malaz #0" = 0
+	"Mbakin #0" = 0
+	"Meayge #0" = 0
+	"Meewge #0" = 0
+	"Moussa #0" = 0
+	"Moustafa #0" = 0
+	"Murtin #0" = 0
+	"Omar #0" = 0
+	"Pen #0" = 0
+	"Pid #0" = 0
+	"Risha #0" = 0
+	"Rong #0" = 0
+	"Salih #0" = 0
+	"Shendi #0" = 0
+	"Shuaeib #0" = 0
+	"Wadanh #0" = 0
+	"Youssouf #0" = 0
+	"Yug #0" = 0
+
+
+	"Bor #0" = -1
+}
+

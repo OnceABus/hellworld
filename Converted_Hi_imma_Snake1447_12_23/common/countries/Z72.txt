@@ -1,0 +1,74 @@
+# Asturias
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 233 188 91 }
+
+
+
+
+leader_names = {
+
+	"Corrado" "Benvenuto" "Ausonia" "Lucrezia" "Bianca" "Adelaida" "Froila" "Adelfonso" "Alfonso" "Diego" 
+	"Rodrigo" "Munio" "Astrad" "Fernando" "Lopo" "Diogo" "Guterre" "Garcia" "Soeiro" "Juan" 
+	"Amalric" "Godafres" "Rogier" "Uc" "Liudolf" "Gudrun" "Alonso" "Álvar" "Álvaro" "Bermudo" 
+	"Enrique" "Fadrique" "Felipe" "Fruela" "García" "Gil" "Gómez" "Gonzalo" "Guillén" "Guillermo" 
+	"Gutierre" "Lope" "Luis" "Manrique" "Martín" "Nuño" "Ordoño" "Oveco" "Pedro" "Pelayo" 
+	"Ramiro" "Sancho" "Suero" "Tello" "Vela" }
+monarch_names = {
+	"Corrado #1" = 18
+	"Benvenuto #2" = 24
+	"Ausonia #0" = -1
+	"Lucrezia #0" = -1
+	"Bianca #1" = -19
+	"Adelaida #0" = -1
+	"Froila #1" = 0
+	"Adelfonso #1" = 0
+	"Alfonso #1" = 0
+	"Diego #2" = 0
+	"Rodrigo #1" = 0
+	"Munio #1" = 0
+	"Astrad #1" = 0
+	"Fernando #1" = 0
+	"Lopo #2" = 0
+	"Diogo #1" = 0
+	"Guterre #1" = 0
+	"Garcia #1" = 0
+	"Soeiro #1" = 0
+	"Juan #1" = 0
+	"Amalric #1" = 0
+	"Godafres #1" = 0
+	"Rogier #1" = 0
+	"Uc #1" = 0
+	"Liudolf #1" = 0
+	"Gudrun #1" = -1
+	"Alonso #0" = 0
+	"Álvar #0" = 0
+	"Álvaro #0" = 0
+	"Bermudo #0" = 0
+	"Enrique #0" = 0
+	"Fadrique #0" = 0
+	"Felipe #0" = 0
+	"Fruela #0" = 0
+	"García #0" = 0
+	"Gil #0" = 0
+	"Gómez #0" = 0
+	"Gonzalo #0" = 0
+	"Guillén #0" = 0
+	"Guillermo #0" = 0
+	"Gutierre #0" = 0
+	"Lope #0" = 0
+	"Luis #0" = 0
+	"Manrique #0" = 0
+	"Martín #0" = 0
+	"Nuño #0" = 0
+	"Ordoño #0" = 0
+	"Oveco #0" = 0
+	"Pedro #0" = 0
+	"Pelayo #0" = 0
+	"Ramiro #0" = 0
+	"Sancho #0" = 0
+	"Suero #0" = 0
+	"Tello #0" = 0
+	"Vela #0" = 0
+}
+

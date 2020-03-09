@@ -1,0 +1,26 @@
+# Baghdad
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 410
+1441.12.8 = {
+	monarch = {
+		name = "Lanfranco"
+		birth_date = 1432.1.9
+		dynasty = "Razzaqid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 410
+	add_treasury = 52
+	add_prestige = 10
+}

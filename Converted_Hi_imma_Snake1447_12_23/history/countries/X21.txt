@@ -1,0 +1,37 @@
+# Chola
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = oriya
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 4423
+1436.7.20 = {
+	monarch = {
+		name = "Nandaprabhanjana"
+		birth_date = 1418.7.21
+		dynasty = "Chola"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+	heir = {
+		name = "Skandavarman"
+		monarch_name = "Skandavarman"
+		dynasty = "Chola"
+		birth_date = 1427.8.10
+		death_date = 1507.8.10
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+	add_heir_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 4423
+	add_treasury = -1
+	add_prestige = 686
+}

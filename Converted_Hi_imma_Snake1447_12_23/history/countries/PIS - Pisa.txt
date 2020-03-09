@@ -1,0 +1,27 @@
+# Pisa
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 115
+1425.3.11 = {
+	monarch = {
+		name = "Albano"
+		birth_date = 1394.2.19
+		dynasty = "Dell'Orto"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 115
+	add_treasury = -6
+	add_prestige = 311
+}

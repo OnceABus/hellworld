@@ -1,0 +1,27 @@
+# Zhilugu
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khitan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 476
+1432.11.8 = {
+	monarch = {
+		name = "Duoluo"
+		birth_date = 1412.11.13
+		dynasty = "Zhilugu"
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = expansionist_personality
+}
+1444.11.11 = {
+	capital = 476
+	add_treasury = 15
+	add_prestige = 220
+}

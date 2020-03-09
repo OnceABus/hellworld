@@ -1,0 +1,26 @@
+# León
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = andalucian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 208
+1437.12.24 = {
+	monarch = {
+		name = "Omero"
+		birth_date = 1427.1.2
+		dynasty = "di Bani Waled"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 208
+	add_treasury = 244
+	add_prestige = 82
+}

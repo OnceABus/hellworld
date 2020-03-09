@@ -1,0 +1,106 @@
+# Hougu
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 210 160 80 }
+
+
+
+
+leader_names = {
+
+	"Tuyu" "Yalixin" "Fuguzhi" "Wogan" "Zhongyuan" "Gou’er" "Yali" "Noulisi" "Dinianzhuli" "Sibu" 
+	"Tabuyan" "Hougu" "Yaoshinu" "Bage" "Nieli" "Yanyan" "Tiande" "Taoge" "Xiao-Wen" "Ping" 
+	"Kailuo" "Kedun" "Heluwo" "Yilie" "Sokhatai" "Keling" "Xingge" "Shuge" "Lübugu" "Wuge" 
+	"Khalga" "Kaban" "Kundaç" "Mënümarót" "Yilig" "Mänäs" "Tuvan" "Tarkhan" "Kubasar" "Sugr" 
+	"Dilek" "Yasar" "Sarica" "Ayasun" "Kozel" "Törtogul" "Songul" "Togli" "Kutan" "Eldeçyuk" 
+	"Saru" "Aepak" "Begluk" "Amalie" "Agnes" "Çilbu" "Asalup" "Asep" "Atrak" "Bönek" 
+	"Bachman" "Blush" "Bonyak" "Borç" "Etrek" "Girgen" "Gzi" "Itlar" "Ituk" "Könçek" 
+	"Kobyak" "Kopti" "Kotyan" "Koza" "Kuntuvdi" "Pulad" "Sevenç" "Sirçan" "Sokal" "Sotan" 
+	"Tolun" "Tugor" "Uzluk" "Uzur" }
+monarch_names = {
+	"Tuyu #0" = 1
+	"Yalixin #0" = -1
+	"Fuguzhi #1" = 18
+	"Wogan #0" = 1
+	"Zhongyuan #0" = 1
+	"Gou’er #0" = 1
+	"Yali #0" = 1
+	"Noulisi #0" = 1
+	"Dinianzhuli #0" = 1
+	"Sibu #0" = 1
+	"Tabuyan #0" = -1
+	"Hougu #0" = 1
+	"Yaoshinu #0" = 1
+	"Bage #0" = -1
+	"Nieli #0" = 1
+	"Yanyan #0" = -1
+	"Tiande #0" = 1
+	"Taoge #0" = -1
+	"Xiao-Wen #0" = -1
+	"Ping #0" = -1
+	"Kailuo #0" = 1
+	"Kedun #0" = -1
+	"Heluwo #0" = 1
+	"Yilie #1" = 21
+	"Sokhatai #0" = -1
+	"Keling #0" = 1
+	"Xingge #0" = -1
+	"Shuge #0" = -1
+	"Lübugu #0" = -1
+	"Wuge #0" = 1
+	"Khalga #1" = 0
+	"Kaban #1" = 0
+	"Kundaç #1" = 0
+	"Mënümarót #1" = 0
+	"Yilig #1" = 0
+	"Mänäs #1" = 0
+	"Tuvan #1" = 0
+	"Tarkhan #1" = 0
+	"Kubasar #3" = 0
+	"Sugr #2" = 0
+	"Dilek #2" = -1
+	"Yasar #1" = -1
+	"Sarica #2" = 0
+	"Ayasun #1" = -1
+	"Kozel #1" = 0
+	"Törtogul #2" = 0
+	"Songul #1" = -1
+	"Togli #1" = 0
+	"Kutan #2" = 0
+	"Eldeçyuk #4" = 0
+	"Saru #1" = 0
+	"Aepak #1" = 0
+	"Begluk #1" = 0
+	"Amalie #1" = -1
+	"Agnes #1" = -1
+	"Çilbu #0" = 0
+	"Asalup #0" = 0
+	"Asep #0" = 0
+	"Atrak #0" = 0
+	"Bönek #0" = 0
+	"Bachman #0" = 0
+	"Blush #0" = 0
+	"Bonyak #0" = 0
+	"Borç #0" = 0
+	"Etrek #0" = 0
+	"Girgen #0" = 0
+	"Gzi #0" = 0
+	"Itlar #0" = 0
+	"Ituk #0" = 0
+	"Könçek #0" = 0
+	"Kobyak #0" = 0
+	"Kopti #0" = 0
+	"Kotyan #0" = 0
+	"Koza #0" = 0
+	"Kuntuvdi #0" = 0
+	"Pulad #0" = 0
+	"Sevenç #0" = 0
+	"Sirçan #0" = 0
+	"Sokal #0" = 0
+	"Sotan #0" = 0
+	"Tolun #0" = 0
+	"Tugor #0" = 0
+	"Uzluk #0" = 0
+	"Uzur #0" = 0
+}
+

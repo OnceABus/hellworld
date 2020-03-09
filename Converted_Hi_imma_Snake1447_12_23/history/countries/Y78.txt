@@ -1,0 +1,40 @@
+# Nubia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2323
+1441.2.27 = {
+	monarch = {
+		name = "Fausta"
+		birth_date = 1409.1.27
+		dynasty = "di Curlies"
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = naive_personality
+}
+1445.1.15 = {
+	heir = {
+		name = "Aldobrandino"
+		monarch_name = "Aldobrandino"
+		dynasty = "di Curlies"
+		birth_date = 1445.1.15
+		death_date = 1525.1.15
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 2323
+	add_treasury = -1
+	add_prestige = 736
+}

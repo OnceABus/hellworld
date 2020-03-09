@@ -1,0 +1,27 @@
+# Kabylia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 1882
+1423.6.3 = {
+	monarch = {
+		name = "Bruno III"
+		birth_date = 1410.8.20
+		dynasty = "Borgia"
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 1882
+	add_treasury = 21
+	add_prestige = 79
+}

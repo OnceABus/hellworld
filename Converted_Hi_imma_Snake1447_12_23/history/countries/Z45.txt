@@ -1,0 +1,27 @@
+# Greater Poland
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = polish
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 2963
+1431.1.18 = {
+	monarch = {
+		name = "Gagik"
+		birth_date = 1409.8.19
+		dynasty = "von Madman"
+		adm = 4
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 2963
+	add_treasury = 0
+	add_prestige = 356
+}

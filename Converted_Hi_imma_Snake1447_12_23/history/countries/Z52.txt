@@ -1,0 +1,26 @@
+# Paphlagonia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 4313
+1435.8.8 = {
+	monarch = {
+		name = "Cosma"
+		birth_date = 1410.4.8
+		dynasty = "Pisanu"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 4313
+	add_treasury = 9
+	add_prestige = 69
+}

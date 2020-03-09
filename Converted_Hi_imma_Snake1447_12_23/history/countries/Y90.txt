@@ -1,0 +1,27 @@
+# Chalid
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khitan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 1068
+1412.2.24 = {
+	monarch = {
+		name = "Chala"
+		birth_date = 1386.6.9
+		dynasty = "Chalid"
+		adm = 3
+		dip = 6
+		mil = 6
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = industrious_personality
+}
+1444.11.11 = {
+	capital = 1068
+	add_treasury = 1
+	add_prestige = 253
+}

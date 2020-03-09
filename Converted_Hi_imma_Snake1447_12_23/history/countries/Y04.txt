@@ -1,0 +1,39 @@
+# Vestlandet
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 21
+1437.11.15 = {
+	monarch = {
+		name = "Umberto"
+		birth_date = 1418.4.10
+		dynasty = "d'Arborea"
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+	add_ruler_personality = greedy_personality
+}
+1439.10.20 = {
+	heir = {
+		name = "Umberto"
+		monarch_name = "Umberto II"
+		dynasty = "d'Arborea"
+		birth_date = 1439.10.20
+		death_date = 1519.10.20
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 21
+	add_treasury = -1
+	add_prestige = 65
+}

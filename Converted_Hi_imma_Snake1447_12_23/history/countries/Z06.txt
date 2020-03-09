@@ -1,0 +1,26 @@
+# Wessex
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = anglo_saxon
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 234
+1441.1.24 = {
+	monarch = {
+		name = "Ealdmund"
+		birth_date = 1425.12.24
+		dynasty = "Volhynsky"
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 234
+	add_treasury = 598
+	add_prestige = 49
+}

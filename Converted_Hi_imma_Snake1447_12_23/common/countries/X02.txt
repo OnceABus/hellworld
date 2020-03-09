@@ -1,0 +1,156 @@
+# Jilujuan
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 143 190 200 }
+
+
+
+
+leader_names = {
+
+	"Helü" "Jilujuan" "Hudugu" "Yalixin" "Lübugu" "Julü" "Yange" "Zhigu" "Xiao" "Yanyan" 
+	"Nuosi" "Saige" "Yaliguo" "Wolila" "Pusuwan" "Taige" "Abaoji" "Abugu" "Aguo" "Alian" 
+	"Anduan" "Axin" "Baling" "Bancai" "Bei" "Biegute" "Bishe" "Chala" "Chucai" "Dashi" 
+	"Deguang" "Dilie" "Dilu" "Dinianzhuli" "Duba" "Duolubu" "Duoluo" "Fuguzhi" "Gaoqi" "Gou'er" 
+	"Gou’er" "Gunai" "Guozhe" "Hanshe" "Hechen" "Heluwo" "Hongji" "Hougu" "Hudujin" "Jing" 
+	"Jinshan" "Juqu" "Kailuo" "Keling" "Ketuyu" "Kuge" "Lihu" "Liuge" "Loguo" "Mergan" 
+	"Mohuai" "Mohuba" "Mohui" "Mopei" "Muyan" "Nieli" "Noulisi" "Nuohebo" "Pidi" "Pidie" 
+	"Pogu" "Puhui" "Qidegui" "Qinde" "Qinu" "Qizhen" "Quju" "Qulü" "Qushu" "Rian" 
+	"Rilujuan" "RuanSuogu" "Saba" "Salade" "Saladi" "Shancai" "Shaogu" "Shefuchen" "Shegui" "Shifang" 
+	"Shihuo" "Shilu" "Shouguonu" "Shulü" "Sibu" "Sougu" "Tanmozhe" "Tiande" "Tiebu" "Tongguyu" 
+	"Tuyu" "Wenshunu" "Wogan" "Wuge" "Wuwuchen" "Wuyu" "Xian" "Xibaxiong" "Xiduguan" "Xiuge" 
+	"Xi’er" "Xi’erzhi" "Xuedu" "Yali" "Yanchege" "Yanxi" "Yaogu" "Yaoshinu" "Yexian" "Yidougui" 
+	"Yilie" "Yudu" "Yudugu" "Yundeshi" "Zhengge" "Zhiligu" "Zhilugu" "Zhongyuan" "Zhulie" "Zongzhen" }
+monarch_names = {
+	"Helü #0" = 1
+	"Jilujuan #1" = 18
+	"Hudugu #0" = 1
+	"Yalixin #0" = -1
+	"Lübugu #0" = -1
+	"Julü #0" = 1
+	"Yange #0" = -1
+	"Zhigu #0" = 1
+	"Xiao #0" = -1
+	"Yanyan #0" = -1
+	"Nuosi #0" = 1
+	"Saige #0" = -1
+	"Yaliguo #0" = 1
+	"Wolila #0" = 1
+	"Pusuwan #0" = -1
+	"Taige #0" = -1
+	"Abaoji #0" = 0
+	"Abugu #0" = 0
+	"Aguo #0" = 0
+	"Alian #0" = 0
+	"Anduan #0" = 0
+	"Axin #0" = 0
+	"Baling #0" = 0
+	"Bancai #0" = 0
+	"Bei #0" = 0
+	"Biegute #0" = 0
+	"Bishe #0" = 0
+	"Chala #0" = 0
+	"Chucai #0" = 0
+	"Dashi #0" = 0
+	"Deguang #0" = 0
+	"Dilie #0" = 0
+	"Dilu #0" = 0
+	"Dinianzhuli #0" = 0
+	"Duba #0" = 0
+	"Duolubu #0" = 0
+	"Duoluo #0" = 0
+	"Fuguzhi #0" = 0
+	"Gaoqi #0" = 0
+	"Gou'er #0" = 0
+	"Gou’er #0" = 0
+	"Gunai #0" = 0
+	"Guozhe #0" = 0
+	"Hanshe #0" = 0
+	"Hechen #0" = 0
+	"Heluwo #0" = 0
+	"Hongji #0" = 0
+	"Hougu #0" = 0
+	"Hudujin #0" = 0
+	"Jing #0" = 0
+	"Jinshan #0" = 0
+	"Juqu #0" = 0
+	"Kailuo #0" = 0
+	"Keling #0" = 0
+	"Ketuyu #0" = 0
+	"Kuge #0" = 0
+	"Lihu #0" = 0
+	"Liuge #0" = 0
+	"Loguo #0" = 0
+	"Mergan #0" = 0
+	"Mohuai #0" = 0
+	"Mohuba #0" = 0
+	"Mohui #0" = 0
+	"Mopei #0" = 0
+	"Muyan #0" = 0
+	"Nieli #0" = 0
+	"Noulisi #0" = 0
+	"Nuohebo #0" = 0
+	"Pidi #0" = 0
+	"Pidie #0" = 0
+	"Pogu #0" = 0
+	"Puhui #0" = 0
+	"Qidegui #0" = 0
+	"Qinde #0" = 0
+	"Qinu #0" = 0
+	"Qizhen #0" = 0
+	"Quju #0" = 0
+	"Qulü #0" = 0
+	"Qushu #0" = 0
+	"Rian #0" = 0
+	"Rilujuan #0" = 0
+	"RuanSuogu #0" = 0
+	"Saba #0" = 0
+	"Salade #0" = 0
+	"Saladi #0" = 0
+	"Shancai #0" = 0
+	"Shaogu #0" = 0
+	"Shefuchen #0" = 0
+	"Shegui #0" = 0
+	"Shifang #0" = 0
+	"Shihuo #0" = 0
+	"Shilu #0" = 0
+	"Shouguonu #0" = 0
+	"Shulü #0" = 0
+	"Sibu #0" = 0
+	"Sougu #0" = 0
+	"Tanmozhe #0" = 0
+	"Tiande #0" = 0
+	"Tiebu #0" = 0
+	"Tongguyu #0" = 0
+	"Tuyu #0" = 0
+	"Wenshunu #0" = 0
+	"Wogan #0" = 0
+	"Wuge #0" = 0
+	"Wuwuchen #0" = 0
+	"Wuyu #0" = 0
+	"Xian #0" = 0
+	"Xibaxiong #0" = 0
+	"Xiduguan #0" = 0
+	"Xiuge #0" = 0
+	"Xi’er #0" = 0
+	"Xi’erzhi #0" = 0
+	"Xuedu #0" = 0
+	"Yali #0" = 0
+	"Yanchege #0" = 0
+	"Yanxi #0" = 0
+	"Yaogu #0" = 0
+	"Yaoshinu #0" = 0
+	"Yexian #0" = 0
+	"Yidougui #0" = 0
+	"Yilie #0" = 0
+	"Yudu #0" = 0
+	"Yudugu #0" = 0
+	"Yundeshi #0" = 0
+	"Zhengge #0" = 0
+	"Zhiligu #0" = 0
+	"Zhilugu #0" = 0
+	"Zhongyuan #0" = 0
+	"Zhulie #0" = 0
+	"Zongzhen #0" = 0
+}
+

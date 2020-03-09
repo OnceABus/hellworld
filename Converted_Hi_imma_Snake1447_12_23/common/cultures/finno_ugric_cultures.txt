@@ -1,0 +1,18 @@
+finno_ugric = {
+	komi = {
+		primary = FIN
+		dynasty_names = { "Irtegid" "Ozhegid" "Rategid" "Kichayid" "Azeyid" "Kuazid" "Severnayid" "Uralid" "Kálmán" "Pyerid" "Valdimirskyid" "Kezhevatid" "Velid" "Dokyid" "Tuntorid" "Inzhayid" "Khlynovid" "Onikid" }
+	}
+	mordvin = {
+		primary = FIN
+		dynasty_names = { "Purysho" "Kezhedeyid" }
+	}
+	khanty = {
+		primary = FIN
+		dynasty_names = { "Rategid" "Malyakid" "Sektevid" "Kezhedeyid" }
+	}
+	meshchera = {
+		primary = FIN
+		dynasty_names = { }
+	}
+}

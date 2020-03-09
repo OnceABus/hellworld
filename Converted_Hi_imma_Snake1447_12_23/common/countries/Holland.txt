@@ -1,0 +1,195 @@
+# Holland
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 235 80 30 }
+historical_idea_groups = {
+	trade_ideas
+	exploration_ideas
+	naval_ideas
+	defensive_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	austrian_tercio
+	austrian_grenzer
+	french_bluecoat
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Vagharshak" "Grigor" "Vassak" "Atrnerseh" "Keghanoush" "Hripsimeh" "Ovsanna" "Aghavni" "Vakhtank" "Mariyam" 
+	"Tovmas" "Arevig" "Hranoush" "Abirad" "Arshak" "Vahag" "Houri" "Oshin" "Anselm" "Hrörekr" 
+	"Guðfrið" "Gerulf" "Dirk" "Arnulf" "Floris" "Adela" "Burchard" "Sieghard" "Caracosa" "Giolio" 
+	"Muyahid" "Albrecht" "Cailean" "Tornik" "Datevig" "Hagop" "H'edda" "Tachat" "Mikayel" "Hethum" 
+	"Richwara" "Adriaen" "Alwin" "Ambroos" "Antoon" "Arnold" "Balderik" "Barend" "Barnaerd" "Bavo" 
+	"Bertold" "Boudewijn" "Claes" "Claeuwaert" "Daevit" "Damaes" "Diederick" "Douwe" "Eduard" "Egmund" 
+	"Ekbert" "Emmo" "Engelbrecht" "Filips" "Folbert" "Frans" "Frederik" "Gerard" "Gerolt" "Gerrit" 
+	"Gijsbrecht" "Giselbert" "Godfried" "Godschalk" "Gozewijn" "Guij" "Gwijde" "Hendrik" "Herman" "Hubert" 
+	"Hugo" "IJsbrand" "IJsbrecht" "Jacco" "Jan" "Karel" "Koenraad" "Kristof" "Lambert" "Lodewijk" 
+	"Ludewijn" "Lutbert" "Luthard" "Maertijn" "Marquart" "Niclaes" "Olivier" "Otto" "Otwin" "Onno" 
+	"Pieter" "Reinaerd" "Reinoud" "Reginar" "Robrecht" "Robert" "Rodulf" "Roelof" "Roland" "Rutger" 
+	"Sebastiaen" "Sicco" "Steven" "Steyn" "Theodolf" "Waelram" "Walter" "Wicher" "Willem" "Wolfard" }
+monarch_names = {
+	"Vagharshak #1" = 21
+	"Grigor #0" = 1
+	"Vassak #1" = 18
+	"Atrnerseh #0" = 1
+	"Keghanoush #0" = -1
+	"Hripsimeh #0" = -1
+	"Ovsanna #0" = -1
+	"Aghavni #0" = -1
+	"Vakhtank #0" = 1
+	"Mariyam #0" = -1
+	"Tovmas #0" = 1
+	"Arevig #0" = -1
+	"Hranoush #0" = -1
+	"Abirad #0" = 1
+	"Arshak #0" = 1
+	"Vahag #0" = 1
+	"Houri #0" = -1
+	"Oshin #0" = 1
+	"Anselm #1" = 0
+	"Hrörekr #1" = 0
+	"Guðfrið #1" = 0
+	"Gerulf #1" = 0
+	"Dirk #5" = 0
+	"Arnulf #1" = 0
+	"Floris #1" = 0
+	"Adela #1" = -1
+	"Burchard #1" = 0
+	"Sieghard #2" = 0
+	"Caracosa #1" = -1
+	"Giolio #1" = 0
+	"Muyahid #1" = 0
+	"Albrecht #1" = 0
+	"Cailean #1" = 0
+	"Tornik #1" = 0
+	"Datevig #1" = -1
+	"Hagop #1" = 0
+	"H'edda #1" = -1
+	"Tachat #1" = 0
+	"Mikayel #2" = 0
+	"Hethum #1" = 0
+	"Richwara #1" = -1
+	"Adriaen #0" = 0
+	"Alwin #0" = 0
+	"Ambroos #0" = 0
+	"Antoon #0" = 0
+	"Arnold #0" = 0
+	"Balderik #0" = 0
+	"Barend #0" = 0
+	"Barnaerd #0" = 0
+	"Bavo #0" = 0
+	"Bertold #0" = 0
+	"Boudewijn #0" = 0
+	"Claes #0" = 0
+	"Claeuwaert #0" = 0
+	"Daevit #0" = 0
+	"Damaes #0" = 0
+	"Diederick #0" = 0
+	"Douwe #0" = 0
+	"Eduard #0" = 0
+	"Egmund #0" = 0
+	"Ekbert #0" = 0
+	"Emmo #0" = 0
+	"Engelbrecht #0" = 0
+	"Filips #0" = 0
+	"Folbert #0" = 0
+	"Frans #0" = 0
+	"Frederik #0" = 0
+	"Gerard #0" = 0
+	"Gerolt #0" = 0
+	"Gerrit #0" = 0
+	"Gijsbrecht #0" = 0
+	"Giselbert #0" = 0
+	"Godfried #0" = 0
+	"Godschalk #0" = 0
+	"Gozewijn #0" = 0
+	"Guij #0" = 0
+	"Gwijde #0" = 0
+	"Hendrik #0" = 0
+	"Herman #0" = 0
+	"Hubert #0" = 0
+	"Hugo #0" = 0
+	"IJsbrand #0" = 0
+	"IJsbrecht #0" = 0
+	"Jacco #0" = 0
+	"Jan #0" = 0
+	"Karel #0" = 0
+	"Koenraad #0" = 0
+	"Kristof #0" = 0
+	"Lambert #0" = 0
+	"Lodewijk #0" = 0
+	"Ludewijn #0" = 0
+	"Lutbert #0" = 0
+	"Luthard #0" = 0
+	"Maertijn #0" = 0
+	"Marquart #0" = 0
+	"Niclaes #0" = 0
+	"Olivier #0" = 0
+	"Otto #0" = 0
+	"Otwin #0" = 0
+	"Onno #0" = 0
+	"Pieter #0" = 0
+	"Reinaerd #0" = 0
+	"Reinoud #0" = 0
+	"Reginar #0" = 0
+	"Robrecht #0" = 0
+	"Robert #0" = 0
+	"Rodulf #0" = 0
+	"Roelof #0" = 0
+	"Roland #0" = 0
+	"Rutger #0" = 0
+	"Sebastiaen #0" = 0
+	"Sicco #0" = 0
+	"Steven #0" = 0
+	"Steyn #0" = 0
+	"Theodolf #0" = 0
+	"Waelram #0" = 0
+	"Walter #0" = 0
+	"Wicher #0" = 0
+	"Willem #0" = 0
+	"Wolfard #0" = 0
+}
+ship_names = {
+	Adelaar Ajax Alkmaar Amelia Amsterdam Atalanta
+	Bantam Batavia Beschermer Brederode Brouwer Brutus
+	Campen Cerberus Comeestar
+	Daphne Delfland Delft "Den Swarten Raven" Delphin Deventer Duyfken
+	Eendracht Eenhorn Embuscade Engel Erasmus
+	Gaesterland "Gekroende Liefde" Gelijkheid Gouda "Gouden Arend" "Gouden Leeuw" "Groot Frisia" "Groote Sint Joris" "Grote Zon"
+	Haarlem Heldin Hercules "De Halve Maen" Hollandia "Hollandsche Tuyn" "Huis te Oosterwijk" "Huis te Zwieten" "Huys van Nassau"
+	"Jong Prins te Paard" Jupiter "Kleine Zon"
+	"Kleene Sint Joris" Komeeetster "Kronede Arend"
+	Leyden "Liefde van Hoorn"
+	"Maagd van Dordrecht" Mars Mauritius Middelburg Minerva Moon Monnikendam Muiderberg
+	Nassau "Nieuw Vlissingen" 
+	Olifant Onrust Ooievaar Oranje
+	Patientia Posthorn "Prins Friso" "Prins Willem" 
+	Rotterdam Rozendaal
+	Schakerloo Schermer Spiegel Staten-Generaal Statenlande Ster "St. Iago de Victoria" "St. Marten" "St. Matthuis"
+	Tholen Tyger 
+	"Vereenigde Provincieën" Vlissingen Vrede Vrijheid
+	Waakzaamheid "Walcheren" "Wapen van Holland" "Wapen van Medenblik" Wassenaar Winhond "Witte Leeuw" Woerden Zeerijp
+	"Zeven Provincien" Zierikzee Zon Zuidholland "Zwarte Leeuw" 
+}
+

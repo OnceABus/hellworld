@@ -1,0 +1,27 @@
+# Brittany
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = breton
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 171
+1432.9.14 = {
+	monarch = {
+		name = "Gautselin"
+		birth_date = 1424.6.14
+		dynasty = "von Berwick"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 171
+	add_treasury = 181
+	add_prestige = 49
+}

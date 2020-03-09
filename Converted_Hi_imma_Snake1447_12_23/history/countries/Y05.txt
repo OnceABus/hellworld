@@ -1,0 +1,26 @@
+# Minsk
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4537
+1442.1.8 = {
+	monarch = {
+		name = "Ivan"
+		birth_date = 1397.12.18
+		dynasty = "Mozhavic"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 4537
+	add_treasury = 18
+	add_prestige = 41
+}

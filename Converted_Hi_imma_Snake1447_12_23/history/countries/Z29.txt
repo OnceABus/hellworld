@@ -1,0 +1,28 @@
+# Cilicia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = al_misr_arabic
+religion = jewish
+clear_scripted_personalities = yes
+capital = 327
+1416.12.24 = {
+	monarch = {
+		name = "Livia"
+		birth_date = 1400.1.20
+		dynasty = "Guerrazzi"
+		female = yes
+		adm = 3
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 327
+	add_treasury = 68
+	add_prestige = 135
+}

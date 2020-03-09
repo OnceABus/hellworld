@@ -1,0 +1,27 @@
+# Syrte
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = italian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 355
+1441.2.18 = {
+	monarch = {
+		name = "Adalberta"
+		birth_date = 1439.5.8
+		dynasty = "Borgia"
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = babbling_buffoon_personality
+}
+1444.11.11 = {
+	capital = 355
+	add_treasury = 18
+	add_prestige = 27
+}

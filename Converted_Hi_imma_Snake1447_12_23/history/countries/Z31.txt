@@ -1,0 +1,27 @@
+# Moesia
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 150
+1424.7.17 = {
+	monarch = {
+		name = "Chrysanthos"
+		birth_date = 1396.8.13
+		dynasty = "of  Nikopolis"
+		adm = 6
+		dip = 0
+		mil = 6
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 150
+	add_treasury = 506
+	add_prestige = 175
+}

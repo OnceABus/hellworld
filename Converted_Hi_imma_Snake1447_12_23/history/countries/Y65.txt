@@ -1,0 +1,26 @@
+# Samarra
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = italian
+religion = cathar
+clear_scripted_personalities = yes
+capital = 2310
+1442.12.7 = {
+	monarch = {
+		name = "Giano"
+		birth_date = 1410.1.15
+		dynasty = "Piga"
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 2310
+	add_treasury = 30
+	add_prestige = 38
+}

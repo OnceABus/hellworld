@@ -1,0 +1,26 @@
+# Adrianopolis
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 149
+1444.10.4 = {
+	monarch = {
+		name = "Leon II"
+		birth_date = 1378.9.24
+		dynasty = "StepOnTaxes"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 149
+	add_treasury = 25
+	add_prestige = 488
+}

@@ -1,0 +1,26 @@
+# Kasrid
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = kurdish
+religion = cathar
+clear_scripted_personalities = yes
+capital = 411
+1438.7.23 = {
+	monarch = {
+		name = "Pêšeng"
+		birth_date = 1418.7.21
+		dynasty = "Kasrid"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 411
+	add_treasury = 61
+	add_prestige = 75
+}

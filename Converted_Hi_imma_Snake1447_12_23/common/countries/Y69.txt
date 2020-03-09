@@ -1,0 +1,192 @@
+# Halab
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 85 232 20 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Yusuf" "Mu'izz" "Rashid ud-Dawlah Mahmud" "Sabiq Abu'l-Fada'il" "Negar" "Adil" "Adhid" "Salman" "Gozel" "Enûširwan" 
+	"Qutaiba" "Sharaf" "Kamran" "Arnolfo" "Augusto" "Luca" "Aleramo" "Alessio" "Manuele" "Mastino" 
+	"Tawfiq" "Jahan" "Mas'ud" "Murshid" "Zaia" "Aaron" "Abanoub" "Abderahman" "Abdul-Aziz" "Abdul-Haq" 
+	"Abdul-Madjid" "Abdul-Salaam" "Abianos" "Abisalom" "Ablarion" "Abraam" "Adnan" "Agathon" "Agathonikos" "Agathos" 
+	"Alam" "Amr" "Androus" "Anthinos" "Arsenios" "Ashraf" "Asim" "Athanasios" "Badr" "Bashir" 
+	"Biktor" "Binyamin" "Bishoi" "Boutros" "Danyal" "Dawlat" "Da’oud" "Farhan" "Firuz" "Gabri’el" 
+	"Georgios" "Ghiyasaddin" "Habil" "Hakam" "Hammud" "Hanri" "Haroun" "Hisham" "Ibrahim" "Ilyas" 
+	"Is'mail" "Izzaddin" "Jalaaladdin" "Jawdat" "Jerjer" "Kemaladdin" "Khalil" "Krystafer" "Latif" "Lot" 
+	"Malik" "Matta" "Mehtar" "Mikail" "Mikhael" "Milad" "Mina" "Mukhtar" "Murad" "Musa" 
+	"Muzaffaraddin" "Nabil" "Nasir" "Nassib" "Nuraddin" "Pamin" "Qadir" "Ra'uf" "Rafiq" "Ridwan" 
+	"Sabah" "Salim" "Sha'ban" "Sharif" "Suhail" "Tadros" "Tajaddin" "Tayyib" "Touma" "Usama" 
+	"Walid" "Yahya" "Yared" "Yassir" "Youkhanna" "Youssef" "Zakariyah" }
+monarch_names = {
+	"Yusuf #1" = 0
+	"Mu'izz #1" = 0
+	"Rashid ud-Dawlah Mahmud #1" = 0
+	"Sabiq Abu'l-Fada'il #1" = 0
+	"Negar #1" = -1
+	"Adil #1" = 0
+	"Adhid #1" = 0
+	"Salman #1" = 0
+	"Gozel #1" = -1
+	"Enûširwan #1" = 0
+	"Qutaiba #2" = 0
+	"Sharaf #2" = 0
+	"Kamran #1" = 0
+	"Arnolfo #1" = 0
+	"Augusto #1" = 0
+	"Luca #1" = 0
+	"Aleramo #1" = 0
+	"Alessio #1" = 0
+	"Manuele #1" = 0
+	"Mastino #1" = 0
+	"Tawfiq #1" = 0
+	"Jahan #1" = 0
+	"Mas'ud #1" = 0
+	"Murshid #1" = 0
+	"Zaia #1" = 0
+	"Aaron #0" = 0
+	"Abanoub #0" = 0
+	"Abderahman #0" = 0
+	"Abdul-Aziz #0" = 0
+	"Abdul-Haq #0" = 0
+	"Abdul-Madjid #0" = 0
+	"Abdul-Salaam #0" = 0
+	"Abianos #0" = 0
+	"Abisalom #0" = 0
+	"Ablarion #0" = 0
+	"Abraam #0" = 0
+	"Adnan #0" = 0
+	"Agathon #0" = 0
+	"Agathonikos #0" = 0
+	"Agathos #0" = 0
+	"Alam #0" = 0
+	"Amr #0" = 0
+	"Androus #0" = 0
+	"Anthinos #0" = 0
+	"Arsenios #0" = 0
+	"Ashraf #0" = 0
+	"Asim #0" = 0
+	"Athanasios #0" = 0
+	"Badr #0" = 0
+	"Bashir #0" = 0
+	"Biktor #0" = 0
+	"Binyamin #0" = 0
+	"Bishoi #0" = 0
+	"Boutros #0" = 0
+	"Danyal #0" = 0
+	"Dawlat #0" = 0
+	"Da’oud #0" = 0
+	"Farhan #0" = 0
+	"Firuz #0" = 0
+	"Gabri’el #0" = 0
+	"Georgios #0" = 0
+	"Ghiyasaddin #0" = 0
+	"Habil #0" = 0
+	"Hakam #0" = 0
+	"Hammud #0" = 0
+	"Hanri #0" = 0
+	"Haroun #0" = 0
+	"Hisham #0" = 0
+	"Ibrahim #0" = 0
+	"Ilyas #0" = 0
+	"Is'mail #0" = 0
+	"Izzaddin #0" = 0
+	"Jalaaladdin #0" = 0
+	"Jawdat #0" = 0
+	"Jerjer #0" = 0
+	"Kemaladdin #0" = 0
+	"Khalil #0" = 0
+	"Krystafer #0" = 0
+	"Latif #0" = 0
+	"Lot #0" = 0
+	"Malik #0" = 0
+	"Matta #0" = 0
+	"Mehtar #0" = 0
+	"Mikail #0" = 0
+	"Mikhael #0" = 0
+	"Milad #0" = 0
+	"Mina #0" = 0
+	"Mukhtar #0" = 0
+	"Murad #0" = 0
+	"Musa #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Nabil #0" = 0
+	"Nasir #0" = 0
+	"Nassib #0" = 0
+	"Nuraddin #0" = 0
+	"Pamin #0" = 0
+	"Qadir #0" = 0
+	"Ra'uf #0" = 0
+	"Rafiq #0" = 0
+	"Ridwan #0" = 0
+	"Sabah #0" = 0
+	"Salim #0" = 0
+	"Sha'ban #0" = 0
+	"Sharif #0" = 0
+	"Suhail #0" = 0
+	"Tadros #0" = 0
+	"Tajaddin #0" = 0
+	"Tayyib #0" = 0
+	"Touma #0" = 0
+	"Usama #0" = 0
+	"Walid #0" = 0
+	"Yahya #0" = 0
+	"Yared #0" = 0
+	"Yassir #0" = 0
+	"Youkhanna #0" = 0
+	"Youssef #0" = 0
+	"Zakariyah #0" = 0
+
+
+	"Thuriya #0" = -1
+	"Sacmis #0" = -1
+	"Andali #0" = -1
+}
+ship_names = {
+	Abathur "Adamn Kasia" "Aesma Daeva" Agas
+	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
+	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
+	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
+	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
+	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
+	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
+	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
+	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
+	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
+	"Zend-Avesta" Zurvan
+}
+

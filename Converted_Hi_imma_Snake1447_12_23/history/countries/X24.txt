@@ -1,0 +1,38 @@
+# Vigrharajid
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = jain
+clear_scripted_personalities = yes
+capital = 526
+1432.4.12 = {
+	monarch = {
+		name = "Bhojavarman II"
+		birth_date = 1424.5.2
+		dynasty = "Vigrharajid"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = careful_personality
+	heir = {
+		name = "Kumarapala"
+		monarch_name = "Kumarapala IV"
+		dynasty = "Vigrharajid"
+		birth_date = 1429.1.2
+		death_date = 1509.1.2
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_heir_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 526
+	add_treasury = 244
+	add_prestige = 204
+}

@@ -1,0 +1,28 @@
+# Timbuktu
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = berber
+religion = catholic
+clear_scripted_personalities = yes
+capital = 2247
+1406.12.24 = {
+	monarch = {
+		name = "Alberade"
+		birth_date = 1402.9.27
+		dynasty = "di Foggia"
+		female = yes
+		adm = 1
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = loose_lips_personality
+}
+1444.11.11 = {
+	capital = 2247
+	add_treasury = 27
+	add_prestige = 119
+}

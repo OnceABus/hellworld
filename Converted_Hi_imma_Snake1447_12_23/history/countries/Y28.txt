@@ -1,0 +1,38 @@
+# Temes
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = hungarian
+religion = fraticelli
+clear_scripted_personalities = yes
+capital = 156
+1439.3.24 = {
+	monarch = {
+		name = "Pál"
+		birth_date = 1405.4.8
+		dynasty = "Osli"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+	add_ruler_personality = scholar_personality
+}
+1447.4.6 = {
+	heir = {
+		name = "Dezsõ"
+		monarch_name = "Dezsõ"
+		dynasty = "Osli"
+		birth_date = 1447.4.6
+		death_date = 1527.4.6
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 156
+	add_treasury = 28
+	add_prestige = 36
+}

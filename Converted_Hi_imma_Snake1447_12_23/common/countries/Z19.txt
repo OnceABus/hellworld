@@ -1,0 +1,355 @@
+# Dipwoodia
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 255 225 40 }
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Walram" "Catone" "Razmouhi" "Vincenzo" "Xiangjun" "Gudrun" "Wolfram" "Friedrica" "Talore" "Gotzelo" 
+	"Oveco" "Albrecht" "Aldonza" "Giric" "Guiges" "Leonide" "Brunhilde" "Lennon" "Inga" "Eya" 
+	"Guntram" "Konstanze" "Ronalda" "Giovanna" "Kazimierz" "Judyta" "Álvaro" "Raynaud" "Beathoc" "Mechthild" 
+	"Edwin" "Martín" "Morna" "Wido" "Eufrozyna" "Gruoch" "Reinhard" "Przemyslaw" "Alois" "Vartouhi" 
+	"Inés" "Adam" "Muriel" "Conan" "Christine" "Meinhard" "Friedrich" "Francesca" "Henry" "Ute" 
+	"Anselm" "Manuele" "Tepes" "Rhonda" "Heike" "Frida" "Scholastyka" "Binhilde" "Gisela" "Ordoño" 
+	"Heilwiva" "Berengar" "Alexandru" "Adelasia" "Helga" "Matad" "Mariyam" "Dorothea" "Leopold" "Iona" 
+	"Agnes" "Ferdinand" "Günther" "Folkmar" "Fulko" "Jutta" "Kunigunde" "Heinrich" "Isentrude" "Sofie" 
+	"Katharina" "Adolf" "Erich" "Alberich" "Franz" "Osterhild" "Matthias" "Walpurga" "Ekbert" "Barbara" 
+	"Radbot" "Karlotte" "Adelheid" "Kuno" "Enric" "Gottschalk" "Baldomar" "Dietmar" "Ruprecht" "Amalie" 
+	"Hedwig" "Margarete" "Berta" "Manegold" "Dieter" "Ekkehard" "Alberade" "Helferich" "Kriemhild" "Irmele" 
+	"Berchte" "Ingeltrude" "Helene" "Hupold" "Wilhelm" "Hemma" "Ademar" "Walther" "Irmgard" "Ulrike" 
+	"Rutger" "Wigerich" "Nikolaus" "Hildeburg" "Adalbert" "Berenice" "Adelinde" "Emma" "Folkhard" "Georg" 
+	"Adalbero" "Zsigmond" "Engeltraud" "Adalberto" "Eginolf" "Cothilda" "Gzi" "Winfrida" "Alienora" "Cecilie" 
+	"Miklós" "Ludolf" "Illona" "Anastazja" "Wulfhilde" "Gerhild" "Klementia" "Emich" "Richwara" "Richenza" 
+	"Augustin" "Ludwig" "Philippos" "Amadeus" "Irmeltrud" "Marin" "Liudolf" "Gerberga" "Wilhelmina" "Wolfgang" 
+	"Adela" "Gertrude" "Bozena" "Arnulf" "Beatrix" "Wszemila" "Borzyslaw" "Dana" "Heribert" "Klingson" 
+	"Helena" "Klingonette" "Eufemia" "Gerlach" "Stefania" "Kenna" "Hildegard" "Beata" "Reinhold" "Ermengard" 
+	"Kunegunda" "dippy was here" "Stefan" "Juana" "Skarbimir" "Henrike" "Johann" "Vesd" "Morgan" "Ernst" 
+	"Vilhelm" "Siddick" "Abirad" "Gotthard" "Tatoul" "Oda" "Marthoc" "Landolf" "Victor" "Eldad" 
+	"Liutbert" "Wenzel" "Tornik" "Abas" "Aboughamr" "Aboulgharib" "Aleksandr" "Artashes" "Artashir" "Artavazd" 
+	"Arsen" "Arshak" "Ashot" "Athom" "Atrnerseh" "Avag" "Avedis" "Bagour" "Bagrat" "Bedros" 
+	"Boghos" "Davit" "Eshkhan" "Gagik" "Gevorg" "Gosdantin" "Grigor" "Gurgen" "Hagop" "Hamazasp" 
+	"Hethum" "Hovhannes" "Hovsep" "Ishkhan" "Ivane" "Kapriel" "Khachik" "Khosrov" "Levon" "Malkhas" 
+	"Mamigon" "Manuel" "Margos" "Melek" "Mihrdat" "Mikayel" "Mleh" "Mushegh" "Mushel" "Mzhezh" 
+	"Nerseh" "Oshin" "Roupen" "Sahag" "Sarkis" "Sevag" "Shahanshah" "Smbat" "Stepanos" "Tachat" 
+	"Taniel" "Tigran" "Tovmas" "Thoros" "Trdat" "Vache" "Vachagan" "Vagharshak" "Vahag" "Vahan" 
+	"Vahram" "Vakhtank" "Varazdat" "Vartan" "Vassak" "Vrtanes" "Zakare" "Zarmihr" }
+monarch_names = {
+	"Walram #0" = 1
+	"Catone #0" = 1
+	"Razmouhi #1" = -19
+	"Vincenzo #0" = 1
+	"Xiangjun #0" = -1
+	"Gudrun #0" = -1
+	"Wolfram #0" = 1
+	"Friedrica #0" = -1
+	"Talore #0" = 1
+	"Gotzelo #0" = 1
+	"Oveco #0" = 1
+	"Albrecht #0" = 1
+	"Aldonza #0" = -1
+	"Giric #0" = 1
+	"Guiges #0" = 1
+	"Leonide #0" = -1
+	"Brunhilde #0" = -1
+	"Lennon #0" = 1
+	"Inga #0" = -1
+	"Eya #0" = -1
+	"Guntram #0" = 1
+	"Konstanze #0" = -1
+	"Ronalda #0" = -1
+	"Giovanna #0" = -1
+	"Kazimierz #0" = 1
+	"Judyta #0" = -1
+	"Álvaro #0" = 1
+	"Raynaud #0" = 1
+	"Beathoc #0" = -1
+	"Mechthild #0" = -1
+	"Edwin #0" = 1
+	"Martín #0" = 1
+	"Morna #0" = -1
+	"Wido #0" = 1
+	"Eufrozyna #0" = -1
+	"Gruoch #0" = -1
+	"Reinhard #0" = 1
+	"Przemyslaw #0" = 1
+	"Alois #0" = 1
+	"Vartouhi #1" = -19
+	"Inés #0" = -1
+	"Adam #1" = 18
+	"Muriel #0" = -1
+	"Conan #0" = 1
+	"Christine #0" = -1
+	"Meinhard #0" = 1
+	"Friedrich #0" = 1
+	"Francesca #0" = -1
+	"Henry #0" = 1
+	"Ute #0" = -1
+	"Anselm #0" = 1
+	"Manuele #0" = 1
+	"Tepes #0" = 1
+	"Rhonda #0" = -1
+	"Heike #0" = -1
+	"Frida #0" = -1
+	"Scholastyka #0" = -1
+	"Binhilde #0" = -1
+	"Gisela #0" = -1
+	"Ordoño #0" = 1
+	"Heilwiva #0" = -1
+	"Berengar #0" = 1
+	"Alexandru #0" = 1
+	"Adelasia #0" = -1
+	"Helga #0" = -1
+	"Matad #0" = 1
+	"Mariyam #0" = -1
+	"Dorothea #0" = -1
+	"Leopold #0" = 1
+	"Iona #0" = -1
+	"Agnes #0" = -1
+	"Ferdinand #0" = 1
+	"Günther #0" = 1
+	"Folkmar #0" = 1
+	"Fulko #0" = 1
+	"Jutta #0" = -1
+	"Kunigunde #0" = -1
+	"Heinrich #0" = 1
+	"Isentrude #0" = -1
+	"Sofie #0" = -1
+	"Katharina #0" = -1
+	"Adolf #0" = 1
+	"Erich #0" = 1
+	"Alberich #0" = 1
+	"Franz #0" = 1
+	"Osterhild #0" = -1
+	"Matthias #0" = 1
+	"Walpurga #0" = -1
+	"Ekbert #0" = 1
+	"Barbara #0" = -1
+	"Radbot #0" = 1
+	"Karlotte #0" = -1
+	"Adelheid #0" = -1
+	"Kuno #0" = 1
+	"Enric #0" = 1
+	"Gottschalk #0" = 1
+	"Baldomar #0" = 1
+	"Dietmar #0" = 1
+	"Ruprecht #0" = 1
+	"Amalie #0" = -1
+	"Hedwig #0" = -1
+	"Margarete #0" = -1
+	"Berta #0" = -1
+	"Manegold #0" = 1
+	"Dieter #0" = 1
+	"Ekkehard #0" = 1
+	"Alberade #0" = -1
+	"Helferich #0" = 1
+	"Kriemhild #0" = -1
+	"Irmele #0" = -1
+	"Berchte #0" = -1
+	"Ingeltrude #0" = -1
+	"Helene #0" = -1
+	"Hupold #0" = 1
+	"Wilhelm #0" = 1
+	"Hemma #0" = -1
+	"Ademar #0" = 1
+	"Walther #0" = 1
+	"Irmgard #0" = -1
+	"Ulrike #0" = -1
+	"Rutger #0" = 1
+	"Wigerich #0" = 1
+	"Nikolaus #0" = 1
+	"Hildeburg #0" = -1
+	"Adalbert #1" = 30
+	"Berenice #0" = -1
+	"Adelinde #0" = -1
+	"Emma #0" = -1
+	"Folkhard #0" = 1
+	"Georg #0" = 1
+	"Adalbero #0" = 1
+	"Zsigmond #0" = 1
+	"Engeltraud #0" = -1
+	"Adalberto #0" = 1
+	"Eginolf #0" = 1
+	"Cothilda #0" = -1
+	"Gzi #0" = 1
+	"Winfrida #0" = -1
+	"Alienora #0" = -1
+	"Cecilie #0" = -1
+	"Miklós #0" = 1
+	"Ludolf #0" = 1
+	"Illona #0" = -1
+	"Anastazja #0" = -1
+	"Wulfhilde #0" = -1
+	"Gerhild #0" = -1
+	"Klementia #0" = -1
+	"Emich #0" = 1
+	"Richwara #0" = -1
+	"Richenza #0" = -1
+	"Augustin #0" = 1
+	"Ludwig #0" = 1
+	"Philippos #0" = 1
+	"Amadeus #0" = 1
+	"Irmeltrud #0" = -1
+	"Marin #0" = 1
+	"Liudolf #0" = 1
+	"Gerberga #0" = -1
+	"Wilhelmina #0" = -1
+	"Wolfgang #0" = 1
+	"Adela #0" = -1
+	"Gertrude #0" = -1
+	"Bozena #0" = -1
+	"Arnulf #0" = 1
+	"Beatrix #0" = -1
+	"Wszemila #0" = -1
+	"Borzyslaw #0" = 1
+	"Dana #0" = -1
+	"Heribert #0" = 1
+	"Klingson #0" = 1
+	"Helena #0" = -1
+	"Klingonette #1" = -22
+	"Eufemia #0" = -1
+	"Gerlach #0" = 1
+	"Stefania #0" = -1
+	"Kenna #0" = -1
+	"Hildegard #0" = -1
+	"Beata #0" = -1
+	"Reinhold #2" = 18
+	"Ermengard #0" = -1
+	"Kunegunda #0" = -1
+	"dippy was here #0" = 1
+	"Stefan #0" = 1
+	"Juana #0" = -1
+	"Skarbimir #0" = 1
+	"Henrike #0" = -1
+	"Johann #0" = 1
+	"Vesd #0" = 1
+	"Morgan #0" = 1
+	"Ernst #0" = 1
+	"Vilhelm #0" = 1
+	"Siddick #0" = 1
+	"Abirad #0" = 1
+	"Gotthard #0" = 1
+	"Tatoul #0" = 1
+	"Oda #0" = -1
+	"Marthoc #0" = -1
+	"Landolf #1" = 0
+	"Victor #1" = 0
+	"Eldad #1" = 0
+	"Liutbert #1" = 0
+	"Wenzel #1" = 0
+	"Tornik #1" = 0
+	"Abas #0" = 0
+	"Aboughamr #0" = 0
+	"Aboulgharib #0" = 0
+	"Aleksandr #0" = 0
+	"Artashes #0" = 0
+	"Artashir #0" = 0
+	"Artavazd #0" = 0
+	"Arsen #0" = 0
+	"Arshak #0" = 0
+	"Ashot #0" = 0
+	"Athom #0" = 0
+	"Atrnerseh #0" = 0
+	"Avag #0" = 0
+	"Avedis #0" = 0
+	"Bagour #0" = 0
+	"Bagrat #0" = 0
+	"Bedros #0" = 0
+	"Boghos #0" = 0
+	"Davit #0" = 0
+	"Eshkhan #0" = 0
+	"Gagik #0" = 0
+	"Gevorg #0" = 0
+	"Gosdantin #0" = 0
+	"Grigor #0" = 0
+	"Gurgen #0" = 0
+	"Hagop #0" = 0
+	"Hamazasp #0" = 0
+	"Hethum #0" = 0
+	"Hovhannes #0" = 0
+	"Hovsep #0" = 0
+	"Ishkhan #0" = 0
+	"Ivane #0" = 0
+	"Kapriel #0" = 0
+	"Khachik #0" = 0
+	"Khosrov #0" = 0
+	"Levon #0" = 0
+	"Malkhas #0" = 0
+	"Mamigon #0" = 0
+	"Manuel #0" = 0
+	"Margos #0" = 0
+	"Melek #0" = 0
+	"Mihrdat #0" = 0
+	"Mikayel #0" = 0
+	"Mleh #0" = 0
+	"Mushegh #0" = 0
+	"Mushel #0" = 0
+	"Mzhezh #0" = 0
+	"Nerseh #0" = 0
+	"Oshin #0" = 0
+	"Roupen #0" = 0
+	"Sahag #0" = 0
+	"Sarkis #0" = 0
+	"Sevag #0" = 0
+	"Shahanshah #0" = 0
+	"Smbat #0" = 0
+	"Stepanos #0" = 0
+	"Tachat #0" = 0
+	"Taniel #0" = 0
+	"Tigran #0" = 0
+	"Tovmas #0" = 0
+	"Thoros #0" = 0
+	"Trdat #0" = 0
+	"Vache #0" = 0
+	"Vachagan #0" = 0
+	"Vagharshak #0" = 0
+	"Vahag #0" = 0
+	"Vahan #0" = 0
+	"Vahram #0" = 0
+	"Vakhtank #0" = 0
+	"Varazdat #0" = 0
+	"Vartan #0" = 0
+	"Vassak #0" = 0
+	"Vrtanes #0" = 0
+	"Zakare #0" = 0
+	"Zarmihr #0" = 0
+}
+ship_names = {
+	Ariadne Habicht Adler Albatross Amazone
+	Arcona Basilisk Beowulf Biene Wespe Wolf
+	Nautilus Natter Otter Pelikan Pfeil Meteor
+	Möwe Mücke Luchs König Kaiser Eber Drache
+	Falke Frauenlob Freya Fuchs Gazelle Geier
+	Greif Condor Cormoran Comet Wacht Tiger
+	Seeadler Jaguar Hyäne Blitz Bremse Brummer
+	Bussard Vulkan
+}
+

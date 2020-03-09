@@ -1,0 +1,37 @@
+# Genoa
+government = republic
+add_government_reform = merchants_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = andalucian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 101
+1437.2.25 = {
+	monarch = {
+		name = "Sa'd"
+		birth_date = 1365.8.2
+		dynasty = "Cecilizzi"
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+	add_ruler_personality = benevolent_personality
+	heir = {
+		name = "Gian"
+		monarch_name = "Gian"
+		dynasty = "Cecilizzi"
+		birth_date = 1413.4.13
+		death_date = 1493.4.13
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+	add_heir_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 101
+	add_treasury = 126
+	add_prestige = 272
+}

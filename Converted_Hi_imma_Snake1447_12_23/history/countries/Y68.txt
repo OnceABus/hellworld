@@ -1,0 +1,26 @@
+# Faisalid
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = al_suryah_arabic
+religion = catholic
+clear_scripted_personalities = yes
+capital = 378
+1435.9.11 = {
+	monarch = {
+		name = "Majid"
+		birth_date = 1419.6.19
+		dynasty = "Faisalid"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 378
+	add_treasury = 45
+	add_prestige = 107
+}

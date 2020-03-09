@@ -1,0 +1,26 @@
+# Croatia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = croatian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 1826
+1438.8.5 = {
+	monarch = {
+		name = "Tedaldo"
+		birth_date = 1386.4.4
+		dynasty = "Radelchis"
+		adm = 4
+		dip = 0
+		mil = 6
+	}
+	add_ruler_personality = entrepreneur_personality
+}
+1444.11.11 = {
+	capital = 1826
+	add_treasury = -75
+	add_prestige = 140
+}

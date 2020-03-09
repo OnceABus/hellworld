@@ -1,0 +1,27 @@
+# Yatenga
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = mali
+religion = waldensian
+clear_scripted_personalities = yes
+capital = 1135
+1421.5.6 = {
+	monarch = {
+		name = "Fädazu"
+		birth_date = 1387.2.10
+		dynasty = "Fädazu"
+		adm = 1
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 1135
+	add_treasury = 0
+	add_prestige = 36
+}

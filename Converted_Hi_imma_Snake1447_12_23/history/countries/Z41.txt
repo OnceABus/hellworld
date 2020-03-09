@@ -1,0 +1,38 @@
+# Hi imma Snake
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = armenian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 81
+1429.10.24 = {
+	monarch = {
+		name = "Vakhtank"
+		birth_date = 1405.4.19
+		dynasty = "von Madman"
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = bold_fighter_personality
+	heir = {
+		name = "Athom"
+		monarch_name = "Athom"
+		dynasty = "von Madman"
+		birth_date = 1428.4.26
+		death_date = 1508.4.26
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+	add_heir_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 81
+	add_treasury = 39
+	add_prestige = 769
+}

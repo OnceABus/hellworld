@@ -1,0 +1,26 @@
+# Chauhan
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = assamese
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2070
+1443.5.4 = {
+	monarch = {
+		name = "Chandramukhavarman"
+		birth_date = 1404.1.4
+		dynasty = "Chauhan"
+		adm = 5
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 2070
+	add_treasury = 11
+	add_prestige = 652
+}

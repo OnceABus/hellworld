@@ -1,0 +1,27 @@
+# Zhilugu
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khitan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2355
+1433.2.6 = {
+	monarch = {
+		name = "Yaliguo"
+		birth_date = 1408.2.4
+		dynasty = "Zhilugu"
+		adm = 2
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 2355
+	add_treasury = 11
+	add_prestige = 108
+}

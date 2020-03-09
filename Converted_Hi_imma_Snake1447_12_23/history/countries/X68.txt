@@ -1,0 +1,26 @@
+# Wadai
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = daju
+religion = fraticelli
+clear_scripted_personalities = yes
+capital = 2932
+1441.10.8 = {
+	monarch = {
+		name = "Lanhjin II"
+		birth_date = 1401.10.4
+		dynasty = "Lanhjin"
+		adm = 0
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 2932
+	add_treasury = 10
+	add_prestige = 5
+}

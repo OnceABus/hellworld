@@ -1,0 +1,26 @@
+# Somerset
+government = republic
+add_government_reform = republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = anglo_saxon
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 239
+1438.6.24 = {
+	monarch = {
+		name = "Mei"
+		birth_date = 1422.6.7
+		dynasty = "Zang"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 239
+	add_treasury = 766
+	add_prestige = 142
+}

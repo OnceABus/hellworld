@@ -1,0 +1,39 @@
+# Katakid
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = oriya
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 552
+1436.9.28 = {
+	monarch = {
+		name = "Damodara"
+		birth_date = 1428.10.20
+		dynasty = "Katakid"
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = conqueror_personality
+}
+1438.1.7 = {
+	heir = {
+		name = "Prasannamatra"
+		monarch_name = "Prasannamatra"
+		dynasty = "Katakid"
+		birth_date = 1438.1.7
+		death_date = 1518.1.7
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_heir_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 552
+	add_treasury = 53
+	add_prestige = 94
+}

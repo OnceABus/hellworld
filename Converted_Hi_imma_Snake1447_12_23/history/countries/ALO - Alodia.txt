@@ -1,0 +1,26 @@
+# Alodia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = nubian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1222
+1435.3.5 = {
+	monarch = {
+		name = "Landolfo"
+		birth_date = 1395.4.25
+		dynasty = "di Gallen"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 1222
+	add_treasury = 20
+	add_prestige = 222
+}

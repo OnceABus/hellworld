@@ -1,0 +1,27 @@
+# Serbia
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1827
+1417.7.7 = {
+	monarch = {
+		name = "Giano II"
+		birth_date = 1384.10.7
+		dynasty = "di Vasto"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = inspiring_leader_personality
+}
+1444.11.11 = {
+	capital = 1827
+	add_treasury = 1018
+	add_prestige = 168
+}

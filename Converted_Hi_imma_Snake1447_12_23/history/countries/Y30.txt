@@ -1,0 +1,40 @@
+# Mordva
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = khitan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 301
+1434.2.26 = {
+	monarch = {
+		name = "Shouguonu"
+		birth_date = 1411.4.5
+		dynasty = "Yudu"
+		adm = 2
+		dip = 0
+		mil = 6
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = martial_educator_personality
+}
+1437.4.22 = {
+	heir = {
+		name = "Duolubu"
+		monarch_name = "Duolubu"
+		dynasty = "Yudu"
+		birth_date = 1437.4.22
+		death_date = 1517.4.22
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 301
+	add_treasury = 6
+	add_prestige = 193
+}

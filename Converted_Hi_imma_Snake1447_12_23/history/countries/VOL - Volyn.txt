@@ -1,0 +1,26 @@
+# Volhynia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian_culture
+religion = catholic
+clear_scripted_personalities = yes
+capital = 279
+1435.9.6 = {
+	monarch = {
+		name = "Reinhard III"
+		birth_date = 1427.11.9
+		dynasty = "von Madman"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = free_thinker_personality
+}
+1444.11.11 = {
+	capital = 279
+	add_treasury = 227
+	add_prestige = 238
+}

@@ -1,0 +1,27 @@
+# Tahert
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 2462
+1421.4.8 = {
+	monarch = {
+		name = "Ottone"
+		birth_date = 1389.3.8
+		dynasty = "di Pisa"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 2462
+	add_treasury = 271
+	add_prestige = 122
+}

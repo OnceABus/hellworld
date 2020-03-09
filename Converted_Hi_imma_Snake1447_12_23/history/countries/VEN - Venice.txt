@@ -1,0 +1,26 @@
+# Venice
+government = republic
+add_government_reform = republic
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+clear_scripted_personalities = yes
+capital = 112
+1441.3.21 = {
+	monarch = {
+		name = "Cecco"
+		birth_date = 1392.4.2
+		dynasty = "di Curlies"
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 112
+	add_treasury = 272
+	add_prestige = 687
+}

@@ -1,0 +1,27 @@
+# Zaranjid
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 4345
+1400.12.26 = {
+	monarch = {
+		name = "Goshtasb"
+		birth_date = 1392.8.3
+		dynasty = "Zaranjid"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 4345
+	add_treasury = 23
+	add_prestige = 141
+}

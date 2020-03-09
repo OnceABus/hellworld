@@ -1,0 +1,27 @@
+# Trier
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 80
+1425.11.10 = {
+	monarch = {
+		name = "Eshkhan"
+		birth_date = 1395.3.13
+		dynasty = "von  Trier"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 80
+	add_treasury = 53
+	add_prestige = 44
+}

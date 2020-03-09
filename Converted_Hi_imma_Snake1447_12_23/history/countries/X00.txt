@@ -1,0 +1,27 @@
+# Balingid
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khitan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 478
+1431.11.15 = {
+	monarch = {
+		name = "Wolila"
+		birth_date = 1389.1.2
+		dynasty = "Balingid"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = just_personality
+}
+1444.11.11 = {
+	capital = 478
+	add_treasury = 10
+	add_prestige = 230
+}

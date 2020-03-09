@@ -1,0 +1,27 @@
+# Transylvania
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = cuman
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 158
+1426.11.19 = {
+	monarch = {
+		name = "Uzluk II"
+		birth_date = 1423.9.16
+		dynasty = "Itil"
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = conqueror_personality
+}
+1444.11.11 = {
+	capital = 158
+	add_treasury = 15
+	add_prestige = 55
+}

@@ -1,0 +1,26 @@
+# Hougu
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = cuman
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2412
+1444.11.7 = {
+	monarch = {
+		name = "Fuguzhi"
+		birth_date = 1382.2.18
+		dynasty = "Hougu"
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 2412
+	add_treasury = 44
+	add_prestige = 14
+}

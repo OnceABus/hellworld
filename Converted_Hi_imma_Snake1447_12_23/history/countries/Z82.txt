@@ -1,0 +1,40 @@
+# Oppland
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 2
+1414.3.19 = {
+	monarch = {
+		name = "Merigo"
+		birth_date = 1384.6.30
+		dynasty = "Sismondi"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = expansionist_personality
+}
+1436.1.18 = {
+	heir = {
+		name = "Marsiglio"
+		monarch_name = "Marsiglio"
+		dynasty = "Sismondi"
+		birth_date = 1436.1.18
+		death_date = 1516.1.18
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 2
+	add_treasury = 46
+	add_prestige = 75
+}

@@ -1,0 +1,27 @@
+# Komi
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4257
+1442.7.31 = {
+	monarch = {
+		name = "Ruzava"
+		birth_date = 1412.9.24
+		dynasty = "Kezhevatid"
+		female = yes
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 4257
+	add_treasury = 21
+	add_prestige = 33
+}

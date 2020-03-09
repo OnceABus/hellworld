@@ -1,0 +1,26 @@
+# Israel
+government = republic
+add_government_reform = noble_elite_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = ashkenazi
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+capital = 151
+1444.12.12 = {
+	monarch = {
+		name = "Dimi"
+		birth_date = 1400.9.18
+		dynasty = "Ben Leonhard"
+		adm = 6
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+}
+1444.11.11 = {
+	capital = 151
+	add_treasury = 154
+	add_prestige = 19
+}

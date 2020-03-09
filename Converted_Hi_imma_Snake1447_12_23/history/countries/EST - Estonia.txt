@@ -1,0 +1,26 @@
+# Estonia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = estonian
+religion = cathar
+clear_scripted_personalities = yes
+capital = 36
+1436.7.27 = {
+	monarch = {
+		name = "Vootele"
+		birth_date = 1403.1.8
+		dynasty = "Harjumaa"
+		adm = 0
+		dip = 1
+		mil = 5
+	}
+	add_ruler_personality = strict_personality
+}
+1444.11.11 = {
+	capital = 36
+	add_treasury = 16
+	add_prestige = 30
+}

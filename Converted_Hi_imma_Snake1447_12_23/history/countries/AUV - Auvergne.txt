@@ -1,0 +1,27 @@
+# Auvergne
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = occitain
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4391
+1424.1.21 = {
+	monarch = {
+		name = "Loui"
+		birth_date = 1413.1.9
+		dynasty = "de Rouergue"
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 4391
+	add_treasury = 395
+	add_prestige = 24
+}

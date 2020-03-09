@@ -1,0 +1,38 @@
+# Hälsingland
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = norse_pagan_reformed
+clear_scripted_personalities = yes
+capital = 9
+1437.9.28 = {
+	monarch = {
+		name = "Annibale"
+		birth_date = 1398.4.8
+		dynasty = "di Norrala"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = cruel_personality
+}
+1444.9.19 = {
+	heir = {
+		name = "Annibale"
+		monarch_name = "Annibale II"
+		dynasty = "di Norrala"
+		birth_date = 1444.9.19
+		death_date = 1524.9.19
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 9
+	add_treasury = 113
+	add_prestige = 33
+}

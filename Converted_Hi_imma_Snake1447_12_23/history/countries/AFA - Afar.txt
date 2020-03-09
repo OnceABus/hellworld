@@ -1,0 +1,27 @@
+# Afar
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = coptic
+clear_scripted_personalities = yes
+capital = 2764
+1397.6.3 = {
+	monarch = {
+		name = "Lebna II"
+		birth_date = 1397.1.23
+		dynasty = "Assefid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = tolerant_personality
+}
+1444.11.11 = {
+	capital = 2764
+	add_treasury = 9
+	add_prestige = 304
+}

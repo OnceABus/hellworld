@@ -1,0 +1,27 @@
+# Nuosi
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khitan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2117
+1429.2.13 = {
+	monarch = {
+		name = "Nuosi"
+		birth_date = 1390.9.18
+		dynasty = "Nuosi"
+		adm = 2
+		dip = 0
+		mil = 6
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = martial_educator_personality
+}
+1444.11.11 = {
+	capital = 2117
+	add_treasury = 13
+	add_prestige = 147
+}

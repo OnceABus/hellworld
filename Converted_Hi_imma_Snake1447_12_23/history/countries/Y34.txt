@@ -1,0 +1,39 @@
+# Noujin
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = khitan
+religion = catholic
+clear_scripted_personalities = yes
+capital = 4129
+1431.9.14 = {
+	monarch = {
+		name = "Helü II"
+		birth_date = 1397.9.22
+		dynasty = "Noujin"
+		adm = 6
+		dip = 0
+		mil = 5
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1438.1.10 = {
+	heir = {
+		name = "Xiduguan"
+		monarch_name = "Xiduguan"
+		dynasty = "Noujin"
+		birth_date = 1438.1.10
+		death_date = 1518.1.10
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	capital = 4129
+	add_treasury = 14
+	add_prestige = 161
+}

@@ -1,0 +1,97 @@
+# Algarve
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 202 88 5 }
+
+
+
+
+leader_names = {
+
+	"Amr" "Gaspare" "Letizia" "Dora" "Delinda" "Camilla" "Germano" "Siddray" "Huda" "Abdul-Aziz" 
+	"Khadija" "Maha" "Sa'd" "Gamila" "Simonetto" "Gastone" "Silvestro" "Ghada" "Landolfo" "Umm" 
+	"Hilal" "Ottone" "Alessandra" "Agnese" "Antonella" "Jyad" "Abda" "Ausilia" "al-Mundir" "Abbad" 
+	"Butayna" "Rashid" "Balashk" "Lopo" "Marinha" "Lubb" "Vasco" "Abdallah" "Garcia" "Mária" 
+	"Patrizio" "Berta" "Abdul-Hakam" "Abdul-Hasan" "Abdul-Hazm" "Abdul-Rahman" "Abdul-Razzaq" "Abu" "Adfuns" "Ayyub" 
+	"Bilal" "Fadl" "Fath" "Galind" "Garsiya" "Hakam" "Ibrahim" "Isma'il" "Ma'n" "Mubashir" 
+	"Mundir" "Musa" "Muyahid" "Raf" "Rasiq" "Sanyo" "Suleyman" "Tariq" "Tifilwit" "Umar" 
+	"Utman" "Wannaqo" "Ya'far" "Yahaff" "Yahya" "Yusuf" }
+monarch_names = {
+	"Amr #0" = 1
+	"Gaspare #0" = 1
+	"Letizia #1" = -19
+	"Dora #0" = -1
+	"Delinda #0" = -1
+	"Camilla #0" = -1
+	"Germano #0" = 1
+	"Siddray #0" = 1
+	"Huda #0" = -1
+	"Abdul-Aziz #1" = 27
+	"Khadija #0" = -1
+	"Maha #0" = -1
+	"Sa'd #0" = 1
+	"Gamila #0" = -1
+	"Simonetto #0" = 1
+	"Gastone #0" = 1
+	"Silvestro #0" = 1
+	"Ghada #0" = -1
+	"Landolfo #0" = 1
+	"Umm #0" = -1
+	"Hilal #2" = 24
+	"Ottone #0" = 1
+	"Alessandra #0" = -1
+	"Agnese #0" = -1
+	"Antonella #0" = -1
+	"Jyad #4" = 18
+	"Abda #0" = -1
+	"Ausilia #0" = -1
+	"al-Mundir #1" = 0
+	"Abbad #2" = 0
+	"Butayna #1" = -1
+	"Rashid #1" = 0
+	"Balashk #1" = 0
+	"Lopo #3" = 0
+	"Marinha #1" = -1
+	"Lubb #1" = 0
+	"Vasco #1" = 0
+	"Abdallah #1" = 0
+	"Garcia #1" = 0
+	"Mária #1" = -1
+	"Patrizio #1" = 0
+	"Berta #1" = -1
+	"Abdul-Hakam #0" = 0
+	"Abdul-Hasan #0" = 0
+	"Abdul-Hazm #0" = 0
+	"Abdul-Rahman #0" = 0
+	"Abdul-Razzaq #0" = 0
+	"Abu #0" = 0
+	"Adfuns #0" = 0
+	"Ayyub #0" = 0
+	"Bilal #0" = 0
+	"Fadl #0" = 0
+	"Fath #0" = 0
+	"Galind #0" = 0
+	"Garsiya #0" = 0
+	"Hakam #0" = 0
+	"Ibrahim #0" = 0
+	"Isma'il #0" = 0
+	"Ma'n #0" = 0
+	"Mubashir #0" = 0
+	"Mundir #0" = 0
+	"Musa #0" = 0
+	"Muyahid #0" = 0
+	"Raf #0" = 0
+	"Rasiq #0" = 0
+	"Sanyo #0" = 0
+	"Suleyman #0" = 0
+	"Tariq #0" = 0
+	"Tifilwit #0" = 0
+	"Umar #0" = 0
+	"Utman #0" = 0
+	"Wannaqo #0" = 0
+	"Ya'far #0" = 0
+	"Yahaff #0" = 0
+	"Yahya #0" = 0
+	"Yusuf #0" = 0
+}
+

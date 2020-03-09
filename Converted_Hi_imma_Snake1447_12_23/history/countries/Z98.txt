@@ -1,0 +1,26 @@
+# Yatvingia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = german
+religion = cathar
+clear_scripted_personalities = yes
+capital = 1937
+1437.10.4 = {
+	monarch = {
+		name = "Thomas"
+		birth_date = 1436.11.8
+		dynasty = "von Landau"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 1937
+	add_treasury = 48
+	add_prestige = 8
+}

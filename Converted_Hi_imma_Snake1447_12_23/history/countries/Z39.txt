@@ -1,0 +1,40 @@
+# Søreyar
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norwegian
+religion = waldensian
+clear_scripted_personalities = yes
+capital = 253
+1430.5.12 = {
+	monarch = {
+		name = "Faílbe"
+		birth_date = 1407.4.14
+		dynasty = "Uí Maine"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1434.11.14 = {
+	heir = {
+		name = "Matad"
+		monarch_name = "Matad"
+		dynasty = "Uí Maine"
+		birth_date = 1434.11.14
+		death_date = 1514.11.14
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 253
+	add_treasury = 153
+	add_prestige = 78
+}

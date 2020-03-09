@@ -1,0 +1,27 @@
+# Balkh
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 450
+1436.3.8 = {
+	monarch = {
+		name = "Bhagi"
+		birth_date = 1404.8.26
+		dynasty = "Munzirid"
+		female = yes
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = fierce_negotiator_personality
+}
+1444.11.11 = {
+	capital = 450
+	add_treasury = 35
+	add_prestige = 220
+}

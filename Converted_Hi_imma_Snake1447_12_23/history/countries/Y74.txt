@@ -1,0 +1,24 @@
+# Alexandria
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = italian
+religion = hellenic_pagan
+clear_scripted_personalities = yes
+1444.9.2 = {
+	monarch = {
+		name = "Abu"
+		birth_date = 1428.8.26
+		dynasty = "Razzaqid"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	add_treasury = 2
+	add_prestige = 23
+}

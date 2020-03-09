@@ -1,0 +1,39 @@
+# Baygal
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norwegian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 370
+1431.12.9 = {
+	monarch = {
+		name = "Tyushtya II"
+		birth_date = 1422.2.15
+		dynasty = "Purysho"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = drunkard_personality
+	heir = {
+		name = "Ravzhava"
+		monarch_name = "Ravzhava"
+		dynasty = "Purysho"
+		birth_date = 1422.7.15
+		death_date = 1502.7.15
+		female = yes
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+	add_heir_personality = just_personality
+}
+1444.11.11 = {
+	capital = 370
+	add_treasury = 186
+	add_prestige = 56
+}

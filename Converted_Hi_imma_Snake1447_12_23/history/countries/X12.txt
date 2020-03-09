@@ -1,0 +1,38 @@
+# Vengi Chalukya
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = tamil
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 540
+1443.8.20 = {
+	monarch = {
+		name = "Irâcakecaripanmar"
+		birth_date = 1419.12.23
+		dynasty = "Vengi Chalukya"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = inspiring_leader_personality
+}
+1444.1.27 = {
+	heir = {
+		name = "Ariñcaya"
+		monarch_name = "Ariñcaya II"
+		dynasty = "Vengi Chalukya"
+		birth_date = 1444.1.27
+		death_date = 1524.1.27
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 540
+	add_treasury = 6
+	add_prestige = 429
+}

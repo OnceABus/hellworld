@@ -1,0 +1,27 @@
+# Yaik
+government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = cuman
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 1966
+1412.3.13 = {
+	monarch = {
+		name = "Yilie"
+		birth_date = 1409.3.13
+		dynasty = "Sougu"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = infertile_personality
+}
+1444.11.11 = {
+	capital = 1966
+	add_treasury = 5
+	add_prestige = 146
+}

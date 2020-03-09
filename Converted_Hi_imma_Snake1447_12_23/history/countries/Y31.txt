@@ -1,0 +1,27 @@
+# Kartli
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = georgian
+religion = orthodox
+clear_scripted_personalities = yes
+capital = 423
+1441.4.17 = {
+	monarch = {
+		name = "Gregoria"
+		birth_date = 1386.2.12
+		dynasty = "Doukas"
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 423
+	add_treasury = 60
+	add_prestige = 408
+}

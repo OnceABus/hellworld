@@ -1,0 +1,180 @@
+# Wagadu
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 52 130 227 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+
+historical_units = {
+	african_spearmen
+	mali_tribal_warfare
+	african_hill_warfare
+	niger_kongolese_gunpowder_warfare
+	westernized_niger_kongolese
+	african_western_franchise_warfare
+}
+
+
+
+leader_names = {
+
+	"Khinialon" "Timëreç" "Omurtag" "Labertam" "Almish" "Alzek" "Anzi" "Apskhih" "Araslan" "Asparukh" 
+	"Balamber" "Bars" "Bataul" "Batbayan" "Batoya" "Batulia" "Bayan" "Belkermak" "Bezmer" "Boyan" 
+	"Bulger" "Buzan" "Chepa" "Chinialush" "Dengizikh" "Dizeng" "Dometa" "Dristar" "Drong" "Dukum" 
+	"Ellak" "Elemag" "Ernakh" "Eskhakh" "Goleda" "Gostun" "Guar" "Hudbad" "Iani" "Irnek" 
+	"Isbul" "Islivan" "Isperikh" "Ispor" "Kälaç" "Kano" "Karan" "Karaton" "Kardam" "Kharaton" 
+	"Khudbard" "Kordil" "Kormesiy" "Kormisosh" "Kotrag" "Krovat" "Krum" "Kuber" "Kubrat" "Kurt" 
+	"Kutrigur" "Kuvrat" "Magotin" "Malamir" "Mugel" "Odolgan" "Okhsi" "Okhsun" "Okors" "Onegavon" 
+	"Organ" "Organa" "Ornag" "Oshi" "Ostro" "Pagan" "Pakhtiyar" "Paväl" "Praksa" "Rassate" 
+	"Rugila" "Sabin" "Sandil" "Sandilkh" "Sarkhan" "Sartäç" "Savin" "Sevar" "Shilki" "Sondoke" 
+	"Tähtaman" "Tarasiy" "Taridin" "Tatra" "Telec" "Telerig" "Tervel" "Timër" "Timërpälat" "Tingiz" 
+	"Tiradin" "Tokhtaman" "Toktu" "Tsog" "Tsul" "Tuk" "Umor" "Uturgur" "Vakrim" "Venda" 
+	"Vetam" "Vinekh" "Yani" "Yavantey" "Yençepi" "Yerneslu" "Yeçtirek" "Zabergan" "Zenti" "Tukiy" 
+	"Aydar" "Irkhan" "Batir" }
+monarch_names = {
+	"Khinialon #0" = 1
+	"Timëreç #0" = 1
+	"Omurtag #0" = 1
+	"Labertam #0" = 1
+	"Almish #0" = 0
+	"Alzek #0" = 0
+	"Anzi #0" = 0
+	"Apskhih #0" = 0
+	"Araslan #0" = 0
+	"Asparukh #0" = 0
+	"Balamber #0" = 0
+	"Bars #0" = 0
+	"Bataul #0" = 0
+	"Batbayan #0" = 0
+	"Batoya #0" = 0
+	"Batulia #0" = 0
+	"Bayan #0" = 0
+	"Belkermak #0" = 0
+	"Bezmer #0" = 0
+	"Boyan #0" = 0
+	"Bulger #0" = 0
+	"Buzan #0" = 0
+	"Chepa #0" = 0
+	"Chinialush #0" = 0
+	"Dengizikh #0" = 0
+	"Dizeng #0" = 0
+	"Dometa #0" = 0
+	"Dristar #0" = 0
+	"Drong #0" = 0
+	"Dukum #0" = 0
+	"Ellak #0" = 0
+	"Elemag #0" = 0
+	"Ernakh #0" = 0
+	"Eskhakh #0" = 0
+	"Goleda #0" = 0
+	"Gostun #0" = 0
+	"Guar #0" = 0
+	"Hudbad #0" = 0
+	"Iani #0" = 0
+	"Irnek #0" = 0
+	"Isbul #0" = 0
+	"Islivan #0" = 0
+	"Isperikh #0" = 0
+	"Ispor #0" = 0
+	"Kälaç #0" = 0
+	"Kano #0" = 0
+	"Karan #0" = 0
+	"Karaton #0" = 0
+	"Kardam #0" = 0
+	"Kharaton #0" = 0
+	"Khudbard #0" = 0
+	"Kordil #0" = 0
+	"Kormesiy #0" = 0
+	"Kormisosh #0" = 0
+	"Kotrag #0" = 0
+	"Krovat #0" = 0
+	"Krum #0" = 0
+	"Kuber #0" = 0
+	"Kubrat #0" = 0
+	"Kurt #0" = 0
+	"Kutrigur #0" = 0
+	"Kuvrat #0" = 0
+	"Magotin #0" = 0
+	"Malamir #0" = 0
+	"Mugel #0" = 0
+	"Odolgan #0" = 0
+	"Okhsi #0" = 0
+	"Okhsun #0" = 0
+	"Okors #0" = 0
+	"Onegavon #0" = 0
+	"Organ #0" = 0
+	"Organa #0" = 0
+	"Ornag #0" = 0
+	"Oshi #0" = 0
+	"Ostro #0" = 0
+	"Pagan #0" = 0
+	"Pakhtiyar #0" = 0
+	"Paväl #0" = 0
+	"Praksa #0" = 0
+	"Rassate #0" = 0
+	"Rugila #0" = 0
+	"Sabin #0" = 0
+	"Sandil #0" = 0
+	"Sandilkh #0" = 0
+	"Sarkhan #0" = 0
+	"Sartäç #0" = 0
+	"Savin #0" = 0
+	"Sevar #0" = 0
+	"Shilki #0" = 0
+	"Sondoke #0" = 0
+	"Tähtaman #0" = 0
+	"Tarasiy #0" = 0
+	"Taridin #0" = 0
+	"Tatra #0" = 0
+	"Telec #0" = 0
+	"Telerig #0" = 0
+	"Tervel #0" = 0
+	"Timër #0" = 0
+	"Timërpälat #0" = 0
+	"Tingiz #0" = 0
+	"Tiradin #0" = 0
+	"Tokhtaman #0" = 0
+	"Toktu #0" = 0
+	"Tsog #0" = 0
+	"Tsul #0" = 0
+	"Tuk #0" = 0
+	"Umor #0" = 0
+	"Uturgur #0" = 0
+	"Vakrim #0" = 0
+	"Venda #0" = 0
+	"Vetam #0" = 0
+	"Vinekh #0" = 0
+	"Yani #0" = 0
+	"Yavantey #0" = 0
+	"Yençepi #0" = 0
+	"Yerneslu #0" = 0
+	"Yeçtirek #0" = 0
+	"Zabergan #0" = 0
+	"Zenti #0" = 0
+	"Tukiy #0" = 0
+	"Aydar #0" = 0
+	"Irkhan #0" = 0
+	"Batir #0" = 0
+
+
+	"Yasar #0" = -1
+	"Özgul #0" = -1
+	"Sibel #0" = -1
+	"Savaçka #0" = -1
+	"Tekçe #0" = -1
+}
+ship_names = {
+	Kiringa Timbuktu "Koumbi Saleh" Gao
+	Jenne "Sundiata Keita" "Kankan Musa"
+	"Kouroukan Fouga" "Wali Keita" "Quati Keita"
+	"Khalifa Keita" Sakura
+}
+

@@ -1,0 +1,26 @@
+# Methone
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = lollard
+clear_scripted_personalities = yes
+capital = 145
+1438.11.3 = {
+	monarch = {
+		name = "Orestes"
+		birth_date = 1412.7.13
+		dynasty = "Chalkites"
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = expansionist_personality
+}
+1444.11.11 = {
+	capital = 145
+	add_treasury = 42
+	add_prestige = -8
+}

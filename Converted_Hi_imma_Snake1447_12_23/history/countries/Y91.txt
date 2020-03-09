@@ -1,0 +1,27 @@
+# Yanchege
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khitan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2434
+1426.4.28 = {
+	monarch = {
+		name = "Yanchege"
+		birth_date = 1400.1.3
+		dynasty = "Yanchege"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 2434
+	add_treasury = 18
+	add_prestige = 82
+}
